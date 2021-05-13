@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_cmp","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif","type": "STRING","mode": "NULLABLE"},
+{"name": "mon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdo1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo4","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo5","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo6","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo7","type": "NUMERIC","mode": "NULLABLE"}
+
+]

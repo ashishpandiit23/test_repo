@@ -1,0 +1,13 @@
+[
+{"name": "fecapli","type": "DATE","mode": "NULLABLE"},
+{"name": "horaapi","type": "STRING","mode": "NULLABLE"},
+{"name": "fecafec","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subpro","type": "STRING","mode": "NULLABLE"},
+{"name": "impint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impintcam","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasadia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasacam","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "proceso","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "cve_mes","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "num_client","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "perfil","type": "STRING","mode": "NULLABLE"}
+
+]

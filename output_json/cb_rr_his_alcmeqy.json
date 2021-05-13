@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "folio1","type": "STRING","mode": "NULLABLE"},
+{"name": "folio2","type": "STRING","mode": "NULLABLE"},
+{"name": "divisa","type": "STRING","mode": "NULLABLE"},
+{"name": "folio3","type": "STRING","mode": "NULLABLE"},
+{"name": "folio4","type": "STRING","mode": "NULLABLE"},
+{"name": "divisa2","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

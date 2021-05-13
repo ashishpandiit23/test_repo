@@ -1,0 +1,14 @@
+[
+{"name": "co_numcli","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_nomcli","type": "STRING","mode": "REQUIRED"},
+{"name": "co_ultfec","type": "DATE","mode": "REQUIRED"},
+{"name": "co_numcis","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_numcliny","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_persona","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_numpla","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_gendiv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_usureg","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_fecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "co_horreg","type": "STRING","mode": "REQUIRED"}
+
+]

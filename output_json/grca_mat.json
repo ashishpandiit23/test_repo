@@ -1,0 +1,9 @@
+[
+{"name": "numorden","type": "STRING","mode": "REQUIRED"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "cnt","type": "INTEGER","mode": "NULLABLE"}
+
+]

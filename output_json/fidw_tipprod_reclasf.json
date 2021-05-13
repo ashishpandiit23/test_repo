@@ -1,0 +1,6 @@
+[
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod_rec","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

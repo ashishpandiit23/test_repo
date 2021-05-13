@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "preciolimpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preciosucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "duracion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "regla","type": "STRING","mode": "NULLABLE"},
+{"name": "fchpip","type": "DATE","mode": "NULLABLE"},
+{"name": "frec_cupon","type": "INTEGER","mode": "NULLABLE"}
+
+]

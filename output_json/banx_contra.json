@@ -1,0 +1,6 @@
+[
+{"name": "tts_cont","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "banx_cont","type": "STRING","mode": "NULLABLE"}
+
+]

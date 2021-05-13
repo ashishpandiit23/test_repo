@@ -1,0 +1,14 @@
+[
+{"name": "accountid","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy1","type": "STRING","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "STRING","mode": "NULLABLE"},
+{"name": "fchliq","type": "STRING","mode": "NULLABLE"},
+{"name": "event","type": "STRING","mode": "NULLABLE"},
+{"name": "deb_cred","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy2","type": "STRING","mode": "NULLABLE"},
+{"name": "postingtype","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_summit","type": "STRING","mode": "NULLABLE"}
+
+]

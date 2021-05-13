@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "aplication","type": "STRING","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

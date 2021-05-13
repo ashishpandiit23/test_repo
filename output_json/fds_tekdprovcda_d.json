@@ -1,0 +1,15 @@
+[
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "subproducto","type": "STRING","mode": "NULLABLE"},
+{"name": "int_ant","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_mov","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sig_intproy","type": "STRING","mode": "NULLABLE"},
+{"name": "int_proy","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sig_difproy","type": "STRING","mode": "NULLABLE"},
+{"name": "dif_int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_dia","type": "NUMERIC","mode": "NULLABLE"}
+
+]

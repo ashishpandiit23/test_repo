@@ -1,0 +1,15 @@
+[
+{"name": "payment_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "subproduct","type": "STRING","mode": "NULLABLE"},
+{"name": "evtype","type": "STRING","mode": "NULLABLE"},
+{"name": "settle_ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "treats_acronym","type": "STRING","mode": "NULLABLE"},
+{"name": "original_counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "source","type": "STRING","mode": "NULLABLE"},
+{"name": "status_stamp","type": "INTEGER","mode": "NULLABLE"}
+
+]

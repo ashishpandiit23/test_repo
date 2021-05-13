@@ -1,0 +1,10 @@
+[
+{"name": "nrcons","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "initial_amt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "additions_amt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reversals_amt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accummulated_impairment_amt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_inc_impairment_amt","type": "NUMERIC","mode": "NULLABLE"}
+
+]

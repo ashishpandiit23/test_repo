@@ -1,0 +1,6 @@
+[
+{"name": "num_client","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "des_nomb","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_sec_econo","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,13 @@
+[
+{"name": "id_reconciliacion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_proceso","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_ytd_dps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_ytd_ajuste","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_ytd_sicobi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_ytd_dif","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "id_concepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_dps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "observaciones","type": "STRING","mode": "NULLABLE"}
+
+]

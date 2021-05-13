@@ -1,0 +1,15 @@
+[
+{"name": "cliente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "producto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "folio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_documento","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_subdocto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "des_doc_sub","type": "STRING","mode": "NULLABLE"},
+{"name": "ref_doc_cred","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_alta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha_recibe","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_prod","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_aplicacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_actcan","type": "STRING","mode": "NULLABLE"}
+
+]

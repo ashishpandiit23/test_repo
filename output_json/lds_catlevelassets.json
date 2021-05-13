@@ -1,0 +1,9 @@
+[
+{"name": "level_asset","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_sec","type": "STRING","mode": "NULLABLE"},
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"}
+
+]

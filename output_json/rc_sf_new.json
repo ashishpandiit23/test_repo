@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "REQUIRED"},
+{"name": "sistema","type": "STRING","mode": "REQUIRED"},
+{"name": "num_id","type": "STRING","mode": "REQUIRED"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoop","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monrecibi","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mtorecibi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monentre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mtoentre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy_mtm","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mtment","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy_mtment","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,10 @@
+[
+{"name": "fchprc","type": "DATE","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "idejer","type": "STRING","mode": "NULLABLE"},
+{"name": "idsubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

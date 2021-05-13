@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "n_intercompany_rec","type": "STRING","mode": "NULLABLE"},
+{"name": "n_intercompany_ent","type": "STRING","mode": "NULLABLE"},
+{"name": "n_thirdparty_rec","type": "STRING","mode": "NULLABLE"},
+{"name": "n_thirdparty_ent","type": "STRING","mode": "NULLABLE"},
+{"name": "v_intercompany_pos","type": "STRING","mode": "NULLABLE"},
+{"name": "v_intercompany_neg","type": "STRING","mode": "NULLABLE"},
+{"name": "v_thirdparty_pos","type": "STRING","mode": "NULLABLE"},
+{"name": "v_thirdparty_neg","type": "STRING","mode": "NULLABLE"},
+{"name": "fecreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_registro","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"}
+
+]

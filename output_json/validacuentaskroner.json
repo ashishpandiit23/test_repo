@@ -1,0 +1,7 @@
+[
+{"name": "nrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "suma_sdocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec","type": "DATE","mode": "NULLABLE"}
+
+]

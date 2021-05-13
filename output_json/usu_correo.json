@@ -1,0 +1,6 @@
+[
+{"name": "cve_usu","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nom_usu","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_correo","type": "STRING","mode": "NULLABLE"}
+
+]

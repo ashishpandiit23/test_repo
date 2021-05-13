@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "num_deals","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sum_notionals","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sum_mtms","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "xpd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ngr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "xpd_addon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "collateral_id","type": "STRING","mode": "NULLABLE"},
+{"name": "collateral_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "collateral_curr","type": "STRING","mode": "NULLABLE"},
+{"name": "inflows_mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "in_collateral_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "outflow_mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "out_collateral_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "underlying","type": "STRING","mode": "NULLABLE"},
+{"name": "net_agreement","type": "STRING","mode": "NULLABLE"},
+{"name": "operation_limit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "market","type": "STRING","mode": "NULLABLE"},
+{"name": "inflows30c_mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "outflows30c_mtm","type": "NUMERIC","mode": "NULLABLE"}
+
+]

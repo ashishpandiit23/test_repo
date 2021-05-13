@@ -1,0 +1,8 @@
+[
+{"name": "nombre_tabla","type": "STRING","mode": "REQUIRED"},
+{"name": "nombre_proceso","type": "STRING","mode": "REQUIRED"},
+{"name": "nombre_cifras_ctrl","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_proceso","type": "STRING","mode": "REQUIRED"},
+{"name": "intervalo_tiempo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

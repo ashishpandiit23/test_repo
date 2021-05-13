@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "sec","type": "STRING","mode": "NULLABLE"},
+{"name": "tipmonto","type": "STRING","mode": "NULLABLE"},
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nropai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "monc","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cnscta","type": "STRING","mode": "NULLABLE"},
+{"name": "ctagrca","type": "STRING","mode": "NULLABLE"}
+
+]

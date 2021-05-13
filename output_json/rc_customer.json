@@ -1,0 +1,7 @@
+[
+{"name": "num_cliente","type": "STRING","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "porcentaje","type": "INTEGER","mode": "NULLABLE"}
+
+]

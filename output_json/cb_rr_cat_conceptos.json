@@ -1,0 +1,15 @@
+[
+{"name": "cve_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "seccion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "elemento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_prod_bxo","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "llave","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "leyenda","type": "STRING","mode": "NULLABLE"},
+{"name": "regla","type": "STRING","mode": "NULLABLE"},
+{"name": "formato_a","type": "STRING","mode": "NULLABLE"},
+{"name": "formato_b","type": "STRING","mode": "NULLABLE"}
+
+]

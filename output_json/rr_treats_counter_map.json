@@ -1,0 +1,6 @@
+[
+{"name": "cve_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_sis_orig","type": "STRING","mode": "NULLABLE"},
+{"name": "sis_origen","type": "STRING","mode": "NULLABLE"}
+
+]

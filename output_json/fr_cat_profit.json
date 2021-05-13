@@ -1,0 +1,8 @@
+[
+{"name": "id_profit","type": "INTEGER","mode": "REQUIRED"},
+{"name": "profit_c","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_pos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif_ifrs","type": "STRING","mode": "NULLABLE"}
+
+]

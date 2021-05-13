@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vof","type": "NUMERIC","mode": "NULLABLE"}
+
+]

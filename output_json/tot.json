@@ -1,0 +1,11 @@
+[
+{"name": "totfchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "tablascodi","type": "STRING","mode": "REQUIRED"},
+{"name": "totvalagr","type": "STRING","mode": "REQUIRED"},
+{"name": "totdxv","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "totimpope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "totimpope2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "totimpope3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "totimpope4","type": "NUMERIC","mode": "NULLABLE"}
+
+]

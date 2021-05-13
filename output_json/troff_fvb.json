@@ -1,0 +1,5 @@
+[
+{"name": "datos_ope","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

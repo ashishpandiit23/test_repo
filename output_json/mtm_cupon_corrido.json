@@ -1,0 +1,8 @@
+[
+{"name": "ccy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "cvepais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "accrued_cupon","type": "NUMERIC","mode": "NULLABLE"}
+
+]

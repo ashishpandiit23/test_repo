@@ -1,0 +1,10 @@
+[
+{"name": "id_emision","type": "INTEGER","mode": "REQUIRED"},
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_description","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_institucion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_country","type": "INTEGER","mode": "NULLABLE"}
+
+]

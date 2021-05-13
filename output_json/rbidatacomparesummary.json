@@ -1,0 +1,7 @@
+[
+{"name": "fchinf_f","type": "DATE","mode": "NULLABLE"},
+{"name": "process","type": "STRING","mode": "NULLABLE"},
+{"name": "stat_name","type": "STRING","mode": "NULLABLE"},
+{"name": "stat_value","type": "STRING","mode": "NULLABLE"}
+
+]

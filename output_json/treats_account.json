@@ -1,0 +1,23 @@
+[
+{"name": "fecinf","type": "DATE","mode": "NULLABLE"},
+{"name": "acc_type","type": "STRING","mode": "NULLABLE"},
+{"name": "reporting_entity","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "x1","type": "STRING","mode": "NULLABLE"},
+{"name": "descri","type": "STRING","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "codaux","type": "STRING","mode": "NULLABLE"},
+{"name": "rep_ent2","type": "STRING","mode": "NULLABLE"},
+{"name": "branch2","type": "STRING","mode": "NULLABLE"},
+{"name": "product_type","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_position","type": "STRING","mode": "NULLABLE"},
+{"name": "dp_num","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "x3","type": "STRING","mode": "NULLABLE"},
+{"name": "x4","type": "STRING","mode": "NULLABLE"},
+{"name": "x5","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"}
+
+]

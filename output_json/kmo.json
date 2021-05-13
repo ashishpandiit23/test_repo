@@ -1,0 +1,22 @@
+[
+{"name": "kmofchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "kmocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "kmokdacns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "kmoctamex","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "kmoempres","type": "INTEGER","mode": "NULLABLE"},
+{"name": "kmonroamo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "kmofchpag","type": "DATE","mode": "NULLABLE"},
+{"name": "kmosdoamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "kmosdotot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "kmodiaven","type": "INTEGER","mode": "NULLABLE"},
+{"name": "kmocodcal","type": "STRING","mode": "NULLABLE"},
+{"name": "kmocodsta","type": "STRING","mode": "NULLABLE"},
+{"name": "kmonumcre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "kmofchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "kmomodali","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "kmohorreg","type": "STRING","mode": "NULLABLE"},
+{"name": "kmonomusu","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvestapar","type": "NUMERIC","mode": "NULLABLE"}
+
+]

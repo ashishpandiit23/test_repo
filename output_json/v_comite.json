@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "no_reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "no_comite","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

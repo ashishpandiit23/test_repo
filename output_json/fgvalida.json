@@ -1,0 +1,7 @@
+[
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "bloque","type": "STRING","mode": "NULLABLE"},
+{"name": "desbloque","type": "STRING","mode": "NULLABLE"},
+{"name": "desgrca","type": "STRING","mode": "NULLABLE"}
+
+]

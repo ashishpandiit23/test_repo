@@ -1,0 +1,5 @@
+[
+{"name": "llave","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs_final","type": "NUMERIC","mode": "NULLABLE"}
+
+]

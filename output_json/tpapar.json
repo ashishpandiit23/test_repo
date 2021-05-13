@@ -1,0 +1,19 @@
+[
+{"name": "numren","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codmatriz","type": "STRING","mode": "NULLABLE"},
+{"name": "region","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo_min","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo_max","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_inf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rango_sup","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

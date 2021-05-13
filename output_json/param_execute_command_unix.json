@@ -1,0 +1,6 @@
+[
+{"name": "comando","type": "STRING","mode": "NULLABLE"},
+{"name": "comp_ini","type": "STRING","mode": "NULLABLE"},
+{"name": "comp_fin","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "montocont","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipoop","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "numopera","type": "STRING","mode": "NULLABLE"},
+{"name": "monprima","type": "INTEGER","mode": "NULLABLE"},
+{"name": "precontrato","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preconteod","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "DATE","mode": "NULLABLE"},
+{"name": "activo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pasivo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dias_activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dias_pasivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"}
+
+]

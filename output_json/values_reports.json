@@ -1,0 +1,9 @@
+[
+{"name": "dt_process_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "id_report_name","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_id_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"},
+{"name": "dt_fecha_cap","type": "DATE","mode": "NULLABLE"}
+
+]

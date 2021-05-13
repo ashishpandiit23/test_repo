@@ -1,0 +1,16 @@
+[
+{"name": "fecha_inf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "iinstr","type": "STRING","mode": "NULLABLE"},
+{"name": "iinstdep","type": "STRING","mode": "NULLABLE"},
+{"name": "iemision","type": "STRING","mode": "NULLABLE"},
+{"name": "iserie","type": "STRING","mode": "NULLABLE"},
+{"name": "calif_vector","type": "STRING","mode": "NULLABLE"},
+{"name": "indiceini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ncupones","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "namort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ntit_riesgo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diascup1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mesxcup","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "isin","type": "STRING","mode": "NULLABLE"}
+
+]

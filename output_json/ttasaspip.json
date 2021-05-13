@@ -1,0 +1,5 @@
+[
+{"name": "desc1","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa1","type": "NUMERIC","mode": "NULLABLE"}
+
+]

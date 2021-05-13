@@ -1,0 +1,11 @@
+[
+{"name": "id_campo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "mes","type": "STRING","mode": "NULLABLE"},
+{"name": "personas","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cartera","type": "STRING","mode": "NULLABLE"},
+{"name": "pagominimo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdonoint","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "numcta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numcte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha","type": "INTEGER","mode": "NULLABLE"}
+
+]

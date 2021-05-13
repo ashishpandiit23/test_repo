@@ -1,0 +1,12 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_persona","type": "STRING","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv_cap","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv_int","type": "NUMERIC","mode": "NULLABLE"}
+
+]

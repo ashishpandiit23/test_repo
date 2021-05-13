@@ -1,0 +1,17 @@
+[
+{"name": "fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "montoini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diasdev","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intxpag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intxcob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impcupcob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impprecob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "margenf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "geninfl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "perdinf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "margefec","type": "NUMERIC","mode": "NULLABLE"}
+
+]

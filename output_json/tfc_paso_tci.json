@@ -1,0 +1,6 @@
+[
+{"name": "mon_cambio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nom_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "num_moneda","type": "INTEGER","mode": "NULLABLE"}
+
+]

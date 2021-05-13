@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "brach","type": "STRING","mode": "NULLABLE"},
+{"name": "text","type": "STRING","mode": "NULLABLE"}
+
+]

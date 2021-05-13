@@ -1,0 +1,5 @@
+[
+{"name": "mdys","type": "STRING","mode": "NULLABLE"},
+{"name": "grado_riesgo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

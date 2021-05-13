@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "inscontra","type": "STRING","mode": "NULLABLE"},
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "h_t","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_contra","type": "STRING","mode": "NULLABLE"},
+{"name": "crr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exposure","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchven","type": "DATE","mode": "NULLABLE"},
+{"name": "valor","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "sqlerror","type": "INTEGER","mode": "NULLABLE"},
+{"name": "isamerror","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sqldescripcion","type": "STRING","mode": "NULLABLE"}
+
+]

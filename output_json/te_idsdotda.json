@@ -1,0 +1,23 @@
+[
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_cencos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_sec_eco","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_suc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_prom1","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ints_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_ints","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_prox_vencto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "int_bruto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_ini_pagare","type": "INTEGER","mode": "NULLABLE"},
+{"name": "int_cob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_vector","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

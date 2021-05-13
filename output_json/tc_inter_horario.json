@@ -1,0 +1,7 @@
+[
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "hra_limite","type": "DATEtime","mode": "NULLABLE"},
+{"name": "hra_inicial","type": "DATEtime","mode": "NULLABLE"},
+{"name": "hra_termino","type": "DATEtime","mode": "NULLABLE"}
+
+]

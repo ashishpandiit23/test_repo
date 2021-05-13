@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipoc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ii_abs","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ii_cv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ii_cf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ie_abs","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ie_cv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ie_cf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "r_abs","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "r_cv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "r_cf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "u_abs","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "u_cv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "u_cf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "c_abs","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "c_cv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "c_cf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tip_tab","type": "STRING","mode": "NULLABLE"}
+
+]

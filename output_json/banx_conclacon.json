@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "numtitt","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

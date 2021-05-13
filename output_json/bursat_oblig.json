@@ -1,0 +1,7 @@
+[
+{"name": "producto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "folio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "imp_oblig","type": "NUMERIC","mode": "NULLABLE"}
+
+]

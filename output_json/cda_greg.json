@@ -1,0 +1,8 @@
+[
+{"name": "periodo","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

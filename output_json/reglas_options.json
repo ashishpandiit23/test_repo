@@ -1,0 +1,20 @@
+[
+{"name": "id_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cod_aux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "aux","type": "STRING","mode": "NULLABLE"},
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "product_type","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_monto","type": "STRING","mode": "NULLABLE"},
+{"name": "act_pas","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clas_contable","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "intercompany","type": "INTEGER","mode": "NULLABLE"}
+
+]

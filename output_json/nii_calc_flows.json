@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "id_stress","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "REQUIRED"},
+{"name": "tipord","type": "STRING","mode": "REQUIRED"},
+{"name": "bucket","type": "INTEGER","mode": "REQUIRED"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_bhvr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_bhvr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_on","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_on","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "balance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_balance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "inc_aop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_aop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "fxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_real","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_vector","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "cve_grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_usu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "to","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,11 @@
+[
+{"name": "id_report_name","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_id_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tx_report_name","type": "STRING","mode": "NULLABLE"},
+{"name": "tx_field_name","type": "STRING","mode": "NULLABLE"},
+{"name": "me_get_qry","type": "STRING","mode": "NULLABLE"},
+{"name": "am_genera_oper","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_base","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_type_fuction","type": "INTEGER","mode": "NULLABLE"}
+
+]

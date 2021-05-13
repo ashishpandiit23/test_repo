@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "vigente","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "lp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

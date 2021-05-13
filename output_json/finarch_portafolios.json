@@ -1,0 +1,9 @@
+[
+{"name": "interfaz","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "fecreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

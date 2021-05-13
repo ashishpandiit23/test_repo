@@ -1,0 +1,9 @@
+[
+{"name": "c1","type": "STRING","mode": "NULLABLE"},
+{"name": "c2","type": "STRING","mode": "NULLABLE"},
+{"name": "c3","type": "STRING","mode": "NULLABLE"},
+{"name": "c4","type": "STRING","mode": "NULLABLE"},
+{"name": "c5","type": "STRING","mode": "NULLABLE"},
+{"name": "c6","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,16 @@
+[
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "n_intercompany_recibir","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "n_thirdparty_recibir","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "n_intercompany_entregar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "n_thirdparty_entregar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_positivo_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_positivo_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_negativo_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_negativo_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ints","type": "NUMERIC","mode": "NULLABLE"}
+
+]

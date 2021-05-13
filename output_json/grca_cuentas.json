@@ -1,0 +1,8 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "concatenado","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

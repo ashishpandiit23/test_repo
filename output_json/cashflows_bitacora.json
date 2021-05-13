@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "accion","type": "STRING","mode": "NULLABLE"},
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "hora","type": "DATEtime","mode": "NULLABLE"}
+
+]

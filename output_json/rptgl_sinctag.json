@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "id_reg","type": "STRING","mode": "NULLABLE"},
+{"name": "imp","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_sic","type": "STRING","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_sic","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_grca","type": "STRING","mode": "NULLABLE"}
+
+]

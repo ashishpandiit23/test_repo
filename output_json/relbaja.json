@@ -1,0 +1,13 @@
+[
+{"name": "codint","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomcampo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipcampo","type": "STRING","mode": "NULLABLE"},
+{"name": "valcampo","type": "STRING","mode": "NULLABLE"},
+{"name": "comentario","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "nomusu","type": "STRING","mode": "NULLABLE"}
+
+]

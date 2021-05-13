@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeid","type": "STRING","mode": "NULLABLE"},
+{"name": "type_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "subtype_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "leg","type": "STRING","mode": "NULLABLE"},
+{"name": "from","type": "STRING","mode": "NULLABLE"},
+{"name": "to","type": "STRING","mode": "NULLABLE"},
+{"name": "fixing","type": "STRING","mode": "NULLABLE"},
+{"name": "int_days","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "strike","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "forward","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spread","type": "STRING","mode": "NULLABLE"},
+{"name": "alln_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "payment","type": "STRING","mode": "NULLABLE"},
+{"name": "flows","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "days","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "zero","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "discount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "present_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "index","type": "STRING","mode": "NULLABLE"},
+{"name": "term","type": "STRING","mode": "NULLABLE"}
+
+]

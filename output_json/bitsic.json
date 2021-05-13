@@ -1,0 +1,12 @@
+[
+{"name": "numapli","type": "INTEGER","mode": "REQUIRED"},
+{"name": "desapli","type": "STRING","mode": "REQUIRED"},
+{"name": "email","type": "STRING","mode": "REQUIRED"},
+{"name": "fchrecep","type": "STRING","mode": "REQUIRED"},
+{"name": "horrecep","type": "STRING","mode": "REQUIRED"},
+{"name": "statusrecep","type": "INTEGER","mode": "REQUIRED"},
+{"name": "statuterror","type": "INTEGER","mode": "REQUIRED"},
+{"name": "lotes","type": "INTEGER","mode": "REQUIRED"},
+{"name": "numreg","type": "INTEGER","mode": "REQUIRED"}
+
+]

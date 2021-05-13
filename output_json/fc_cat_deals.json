@@ -1,0 +1,5 @@
+[
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "deal","type": "STRING","mode": "NULLABLE"}
+
+]

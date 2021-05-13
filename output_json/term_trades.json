@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tradeid","type": "STRING","mode": "NULLABLE"},
+{"name": "term_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "effective_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "orig_ma_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "term_status","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "load_type","type": "STRING","mode": "NULLABLE"},
+{"name": "load_ver","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

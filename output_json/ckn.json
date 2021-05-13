@@ -1,0 +1,20 @@
+[
+{"name": "cknnumcte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cknnombre","type": "STRING","mode": "NULLABLE"},
+{"name": "cknnumcre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cknmoneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ckncuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cknfchalt","type": "DATE","mode": "NULLABLE"},
+{"name": "cknfchven","type": "DATE","mode": "NULLABLE"},
+{"name": "cknimport","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cknscavig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ckntsaint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ckncodcal","type": "STRING","mode": "NULLABLE"},
+{"name": "cknimprov","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ckncvecre","type": "STRING","mode": "NULLABLE"},
+{"name": "ckncodsta","type": "STRING","mode": "NULLABLE"},
+{"name": "cknfchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "cknhorreg","type": "STRING","mode": "NULLABLE"},
+{"name": "ckncodusu","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,26 @@
+[
+{"name": "fgenominter","type": "STRING","mode": "NULLABLE"},
+{"name": "fgeseagma","type": "STRING","mode": "NULLABLE"},
+{"name": "fgeseapty","type": "STRING","mode": "NULLABLE"},
+{"name": "fgeseacty","type": "STRING","mode": "NULLABLE"},
+{"name": "fgetipope","type": "STRING","mode": "NULLABLE"},
+{"name": "fgedescrip","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecamhsbc","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecamcveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecampais","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecammoneda","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecamsegccl","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecamcont","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecamcodaux","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecamnumaux","type": "STRING","mode": "NULLABLE"},
+{"name": "fgeinsgrca","type": "STRING","mode": "NULLABLE"},
+{"name": "fgeempgrca","type": "STRING","mode": "NULLABLE"},
+{"name": "fgepaigrca","type": "STRING","mode": "NULLABLE"},
+{"name": "fgemongrca","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecamctagrca","type": "STRING","mode": "NULLABLE"},
+{"name": "fgeindcont","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fgefchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "fgehorreg","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecodusu","type": "STRING","mode": "NULLABLE"}
+
+]

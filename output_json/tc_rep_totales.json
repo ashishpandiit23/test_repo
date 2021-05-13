@@ -1,0 +1,14 @@
+[
+{"name": "num_institucion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_empresa","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "num_renglon_destin","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_columna_destin","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_renglon_origen","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_operacion","type": "STRING","mode": "REQUIRED"},
+{"name": "sta_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_regist","type": "DATE","mode": "NULLABLE"},
+{"name": "hor_regist","type": "DATEtime","mode": "NULLABLE"},
+{"name": "usu_regist","type": "STRING","mode": "NULLABLE"}
+
+]

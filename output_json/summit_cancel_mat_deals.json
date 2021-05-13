@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "customer","type": "STRING","mode": "NULLABLE"},
+{"name": "currency","type": "STRING","mode": "NULLABLE"},
+{"name": "pors","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_status","type": "STRING","mode": "NULLABLE"}
+
+]

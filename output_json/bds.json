@@ -1,0 +1,7 @@
+[
+{"name": "bdscns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "bdsnom","type": "STRING","mode": "NULLABLE"},
+{"name": "bdsint","type": "STRING","mode": "NULLABLE"},
+{"name": "bdsips","type": "STRING","mode": "NULLABLE"}
+
+]

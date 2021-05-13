@@ -1,0 +1,6 @@
+[
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "beta","type": "NUMERIC","mode": "NULLABLE"}
+
+]

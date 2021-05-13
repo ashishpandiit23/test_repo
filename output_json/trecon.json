@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "branch","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "tbalance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ebalance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sbalance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diference","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "expcode","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

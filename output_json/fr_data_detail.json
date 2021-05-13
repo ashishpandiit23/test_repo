@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_section","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subsection","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_row","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_column","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_db_record","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_db_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "db_table","type": "STRING","mode": "NULLABLE"},
+{"name": "db_field","type": "STRING","mode": "NULLABLE"},
+{"name": "db_field_value","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "hrreg","type": "STRING","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "id_country","type": "INTEGER","mode": "NULLABLE"}
+
+]

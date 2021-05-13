@@ -1,0 +1,7 @@
+[
+{"name": "idbucket","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "inicio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fin","type": "INTEGER","mode": "NULLABLE"}
+
+]

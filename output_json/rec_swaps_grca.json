@@ -1,0 +1,8 @@
+[
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "ap","type": "STRING","mode": "NULLABLE"},
+{"name": "cpy","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "no_cred","type": "STRING","mode": "NULLABLE"},
+{"name": "avaluo","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_cred","type": "STRING","mode": "NULLABLE"}
+
+]

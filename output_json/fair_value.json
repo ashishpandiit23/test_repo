@@ -1,0 +1,12 @@
+[
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capital_base","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_base","type": "NUMERIC","mode": "NULLABLE"}
+
+]

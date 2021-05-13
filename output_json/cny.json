@@ -1,0 +1,21 @@
+[
+{"name": "cnyctenyp","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cnycomnyp","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cnynroref","type": "STRING","mode": "REQUIRED"},
+{"name": "cnynomcte","type": "STRING","mode": "NULLABLE"},
+{"name": "cnynromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cnyctamex","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cnycodlib","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cnyfchini","type": "STRING","mode": "NULLABLE"},
+{"name": "cnyfchter","type": "STRING","mode": "NULLABLE"},
+{"name": "cnyimpcac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cnyimptas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cnycodcal","type": "STRING","mode": "NULLABLE"},
+{"name": "cnyimprov","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cnycvecre","type": "STRING","mode": "NULLABLE"},
+{"name": "cnycodsta","type": "STRING","mode": "NULLABLE"},
+{"name": "cnyfchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "cnyhorreg","type": "STRING","mode": "NULLABLE"},
+{"name": "cnycodusu","type": "STRING","mode": "NULLABLE"}
+
+]

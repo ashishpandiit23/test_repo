@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "codmatriz","type": "STRING","mode": "NULLABLE"},
+{"name": "region","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "fecini","type": "DATE","mode": "NULLABLE"},
+{"name": "fecven","type": "DATE","mode": "NULLABLE"},
+{"name": "cveplazo","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

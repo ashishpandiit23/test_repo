@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "folio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fch_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"}
+
+]

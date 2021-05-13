@@ -1,0 +1,8 @@
+[
+{"name": "nomcol","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "aux_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_summit","type": "STRING","mode": "NULLABLE"}
+
+]

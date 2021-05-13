@@ -1,0 +1,7 @@
+[
+{"name": "id_impresion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_columna","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_renglon","type": "INTEGER","mode": "REQUIRED"},
+{"name": "informacion","type": "STRING","mode": "REQUIRED"}
+
+]

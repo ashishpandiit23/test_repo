@@ -1,0 +1,8 @@
+[
+{"name": "emi_serie","type": "STRING","mode": "NULLABLE"},
+{"name": "issuer","type": "STRING","mode": "NULLABLE"},
+{"name": "guarantor","type": "STRING","mode": "NULLABLE"},
+{"name": "isin","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_descrip","type": "STRING","mode": "NULLABLE"}
+
+]

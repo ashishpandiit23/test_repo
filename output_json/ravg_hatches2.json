@@ -1,0 +1,8 @@
+[
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchcalc","type": "DATE","mode": "NULLABLE"},
+{"name": "idprod","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "buying","type": "INTEGER","mode": "NULLABLE"}
+
+]

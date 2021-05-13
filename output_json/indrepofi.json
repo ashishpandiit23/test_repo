@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasapromcete","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipocambdls","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipocambdlsp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipocambudip","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomint","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

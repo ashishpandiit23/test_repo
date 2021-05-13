@@ -1,0 +1,12 @@
+[
+{"name": "fec_proceso","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha_mov","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_sociedad","type": "STRING","mode": "NULLABLE"},
+{"name": "clase_accionaria","type": "STRING","mode": "NULLABLE"},
+{"name": "fact_dist_bco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fact_adm_bco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fact_cust_bco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fact_dist_cdb","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fact_act_ope","type": "NUMERIC","mode": "NULLABLE"}
+
+]

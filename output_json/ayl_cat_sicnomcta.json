@@ -1,0 +1,6 @@
+[
+{"name": "current_code","type": "STRING","mode": "NULLABLE"},
+{"name": "sicnomcta","type": "STRING","mode": "NULLABLE"},
+{"name": "new_code","type": "STRING","mode": "NULLABLE"}
+
+]

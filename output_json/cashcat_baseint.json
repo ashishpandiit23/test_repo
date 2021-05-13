@@ -1,0 +1,5 @@
+[
+{"name": "base_int","type": "STRING","mode": "NULLABLE"},
+{"name": "base","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clasif_local","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif_ifrs","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "posicion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seguimiento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"},
+{"name": "flag","type": "INTEGER","mode": "NULLABLE"}
+
+]

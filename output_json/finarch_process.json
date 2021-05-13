@@ -1,0 +1,9 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "proceso","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

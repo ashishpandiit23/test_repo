@@ -1,0 +1,7 @@
+[
+{"name": "folio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario1","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario2","type": "STRING","mode": "NULLABLE"}
+
+]

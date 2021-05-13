@@ -1,0 +1,5 @@
+[
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_contable","type": "STRING","mode": "NULLABLE"}
+
+]

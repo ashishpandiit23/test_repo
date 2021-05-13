@@ -1,0 +1,9 @@
+[
+{"name": "payment_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"},
+{"name": "subproduct","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "treats_acronym","type": "STRING","mode": "NULLABLE"}
+
+]

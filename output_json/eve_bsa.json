@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fundrate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "present_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv_p200bp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_p200bp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "eve_p200bp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv_l200bp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_l200bp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "eve_l200bp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

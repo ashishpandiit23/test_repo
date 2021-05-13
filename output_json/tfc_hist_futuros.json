@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "contrato","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "nocional_abierta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

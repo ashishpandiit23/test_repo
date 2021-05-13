@@ -1,0 +1,11 @@
+[
+{"name": "numopera","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cveoriop","type": "STRING","mode": "NULLABLE"},
+{"name": "fchiniint","type": "DATE","mode": "NULLABLE"},
+{"name": "impint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "portafolio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

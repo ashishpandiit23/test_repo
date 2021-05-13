@@ -1,0 +1,6 @@
+[
+{"name": "idprod","type": "STRING","mode": "NULLABLE"},
+{"name": "idsprod","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"}
+
+]

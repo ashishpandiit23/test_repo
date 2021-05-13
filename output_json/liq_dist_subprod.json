@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "idsubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "slp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "persona","type": "STRING","mode": "NULLABLE"}
+
+]

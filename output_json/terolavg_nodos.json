@@ -1,0 +1,16 @@
+[
+{"name": "fecha_inf","type": "DATE","mode": "NULLABLE"},
+{"name": "ejer","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_2yr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_3yr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_5yr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cash","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nploans","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "llprov","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "demdep","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cta_maestra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interpractica","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intercuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "equity","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "id_country","type": "INTEGER","mode": "REQUIRED"},
+{"name": "country","type": "STRING","mode": "NULLABLE"}
+
+]

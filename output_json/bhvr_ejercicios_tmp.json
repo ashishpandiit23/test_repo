@@ -1,0 +1,6 @@
+[
+{"name": "idejer","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "STRING","mode": "NULLABLE"}
+
+]

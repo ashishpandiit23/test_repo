@@ -1,0 +1,17 @@
+[
+{"name": "id_mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "des_dps","type": "STRING","mode": "NULLABLE"},
+{"name": "des_libro","type": "STRING","mode": "NULLABLE"},
+{"name": "des_clase","type": "STRING","mode": "NULLABLE"},
+{"name": "des_subclase","type": "STRING","mode": "NULLABLE"},
+{"name": "des_rubro","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "STRING","mode": "NULLABLE"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"},
+{"name": "subprofit","type": "STRING","mode": "NULLABLE"},
+{"name": "account","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing","type": "STRING","mode": "NULLABLE"},
+{"name": "existe","type": "INTEGER","mode": "NULLABLE"},
+{"name": "proceso","type": "INTEGER","mode": "NULLABLE"}
+
+]

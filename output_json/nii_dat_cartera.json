@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "INTEGER","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "amort_b","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_parallel_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_parallel_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_ramp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_ramp_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_b","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_parallel_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_parallel_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_ramp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_ramp_r","type": "NUMERIC","mode": "NULLABLE"}
+
+]

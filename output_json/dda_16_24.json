@@ -1,0 +1,11 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_prom_dda","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_pag","type": "NUMERIC","mode": "NULLABLE"}
+
+]

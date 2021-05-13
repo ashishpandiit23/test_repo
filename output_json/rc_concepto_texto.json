@@ -1,0 +1,16 @@
+[
+{"name": "reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "c_agre","type": "INTEGER","mode": "REQUIRED"},
+{"name": "orden","type": "INTEGER","mode": "REQUIRED"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "formato","type": "STRING","mode": "NULLABLE"},
+{"name": "deep","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ponderado","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_importe","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo_sic","type": "STRING","mode": "NULLABLE"}
+
+]

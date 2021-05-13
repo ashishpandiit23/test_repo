@@ -1,0 +1,9 @@
+[
+{"name": "id_comenta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "comentario","type": "STRING","mode": "NULLABLE"},
+{"name": "plan","type": "STRING","mode": "NULLABLE"},
+{"name": "antig","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_mod","type": "DATE","mode": "NULLABLE"}
+
+]

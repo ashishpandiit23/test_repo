@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "percap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_amort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "diasmeses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_break","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_break_gb","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor_desc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor_desc_gb","type": "NUMERIC","mode": "NULLABLE"}
+
+]

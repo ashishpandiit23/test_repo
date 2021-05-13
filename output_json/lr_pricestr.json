@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden_seg","type": "INTEGER","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "order_type","type": "INTEGER","mode": "NULLABLE"},
+{"name": "typeofaccounts","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "customer_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "current_vof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dif","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sum_int_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sum_vof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_mercado","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_over","type": "NUMERIC","mode": "NULLABLE"}
+
+]

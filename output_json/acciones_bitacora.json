@@ -1,0 +1,5 @@
+[
+{"name": "tx_accion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tx_desc","type": "STRING","mode": "REQUIRED"}
+
+]

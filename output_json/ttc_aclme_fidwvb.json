@@ -1,0 +1,7 @@
+[
+{"name": "des_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "tpo_cam_mxn","type": "STRING","mode": "NULLABLE"},
+{"name": "tpo_cam_usd","type": "STRING","mode": "NULLABLE"}
+
+]

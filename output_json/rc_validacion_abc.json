@@ -1,0 +1,13 @@
+[
+{"name": "formulario","type": "STRING","mode": "REQUIRED"},
+{"name": "num_validacion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "limite_nominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "limite_porcentual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "operador","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_val_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_val_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "nivel_diagnostico","type": "STRING","mode": "NULLABLE"},
+{"name": "mensaje_error","type": "STRING","mode": "NULLABLE"},
+{"name": "especificaciones","type": "STRING","mode": "NULLABLE"}
+
+]

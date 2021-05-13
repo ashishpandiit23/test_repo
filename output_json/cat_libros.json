@@ -1,0 +1,5 @@
+[
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "short_description","type": "STRING","mode": "NULLABLE"}
+
+]

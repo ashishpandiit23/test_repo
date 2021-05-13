@@ -1,0 +1,19 @@
+[
+{"name": "contraparte","type": "STRING","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "ghoclass","type": "STRING","mode": "NULLABLE"},
+{"name": "secbanxico","type": "STRING","mode": "NULLABLE"},
+{"name": "secfecrep","type": "STRING","mode": "NULLABLE"},
+{"name": "incorpration","type": "STRING","mode": "NULLABLE"},
+{"name": "residence","type": "STRING","mode": "NULLABLE"},
+{"name": "industrycode","type": "STRING","mode": "NULLABLE"},
+{"name": "cbid","type": "STRING","mode": "NULLABLE"},
+{"name": "saif_code_mm","type": "STRING","mode": "NULLABLE"},
+{"name": "saif_code_fx","type": "STRING","mode": "NULLABLE"},
+{"name": "rfc","type": "STRING","mode": "NULLABLE"},
+{"name": "paren_acro","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_cred_rat","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_cred_rat","type": "STRING","mode": "NULLABLE"},
+{"name": "saif_code_capt","type": "STRING","mode": "NULLABLE"}
+
+]

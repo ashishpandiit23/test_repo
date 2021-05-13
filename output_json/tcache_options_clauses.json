@@ -1,0 +1,9 @@
+[
+{"name": "end_date","type": "STRING","mode": "NULLABLE"},
+{"name": "pay_date","type": "STRING","mode": "NULLABLE"},
+{"name": "value_level","type": "STRING","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "fidw_unique_id","type": "STRING","mode": "NULLABLE"},
+{"name": "min_rebate","type": "STRING","mode": "NULLABLE"}
+
+]

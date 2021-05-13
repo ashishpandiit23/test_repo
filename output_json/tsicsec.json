@@ -1,0 +1,17 @@
+[
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvesec","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomcta","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdovaldl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "provaldl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdovalmn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "provalmn","type": "NUMERIC","mode": "NULLABLE"}
+
+]

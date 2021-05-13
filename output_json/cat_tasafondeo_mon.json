@@ -1,0 +1,5 @@
+[
+{"name": "cve_mon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

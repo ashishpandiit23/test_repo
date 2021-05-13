@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "fecini","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasafondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof","type": "NUMERIC","mode": "NULLABLE"}
+
+]

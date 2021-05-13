@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nu_id","type": "STRING","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeid_nyc","type": "STRING","mode": "NULLABLE"},
+{"name": "internal_reference","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"}
+
+]

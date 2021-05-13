@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "submodalidad","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_regis","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "imp_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasvpzo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "op_tipo_cartera","type": "STRING","mode": "NULLABLE"},
+{"name": "diasxper","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasad","type": "NUMERIC","mode": "NULLABLE"}
+
+]

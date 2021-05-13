@@ -1,0 +1,22 @@
+[
+{"name": "cveintpro","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_correo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_genera","type": "STRING","mode": "REQUIRED"},
+{"name": "subjec","type": "STRING","mode": "NULLABLE"},
+{"name": "para","type": "STRING","mode": "NULLABLE"},
+{"name": "horinicio","type": "DATEtime","mode": "NULLABLE"},
+{"name": "hortermino","type": "DATEtime","mode": "NULLABLE"},
+{"name": "nummaxcorr","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numcorrenv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvedia1","type": "STRING","mode": "NULLABLE"},
+{"name": "cvedia2","type": "STRING","mode": "NULLABLE"},
+{"name": "cvedia3","type": "STRING","mode": "NULLABLE"},
+{"name": "cvedia4","type": "STRING","mode": "NULLABLE"},
+{"name": "cvedia5","type": "STRING","mode": "NULLABLE"},
+{"name": "cvedia6","type": "STRING","mode": "NULLABLE"},
+{"name": "cvedia7","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

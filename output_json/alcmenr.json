@@ -1,0 +1,25 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio","type": "STRING","mode": "NULLABLE"},
+{"name": "carac1","type": "STRING","mode": "NULLABLE"},
+{"name": "carac2","type": "STRING","mode": "NULLABLE"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_op","type": "STRING","mode": "NULLABLE"},
+{"name": "fchop2","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_ven","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "divisa","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "divisa2","type": "STRING","mode": "NULLABLE"},
+{"name": "monto2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipoc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contra2","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

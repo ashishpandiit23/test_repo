@@ -1,0 +1,9 @@
+[
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "tip_cambio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fedfunds","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_clp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nom_usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "hora_captura","type": "STRING","mode": "NULLABLE"}
+
+]

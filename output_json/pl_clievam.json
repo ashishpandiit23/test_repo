@@ -1,0 +1,8 @@
+[
+{"name": "cve_mes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_clase","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subclase","type": "STRING","mode": "NULLABLE"},
+{"name": "client_value","type": "NUMERIC","mode": "NULLABLE"}
+
+]

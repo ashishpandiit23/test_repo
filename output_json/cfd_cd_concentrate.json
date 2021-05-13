@@ -1,0 +1,27 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "agreement_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "subproduct","type": "STRING","mode": "NULLABLE"},
+{"name": "evtype","type": "STRING","mode": "NULLABLE"},
+{"name": "source","type": "STRING","mode": "NULLABLE"},
+{"name": "payment_type","type": "STRING","mode": "NULLABLE"},
+{"name": "operation_type","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contra_ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "contra_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exchange_rate_orig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exchange_rate_calc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exchange_rate_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "treats_acronym","type": "STRING","mode": "NULLABLE"},
+{"name": "original_counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "rfc","type": "STRING","mode": "NULLABLE"},
+{"name": "residence","type": "STRING","mode": "NULLABLE"},
+{"name": "name","type": "STRING","mode": "NULLABLE"},
+{"name": "address","type": "STRING","mode": "NULLABLE"},
+{"name": "status_stamp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "uuid","type": "STRING","mode": "NULLABLE"}
+
+]

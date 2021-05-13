@@ -1,0 +1,10 @@
+[
+{"name": "id_mapeo_contable","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_mapeo_det","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_archivo_origen","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_portafolio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "estatus","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "DATE","mode": "NULLABLE"}
+
+]

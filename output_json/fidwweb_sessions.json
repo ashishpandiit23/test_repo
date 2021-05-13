@@ -1,0 +1,6 @@
+[
+{"name": "username","type": "STRING","mode": "NULLABLE"},
+{"name": "session_id","type": "STRING","mode": "NULLABLE"},
+{"name": "login_time","type": "DATE","mode": "NULLABLE"}
+
+]

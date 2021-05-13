@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemoneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveintope","type": "STRING","mode": "NULLABLE"},
+{"name": "cveemi","type": "STRING","mode": "NULLABLE"},
+{"name": "folref","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchiniope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvenope","type": "DATE","mode": "NULLABLE"},
+{"name": "impcapact","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasvpzo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasanom","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valnomtit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchcupprox","type": "DATE","mode": "NULLABLE"},
+{"name": "intpacta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"},
+{"name": "dt_horacap","type": "DATEtime","mode": "NULLABLE"},
+{"name": "fchncupon","type": "DATE","mode": "NULLABLE"},
+{"name": "tiptasa","type": "STRING","mode": "NULLABLE"}
+
+]

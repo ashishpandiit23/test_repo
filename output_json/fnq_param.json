@@ -1,0 +1,10 @@
+[
+{"name": "param_id","type": "STRING","mode": "REQUIRED"},
+{"name": "query_id","type": "STRING","mode": "REQUIRED"},
+{"name": "name","type": "STRING","mode": "REQUIRED"},
+{"name": "type","type": "INTEGER","mode": "REQUIRED"},
+{"name": "value","type": "STRING","mode": "REQUIRED"},
+{"name": "default","type": "STRING","mode": "NULLABLE"},
+{"name": "visible","type": "STRING","mode": "NULLABLE"}
+
+]

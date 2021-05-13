@@ -1,0 +1,7 @@
+[
+{"name": "credito","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "esqtasa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

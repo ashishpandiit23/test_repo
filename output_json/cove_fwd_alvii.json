@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "id_contra","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_cofw","type": "NUMERIC","mode": "NULLABLE"}
+
+]

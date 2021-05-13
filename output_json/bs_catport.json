@@ -1,0 +1,7 @@
+[
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "natu","type": "STRING","mode": "NULLABLE"},
+{"name": "negocio","type": "STRING","mode": "NULLABLE"}
+
+]

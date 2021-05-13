@@ -1,0 +1,7 @@
+[
+{"name": "cadena1","type": "STRING","mode": "REQUIRED"},
+{"name": "abono","type": "STRING","mode": "REQUIRED"},
+{"name": "cadena2","type": "STRING","mode": "REQUIRED"},
+{"name": "aplicativo","type": "STRING","mode": "REQUIRED"}
+
+]

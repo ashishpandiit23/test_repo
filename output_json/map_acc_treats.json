@@ -1,0 +1,14 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "prod","type": "STRING","mode": "NULLABLE"},
+{"name": "event","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "cod","type": "STRING","mode": "NULLABLE"},
+{"name": "aux","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tip_oper","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "sp","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch","type": "STRING","mode": "NULLABLE"},
+{"name": "gr_riesgo","type": "INTEGER","mode": "NULLABLE"}
+
+]

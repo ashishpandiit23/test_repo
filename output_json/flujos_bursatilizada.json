@@ -1,0 +1,9 @@
+[
+{"name": "fec_inf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"},
+{"name": "no_cliente","type": "NUMERIC","mode": "NULLABLE"}
+
+]

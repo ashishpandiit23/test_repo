@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "cla_contable","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "v_intercompany_activa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_thirdparty_activa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_intercompany_pasivo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_thirdparty_pasivo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "n_intercompany_compra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "n_thirdparty_compra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "n_intercompany_vta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "n_thirdparty_vta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

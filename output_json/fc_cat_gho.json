@@ -1,0 +1,7 @@
+[
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "account_treats","type": "STRING","mode": "NULLABLE"}
+
+]

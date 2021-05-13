@@ -1,0 +1,11 @@
+[
+{"name": "product_type","type": "STRING","mode": "NULLABLE"},
+{"name": "col_name","type": "STRING","mode": "NULLABLE"},
+{"name": "condition","type": "STRING","mode": "NULLABLE"},
+{"name": "values_to_exclude","type": "STRING","mode": "NULLABLE"},
+{"name": "active","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capture_user","type": "STRING","mode": "NULLABLE"},
+{"name": "capture_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "id_rule","type": "INTEGER","mode": "REQUIRED"}
+
+]

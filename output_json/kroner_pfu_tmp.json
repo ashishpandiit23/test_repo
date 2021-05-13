@@ -1,0 +1,11 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_alta_adj","type": "DATE","mode": "NULLABLE"},
+{"name": "tasa_fondeo_adj","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo_adj","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diasmeses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasapzolp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

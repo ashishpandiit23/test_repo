@@ -1,0 +1,11 @@
+[
+{"name": "id_autorizacion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_producto_dps","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_autorizacion","type": "DATE","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "vobo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "observaciones","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_aut","type": "STRING","mode": "NULLABLE"}
+
+]

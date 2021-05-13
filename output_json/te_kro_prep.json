@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasapzolp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "avaluo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaprep_cur","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaprep_swp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

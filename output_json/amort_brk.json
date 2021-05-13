@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "flujos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof_brk","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "breakfund_cost","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_cof","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor_desc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

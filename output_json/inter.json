@@ -1,0 +1,17 @@
+[
+{"name": "cve_int","type": "STRING","mode": "REQUIRED"},
+{"name": "des_int","type": "STRING","mode": "REQUIRED"},
+{"name": "nom_arc","type": "STRING","mode": "REQUIRED"},
+{"name": "num_int","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_rep","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ord_exe","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rep_hor","type": "INTEGER","mode": "NULLABLE"},
+{"name": "int_act","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_funcion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_interfase","type": "STRING","mode": "NULLABLE"},
+{"name": "periodicidad","type": "STRING","mode": "NULLABLE"},
+{"name": "ntd","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dependencia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "categoria","type": "STRING","mode": "NULLABLE"}
+
+]

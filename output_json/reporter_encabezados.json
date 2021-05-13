@@ -1,0 +1,18 @@
+[
+{"name": "cve_encabezado","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_archivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden_archivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "from","type": "STRING","mode": "NULLABLE"},
+{"name": "where","type": "STRING","mode": "NULLABLE"},
+{"name": "orderby","type": "STRING","mode": "NULLABLE"},
+{"name": "groupby","type": "STRING","mode": "NULLABLE"},
+{"name": "having","type": "STRING","mode": "NULLABLE"},
+{"name": "join","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla_join","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

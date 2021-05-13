@@ -1,0 +1,12 @@
+[
+{"name": "slp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "slp_ant","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tf_ant","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_vector","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horareg","type": "STRING","mode": "NULLABLE"}
+
+]

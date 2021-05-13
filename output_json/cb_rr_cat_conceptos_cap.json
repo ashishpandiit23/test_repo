@@ -1,0 +1,5 @@
+[
+{"name": "conc_capital","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"}
+
+]

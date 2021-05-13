@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "siccvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "subcuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "siccodaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "sicnomcta","type": "STRING","mode": "NULLABLE"},
+{"name": "sicsdovaldl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sicsdovalmn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo_ocp","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo_grca","type": "STRING","mode": "NULLABLE"}
+
+]

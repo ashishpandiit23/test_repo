@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "filtro","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "sub","type": "INTEGER","mode": "NULLABLE"},
+{"name": "h1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mon","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

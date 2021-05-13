@@ -1,0 +1,22 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "branch","type": "STRING","mode": "NULLABLE"},
+{"name": "nprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "profit_center","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "security_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "security_line","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "outstanding","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clean_price","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clean_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "market_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "settle","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clean_price_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yield_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clean_value_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "market_value_s","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "summitid","type": "STRING","mode": "NULLABLE"},
+{"name": "index_description","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "orig_ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "paym_type","type": "STRING","mode": "NULLABLE"},
+{"name": "gross_amount_receivable","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "gross_amount_payable","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amount_receivable","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amount_payable","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cash_flow","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "curr_type","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_pago","type": "DATE","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "acronimo","type": "STRING","mode": "NULLABLE"},
+{"name": "acro_largo","type": "STRING","mode": "NULLABLE"},
+{"name": "cbid","type": "STRING","mode": "NULLABLE"}
+
+]

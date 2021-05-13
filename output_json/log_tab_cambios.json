@@ -1,0 +1,10 @@
+[
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "columna","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_cambio","type": "STRING","mode": "NULLABLE"},
+{"name": "val_nuevo","type": "STRING","mode": "NULLABLE"},
+{"name": "val_viejo","type": "STRING","mode": "NULLABLE"},
+{"name": "comentarios","type": "STRING","mode": "NULLABLE"}
+
+]

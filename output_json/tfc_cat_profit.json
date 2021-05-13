@@ -1,0 +1,8 @@
+[
+{"name": "cve_reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_pos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_fk_descripcion","type": "INTEGER","mode": "NULLABLE"}
+
+]

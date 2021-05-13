@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_monto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "idbucket","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

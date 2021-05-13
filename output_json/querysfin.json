@@ -1,0 +1,6 @@
+[
+{"name": "id_query","type": "STRING","mode": "NULLABLE"},
+{"name": "n_query","type": "STRING","mode": "NULLABLE"},
+{"name": "d_query","type": "STRING","mode": "NULLABLE"}
+
+]

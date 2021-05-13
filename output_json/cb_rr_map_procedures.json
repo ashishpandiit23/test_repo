@@ -1,0 +1,8 @@
+[
+{"name": "id_procedure","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre_procedure","type": "STRING","mode": "REQUIRED"},
+{"name": "orden_ejecucion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "hora_tope","type": "INTEGER","mode": "REQUIRED"}
+
+]

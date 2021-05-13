@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_vento","type": "DATE","mode": "NULLABLE"},
+{"name": "spread","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "revis_tasa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,12 @@
+[
+{"name": "deal_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "value_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "deal_numb","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_activ","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "principal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "currency","type": "STRING","mode": "NULLABLE"},
+{"name": "cpty","type": "STRING","mode": "NULLABLE"},
+{"name": "delivery_type","type": "STRING","mode": "NULLABLE"}
+
+]

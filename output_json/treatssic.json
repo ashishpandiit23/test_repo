@@ -1,0 +1,22 @@
+[
+{"name": "segmab","type": "STRING","mode": "NULLABLE"},
+{"name": "sebrno","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seacno","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seieco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seacsn","type": "STRING","mode": "NULLABLE"},
+{"name": "seauxl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seaxno","type": "STRING","mode": "NULLABLE"},
+{"name": "seagma","type": "STRING","mode": "NULLABLE"},
+{"name": "seabrn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seacty","type": "STRING","mode": "NULLABLE"},
+{"name": "seapty","type": "STRING","mode": "NULLABLE"},
+{"name": "seccyc","type": "STRING","mode": "NULLABLE"},
+{"name": "sepctr","type": "STRING","mode": "NULLABLE"},
+{"name": "sespcn","type": "STRING","mode": "NULLABLE"},
+{"name": "segccl","type": "STRING","mode": "NULLABLE"},
+{"name": "sematc","type": "STRING","mode": "NULLABLE"},
+{"name": "secnta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "selmks","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sedlup","type": "DATE","mode": "NULLABLE"}
+
+]

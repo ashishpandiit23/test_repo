@@ -1,0 +1,12 @@
+[
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "desc_costo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_costo","type": "STRING","mode": "NULLABLE"},
+{"name": "descri_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "shortdescrip","type": "STRING","mode": "NULLABLE"},
+{"name": "shortdescrip_grca","type": "STRING","mode": "NULLABLE"}
+
+]

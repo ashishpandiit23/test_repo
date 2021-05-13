@@ -1,0 +1,5 @@
+[
+{"name": "vplazo2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"}
+
+]

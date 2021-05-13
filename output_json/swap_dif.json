@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "dif_mtm_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dif_accrual_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dif_mtm_p","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dif_accrual_p","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_movi","type": "INTEGER","mode": "NULLABLE"},
+{"name": "bloque","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

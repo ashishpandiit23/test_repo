@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "evento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_conta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "siccvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "siccodaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "sicnomcta","type": "STRING","mode": "NULLABLE"},
+{"name": "sicsdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "time","type": "STRING","mode": "NULLABLE"}
+
+]

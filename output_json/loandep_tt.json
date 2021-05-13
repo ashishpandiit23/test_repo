@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "id_rep","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_cta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_sic","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_sicval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_orig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_origval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "profit_center","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_pos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_sicprom","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia_val","type": "NUMERIC","mode": "NULLABLE"}
+
+]

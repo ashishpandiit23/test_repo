@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "curva","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_vector","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cupon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "wfd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv_tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv","type": "NUMERIC","mode": "NULLABLE"}
+
+]

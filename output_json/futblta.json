@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "del_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "del_num","type": "STRING","mode": "NULLABLE"},
+{"name": "del_status","type": "STRING","mode": "NULLABLE"},
+{"name": "dlr_id","type": "STRING","mode": "NULLABLE"},
+{"name": "del_pos_nbr","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contract_code","type": "STRING","mode": "NULLABLE"},
+{"name": "contract_mth","type": "INTEGER","mode": "NULLABLE"},
+{"name": "buy_sell_ind","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_lots","type": "INTEGER","mode": "NULLABLE"},
+{"name": "os_lots","type": "INTEGER","mode": "NULLABLE"},
+{"name": "close_lots","type": "INTEGER","mode": "NULLABLE"},
+{"name": "yield","type": "STRING","mode": "NULLABLE"},
+{"name": "price","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "commision_ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "commision_a1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orig_dl_nbr","type": "STRING","mode": "NULLABLE"},
+{"name": "asso","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_memo_ntv","type": "STRING","mode": "NULLABLE"},
+{"name": "exc_broker_id","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

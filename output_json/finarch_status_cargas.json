@@ -1,0 +1,12 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_proceso","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_archivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "interface","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchint","type": "DATE","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

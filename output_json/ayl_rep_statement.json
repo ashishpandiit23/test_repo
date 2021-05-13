@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_mxn_udi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_mxn_udi_sub","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_usd_oth","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_usd_oth_sub","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_mxn_udi_valusd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_mxn_udi_sub_valusd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_usd_oth_valusd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_usd_oth_subvalusd","type": "NUMERIC","mode": "NULLABLE"}
+
+]

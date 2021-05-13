@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "accountid","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy1","type": "STRING","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchliq","type": "DATE","mode": "NULLABLE"},
+{"name": "event","type": "STRING","mode": "NULLABLE"},
+{"name": "deb_cred","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy2","type": "STRING","mode": "NULLABLE"},
+{"name": "postingtype","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

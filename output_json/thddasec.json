@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cvestatus","type": "STRING","mode": "NULLABLE"},
+{"name": "sectoreco","type": "STRING","mode": "NULLABLE"},
+{"name": "cvenomina","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdocorte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdoneto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intacucr","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "numopera","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoop","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "STRING","mode": "NULLABLE"},
+{"name": "monrecibi","type": "STRING","mode": "NULLABLE"},
+{"name": "mtorecibi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monentre","type": "STRING","mode": "NULLABLE"},
+{"name": "mtoentre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipocambio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchcrt","type": "DATE","mode": "NULLABLE"}
+
+]

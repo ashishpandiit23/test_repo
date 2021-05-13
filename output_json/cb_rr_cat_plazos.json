@@ -1,0 +1,9 @@
+[
+{"name": "cve_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "seccion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_pzo","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

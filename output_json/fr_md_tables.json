@@ -1,0 +1,6 @@
+[
+{"name": "id_db_table","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tabname","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"}
+
+]

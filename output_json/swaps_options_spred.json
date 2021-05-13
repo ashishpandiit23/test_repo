@@ -1,0 +1,6 @@
+[
+{"name": "summit_oper","type": "STRING","mode": "REQUIRED"},
+{"name": "spred_p","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "spred_r","type": "NUMERIC","mode": "REQUIRED"}
+
+]

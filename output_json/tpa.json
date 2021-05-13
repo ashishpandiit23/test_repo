@@ -1,0 +1,20 @@
+[
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo_min","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo_max","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rangoinf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rangosup","type": "STRING","mode": "NULLABLE"},
+{"name": "tbruta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "formula","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "puntos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

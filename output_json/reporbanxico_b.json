@@ -1,0 +1,11 @@
+[
+{"name": "consec_r","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_inst_r","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_fili_r","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nro_cpto_r","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_r","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "descrip_r","type": "STRING","mode": "NULLABLE"}
+
+]

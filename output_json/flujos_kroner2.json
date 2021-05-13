@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_amort","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_lob","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "subtipo","type": "STRING","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"}
+
+]

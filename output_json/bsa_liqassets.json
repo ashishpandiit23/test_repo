@@ -1,0 +1,8 @@
+[
+{"name": "sicnromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "siccodaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "bs_mapeo","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,18 @@
+[
+{"name": "num_institucion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_empresa","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "num_columna","type": "INTEGER","mode": "REQUIRED"},
+{"name": "informacion","type": "STRING","mode": "REQUIRED"},
+{"name": "mon_fec_prosis","type": "STRING","mode": "REQUIRED"},
+{"name": "tipo_valor","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_renglon","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cod_cve","type": "INTEGER","mode": "REQUIRED"},
+{"name": "campo_1","type": "STRING","mode": "REQUIRED"},
+{"name": "campo_2","type": "STRING","mode": "REQUIRED"},
+{"name": "sta_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_regist","type": "DATE","mode": "NULLABLE"},
+{"name": "hor_regist","type": "DATEtime","mode": "NULLABLE"},
+{"name": "usu_regist","type": "STRING","mode": "NULLABLE"}
+
+]

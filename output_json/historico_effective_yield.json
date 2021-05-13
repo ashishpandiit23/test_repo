@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "diference","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "effective_yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "realized","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sum_effective_realized","type": "NUMERIC","mode": "NULLABLE"}
+
+]

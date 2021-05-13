@@ -1,0 +1,7 @@
+[
+{"name": "id_subyacente","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo_subyacente","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

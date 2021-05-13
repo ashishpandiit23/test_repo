@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "order_type","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "avg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avgbpi","type": "NUMERIC","mode": "NULLABLE"}
+
+]

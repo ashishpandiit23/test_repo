@@ -1,0 +1,27 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha1","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "horaconcer","type": "STRING","mode": "NULLABLE"},
+{"name": "tipooper","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha2","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha3","type": "DATE","mode": "NULLABLE"},
+{"name": "importe","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasapremio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "preciotit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contrapar","type": "STRING","mode": "NULLABLE"},
+{"name": "corro","type": "STRING","mode": "NULLABLE"},
+{"name": "postura","type": "STRING","mode": "NULLABLE"},
+{"name": "bcotrabajo","type": "STRING","mode": "NULLABLE"},
+{"name": "idreg","type": "STRING","mode": "NULLABLE"},
+{"name": "modifica","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,8 @@
+[
+{"name": "capfchpro","type": "DATE","mode": "NULLABLE"},
+{"name": "capcverep","type": "STRING","mode": "NULLABLE"},
+{"name": "capdernum","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capnumcol","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capvaldat","type": "NUMERIC","mode": "NULLABLE"}
+
+]

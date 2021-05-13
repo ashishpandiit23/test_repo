@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "deal","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"}
+
+]

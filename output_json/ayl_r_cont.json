@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sicnomcta","type": "STRING","mode": "NULLABLE"}
+
+]

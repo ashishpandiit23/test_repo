@@ -1,0 +1,6 @@
+[
+{"name": "sec_descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "prof_centr_mne","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_pos_num","type": "INTEGER","mode": "NULLABLE"}
+
+]

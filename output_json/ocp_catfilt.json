@@ -1,0 +1,7 @@
+[
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "sub","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve","type": "STRING","mode": "NULLABLE"},
+{"name": "detalle","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "revis_tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_revis_tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

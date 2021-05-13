@@ -1,0 +1,19 @@
+[
+{"name": "clave","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ponderador","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "campo","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "sta_activo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "regla_calif","type": "STRING","mode": "NULLABLE"},
+{"name": "gpobucket","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "idbucket","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_conqis","type": "NUMERIC","mode": "NULLABLE"}
+
+]

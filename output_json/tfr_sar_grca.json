@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

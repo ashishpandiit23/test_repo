@@ -1,0 +1,14 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "id_grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento_default","type": "STRING","mode": "NULLABLE"},
+{"name": "bhvr_term","type": "STRING","mode": "NULLABLE"},
+{"name": "id_parent","type": "INTEGER","mode": "NULLABLE"}
+
+]

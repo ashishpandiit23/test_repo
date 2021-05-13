@@ -1,0 +1,8 @@
+[
+{"name": "codint","type": "STRING","mode": "NULLABLE"},
+{"name": "cveasigtas","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomcamfec","type": "STRING","mode": "NULLABLE"},
+{"name": "nomcampzo","type": "STRING","mode": "NULLABLE"},
+{"name": "nomcamint","type": "STRING","mode": "NULLABLE"}
+
+]

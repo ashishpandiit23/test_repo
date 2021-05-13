@@ -1,0 +1,13 @@
+[
+{"name": "id_mapeo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_dps","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_libro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_clase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subclase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_rubro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_legacy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "estatus","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "DATE","mode": "NULLABLE"},
+{"name": "id_tipo_mov","type": "INTEGER","mode": "NULLABLE"}
+
+]

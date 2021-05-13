@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_archivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "record_type","type": "STRING","mode": "NULLABLE"},
+{"name": "fieldname","type": "STRING","mode": "NULLABLE"}
+
+]

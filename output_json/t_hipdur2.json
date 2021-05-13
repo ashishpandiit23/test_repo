@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "fec_proces","type": "STRING","mode": "REQUIRED"},
+{"name": "num_cred","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cta_regis","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_credit","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_cambi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cap_vig_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_tot_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_tot_v","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_vig_v","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo_red","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "per_cap","type": "INTEGER","mode": "NULLABLE"}
+
+]

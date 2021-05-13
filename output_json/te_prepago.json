@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cnt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"}
+
+]

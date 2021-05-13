@@ -1,0 +1,7 @@
+[
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "valor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "flag","type": "STRING","mode": "NULLABLE"}
+
+]

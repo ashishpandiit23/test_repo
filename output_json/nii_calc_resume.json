@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_ambiente","type": "INTEGER","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "id_origen","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_stress","type": "INTEGER","mode": "NULLABLE"},
+{"name": "stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bucket","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "nocional_mn","type": "NUMERIC","mode": "NULLABLE"}
+
+]

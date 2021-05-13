@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocred","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroamor","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecvto","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "montolp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_vector","type": "STRING","mode": "NULLABLE"}
+
+]

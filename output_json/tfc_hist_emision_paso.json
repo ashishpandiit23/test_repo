@@ -1,0 +1,14 @@
+[
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "posicion","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_casificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_operativo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seguimiento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nom_grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_contable","type": "NUMERIC","mode": "NULLABLE"}
+
+]

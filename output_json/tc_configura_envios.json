@@ -1,0 +1,7 @@
+[
+{"name": "cve_proc","type": "STRING","mode": "NULLABLE"},
+{"name": "ruta","type": "STRING","mode": "NULLABLE"},
+{"name": "puerto","type": "STRING","mode": "NULLABLE"},
+{"name": "llave","type": "STRING","mode": "NULLABLE"}
+
+]

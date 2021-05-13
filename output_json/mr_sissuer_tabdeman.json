@@ -1,0 +1,10 @@
+[
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "tipovalor_act","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora_act","type": "STRING","mode": "NULLABLE"},
+{"name": "serie_act","type": "STRING","mode": "NULLABLE"},
+{"name": "tipovalor_nvo","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora_nvo","type": "STRING","mode": "NULLABLE"},
+{"name": "serie_nvo","type": "STRING","mode": "NULLABLE"}
+
+]

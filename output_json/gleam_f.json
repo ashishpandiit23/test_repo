@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "oper_type","type": "STRING","mode": "NULLABLE"},
+{"name": "numfolope","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "STRING","mode": "NULLABLE"},
+{"name": "endbalance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "signo_v","type": "STRING","mode": "NULLABLE"},
+{"name": "endbalance_v","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromon_v","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "signo_i","type": "STRING","mode": "NULLABLE"},
+{"name": "accrued","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromon_i","type": "INTEGER","mode": "NULLABLE"},
+{"name": "signo_iv","type": "STRING","mode": "NULLABLE"},
+{"name": "accrued_v","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromon_iv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contrato","type": "STRING","mode": "NULLABLE"},
+{"name": "sistema","type": "STRING","mode": "NULLABLE"}
+
+]

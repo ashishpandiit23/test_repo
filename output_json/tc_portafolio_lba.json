@@ -1,0 +1,12 @@
+[
+{"name": "cta_mayor","type": "STRING","mode": "NULLABLE"},
+{"name": "sig_codaux","type": "STRING","mode": "NULLABLE"},
+{"name": "siccodaux","type": "STRING","mode": "NULLABLE"},
+{"name": "sig_nroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "sicnroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "exclusion","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_cta","type": "STRING","mode": "NULLABLE"}
+
+]

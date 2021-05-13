@@ -1,0 +1,5 @@
+[
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

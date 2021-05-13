@@ -1,0 +1,5 @@
+[
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"}
+
+]

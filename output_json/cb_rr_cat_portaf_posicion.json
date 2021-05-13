@@ -1,0 +1,8 @@
+[
+{"name": "tipo_pos","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_mod","type": "DATE","mode": "NULLABLE"},
+{"name": "usr_mod","type": "STRING","mode": "NULLABLE"},
+{"name": "is_prestamo_v","type": "INTEGER","mode": "NULLABLE"}
+
+]

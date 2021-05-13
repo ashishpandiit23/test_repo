@@ -1,0 +1,10 @@
+[
+{"name": "num_exc","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_excepcion","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_conv","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_fidw","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla_fidw","type": "STRING","mode": "NULLABLE"},
+{"name": "cam_tab_fidw","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_reporte","type": "STRING","mode": "NULLABLE"}
+
+]

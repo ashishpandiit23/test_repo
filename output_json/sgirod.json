@@ -1,0 +1,27 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomint","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_depto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_prom1","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_sgiro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prom2","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_linea","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_dias_sob","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha_1","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_2","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_3","type": "DATE","mode": "NULLABLE"},
+{"name": "num_plaza","type": "STRING","mode": "NULLABLE"},
+{"name": "des_nom_corto","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvestapar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"}
+
+]

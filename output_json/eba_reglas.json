@@ -1,0 +1,6 @@
+[
+{"name": "regla_eba","type": "STRING","mode": "NULLABLE"},
+{"name": "regla_bxc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "status","type": "NUMERIC","mode": "NULLABLE"}
+
+]

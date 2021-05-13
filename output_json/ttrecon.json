@@ -1,0 +1,18 @@
+[
+{"name": "fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "tbalance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "stbalance","type": "STRING","mode": "NULLABLE"},
+{"name": "ebalance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sebalance","type": "STRING","mode": "NULLABLE"},
+{"name": "sbalance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ssbalance","type": "STRING","mode": "NULLABLE"},
+{"name": "diference","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdiference","type": "STRING","mode": "NULLABLE"},
+{"name": "expcode","type": "STRING","mode": "NULLABLE"}
+
+]

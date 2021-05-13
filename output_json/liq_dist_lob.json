@@ -1,0 +1,6 @@
+[
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

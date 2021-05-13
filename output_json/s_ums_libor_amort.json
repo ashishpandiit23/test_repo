@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "no_amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort","type": "NUMERIC","mode": "NULLABLE"}
+
+]

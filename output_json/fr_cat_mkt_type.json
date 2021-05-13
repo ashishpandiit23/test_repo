@@ -1,0 +1,5 @@
+[
+{"name": "id_mkt_type","type": "INTEGER","mode": "REQUIRED"},
+{"name": "mkt_type","type": "STRING","mode": "NULLABLE"}
+
+]

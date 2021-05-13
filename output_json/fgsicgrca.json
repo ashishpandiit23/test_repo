@@ -1,0 +1,20 @@
+[
+{"name": "institucion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cod_auxi","type": "INTEGER","mode": "NULLABLE"},
+{"name": "auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "nomcta","type": "STRING","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "segmto","type": "STRING","mode": "NULLABLE"},
+{"name": "sistema","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod_g","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

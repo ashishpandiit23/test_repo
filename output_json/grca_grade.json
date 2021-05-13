@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "numorden","type": "STRING","mode": "NULLABLE"},
+{"name": "valornominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "grade","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

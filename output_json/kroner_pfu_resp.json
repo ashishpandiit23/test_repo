@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "modalidad","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "imp_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "diasmeses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "submodalidad","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_fondeo_adj","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_alta_adj","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo_adj","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasapzolp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,16 @@
+[
+{"name": "cve_dia","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_brgn","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_liqprem","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "box","type": "STRING","mode": "NULLABLE"},
+{"name": "act_economica","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "contrato","type": "INTEGER","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "numtitu","type": "INTEGER","mode": "NULLABLE"},
+{"name": "posicion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "mercado","type": "STRING","mode": "NULLABLE"},
+{"name": "entidad","type": "STRING","mode": "NULLABLE"},
+{"name": "operacion","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,10 @@
+[
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_garantia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_ints","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_intven","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_venci","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"}
+
+]

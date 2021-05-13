@@ -1,0 +1,12 @@
+[
+{"name": "tabla","type": "STRING","mode": "REQUIRED"},
+{"name": "portafolio","type": "STRING","mode": "REQUIRED"},
+{"name": "tipope","type": "STRING","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "REQUIRED"},
+{"name": "ccy","type": "STRING","mode": "REQUIRED"},
+{"name": "cta","type": "STRING","mode": "REQUIRED"},
+{"name": "cod","type": "INTEGER","mode": "REQUIRED"},
+{"name": "aux","type": "STRING","mode": "REQUIRED"},
+{"name": "tipo","type": "STRING","mode": "REQUIRED"}
+
+]

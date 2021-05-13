@@ -1,0 +1,23 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ocodint","type": "STRING","mode": "NULLABLE"},
+{"name": "onroins","type": "STRING","mode": "NULLABLE"},
+{"name": "onroemp","type": "STRING","mode": "NULLABLE"},
+{"name": "ocvepai","type": "STRING","mode": "NULLABLE"},
+{"name": "onromon","type": "STRING","mode": "NULLABLE"},
+{"name": "onrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "ocodaux","type": "STRING","mode": "NULLABLE"},
+{"name": "onumaux","type": "STRING","mode": "NULLABLE"},
+{"name": "osaldo","type": "STRING","mode": "NULLABLE"},
+{"name": "ccodint","type": "STRING","mode": "NULLABLE"},
+{"name": "cnroins","type": "STRING","mode": "NULLABLE"},
+{"name": "cnroemp","type": "STRING","mode": "NULLABLE"},
+{"name": "ccvepai","type": "STRING","mode": "NULLABLE"},
+{"name": "cnromon","type": "STRING","mode": "NULLABLE"},
+{"name": "cnrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "ccodaux","type": "STRING","mode": "NULLABLE"},
+{"name": "cnumaux","type": "STRING","mode": "NULLABLE"},
+{"name": "csaldo","type": "STRING","mode": "NULLABLE"},
+{"name": "idetreats","type": "INTEGER","mode": "NULLABLE"}
+
+]

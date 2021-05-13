@@ -1,0 +1,27 @@
+[
+{"name": "nypctenyp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypcomnyp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypnomcte","type": "STRING","mode": "NULLABLE"},
+{"name": "nypnromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypnroref","type": "STRING","mode": "NULLABLE"},
+{"name": "nypctamay","type": "STRING","mode": "NULLABLE"},
+{"name": "nypnomcta","type": "STRING","mode": "NULLABLE"},
+{"name": "nypctamex","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nypcodlib","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypfchini","type": "STRING","mode": "NULLABLE"},
+{"name": "nypfchven","type": "STRING","mode": "NULLABLE"},
+{"name": "nypimpcor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nypimpcac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nypimpiop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nypnroper","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypfchcin","type": "STRING","mode": "NULLABLE"},
+{"name": "nypnropin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypnropxc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypfchpca","type": "STRING","mode": "NULLABLE"},
+{"name": "nypnropca","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypimpaca","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nypimptas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nypnropzo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nypfchcal","type": "STRING","mode": "NULLABLE"}
+
+]

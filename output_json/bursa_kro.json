@@ -1,0 +1,19 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_alta_cta","type": "STRING","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_vencto","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_capvigpr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_intervig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_capvenci","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_intvenci","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_capvigfo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_intervif","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_totalade","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "programa","type": "STRING","mode": "NULLABLE"}
+
+]

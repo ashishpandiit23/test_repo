@@ -1,0 +1,23 @@
+[
+{"name": "contratoid","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_cliente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_fondeo","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_inicial","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amortizacion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_final","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intereses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "comisiones","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seguros","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "totdepositado","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prepagos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "servicing_fee","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvestatus","type": "STRING","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdo_capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "status","type": "STRING","mode": "NULLABLE"},
+{"name": "fecultpago","type": "STRING","mode": "NULLABLE"},
+{"name": "noamortven","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_inf","type": "NUMERIC","mode": "NULLABLE"}
+
+]

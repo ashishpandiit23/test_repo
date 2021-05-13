@@ -1,0 +1,5 @@
+[
+{"name": "id_emp","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"}
+
+]

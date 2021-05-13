@@ -1,0 +1,7 @@
+[
+{"name": "tipprod","type": "STRING","mode": "REQUIRED"},
+{"name": "sicnroaux","type": "STRING","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,13 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_portfolio","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_portfolio","type": "STRING","mode": "NULLABLE"},
+{"name": "gpo_13","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cgr","type": "INTEGER","mode": "NULLABLE"},
+{"name": "desc_cgr","type": "STRING","mode": "NULLABLE"}
+
+]

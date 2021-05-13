@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "elf","type": "STRING","mode": "NULLABLE"},
+{"name": "num_credit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "iden","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_grca","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reserva","type": "NUMERIC","mode": "NULLABLE"}
+
+]

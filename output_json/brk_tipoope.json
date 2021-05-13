@@ -1,0 +1,5 @@
+[
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "swap_type","type": "STRING","mode": "NULLABLE"}
+
+]

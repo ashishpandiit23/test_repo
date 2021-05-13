@@ -1,0 +1,6 @@
+[
+{"name": "broker","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"}
+
+]

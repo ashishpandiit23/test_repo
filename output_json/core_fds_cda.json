@@ -1,0 +1,10 @@
+[
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "segmto","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "mto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mto_val","type": "NUMERIC","mode": "NULLABLE"}
+
+]

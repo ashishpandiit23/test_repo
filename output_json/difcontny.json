@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "codint","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codlib","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldoop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldoco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldodif","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvedepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "nomusu","type": "STRING","mode": "NULLABLE"},
+{"name": "nomint","type": "STRING","mode": "NULLABLE"}
+
+]

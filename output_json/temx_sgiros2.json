@@ -1,0 +1,15 @@
+[
+{"name": "promotor","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cliente","type": "STRING","mode": "NULLABLE"},
+{"name": "dias","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sobregiro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "linea","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "disponible","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ultimo","type": "STRING","mode": "NULLABLE"},
+{"name": "sucursal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "subproducto","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_inf","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"}
+
+]

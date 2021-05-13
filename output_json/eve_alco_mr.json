@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "usd_pvbp","type": "STRING","mode": "NULLABLE"},
+{"name": "mxn_rates","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "usd_rates","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "udi_rate","type": "NUMERIC","mode": "NULLABLE"}
+
+]

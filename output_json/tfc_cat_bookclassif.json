@@ -1,0 +1,6 @@
+[
+{"name": "cve_bookclassif","type": "INTEGER","mode": "REQUIRED"},
+{"name": "book_classif","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,14 @@
+[
+{"name": "id_app","type": "STRING","mode": "REQUIRED"},
+{"name": "version","type": "INTEGER","mode": "REQUIRED"},
+{"name": "orden","type": "INTEGER","mode": "REQUIRED"},
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo1","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo2","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo3","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo4","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo5","type": "STRING","mode": "NULLABLE"}
+
+]

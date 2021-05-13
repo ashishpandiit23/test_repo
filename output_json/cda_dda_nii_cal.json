@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "habil_ant","type": "DATE","mode": "NULLABLE"},
+{"name": "habil_post","type": "DATE","mode": "NULLABLE"},
+{"name": "dias_acum","type": "NUMERIC","mode": "NULLABLE"}
+
+]

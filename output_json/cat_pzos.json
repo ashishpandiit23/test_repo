@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tp_idgpo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tp_per_ini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tp_per_fin","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tp_pzo","type": "INTEGER","mode": "NULLABLE"}
+
+]

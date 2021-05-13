@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "importe_total","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "importe_prom","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "importe_maximo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "creditos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "umbral","type": "NUMERIC","mode": "NULLABLE"}
+
+]

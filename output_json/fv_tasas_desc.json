@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_vector","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"},
+{"name": "guber_discount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "s_guber_discount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "guber_yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "guber_yield_of","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "disc_guber_discount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fac_guber_disc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

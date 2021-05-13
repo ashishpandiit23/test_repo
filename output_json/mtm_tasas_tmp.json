@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_base","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_desc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_desc_p100ramp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_desc_n100ramp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_desc_p100par","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_desc_n100par","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_desc_p200par","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_desc_n200par","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,22 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numorden","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seq_cont","type": "INTEGER","mode": "NULLABLE"},
+{"name": "car_abo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroinst","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasvpzo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pzomisdia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchtas","type": "DATE","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

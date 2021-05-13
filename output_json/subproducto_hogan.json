@@ -1,0 +1,10 @@
+[
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "STRING","mode": "NULLABLE"},
+{"name": "cd_plazo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_persona","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subrpod","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"}
+
+]

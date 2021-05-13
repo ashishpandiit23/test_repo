@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "precio_sucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "usu_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_capt","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "usu_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_vobo","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_val","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie_cort","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_vto","type": "DATE","mode": "NULLABLE"}
+
+]

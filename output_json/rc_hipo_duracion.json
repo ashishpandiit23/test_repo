@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "amort_cob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_interes_cob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dias_k","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dias_tk","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "duracion","type": "NUMERIC","mode": "NULLABLE"}
+
+]

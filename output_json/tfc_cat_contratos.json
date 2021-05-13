@@ -1,0 +1,7 @@
+[
+{"name": "pk_cve_contrato","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_contrato","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "valor","type": "NUMERIC","mode": "NULLABLE"}
+
+]

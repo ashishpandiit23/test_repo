@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "seccion","type": "STRING","mode": "REQUIRED"},
+{"name": "type_carga","type": "STRING","mode": "REQUIRED"},
+{"name": "file_id","type": "STRING","mode": "REQUIRED"},
+{"name": "file_ver","type": "STRING","mode": "REQUIRED"},
+{"name": "country_cod","type": "STRING","mode": "REQUIRED"},
+{"name": "group_id","type": "STRING","mode": "REQUIRED"},
+{"name": "file_type","type": "STRING","mode": "REQUIRED"},
+{"name": "fprocess","type": "STRING","mode": "REQUIRED"},
+{"name": "consec_arc","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "fcrea","type": "STRING","mode": "REQUIRED"}
+
+]

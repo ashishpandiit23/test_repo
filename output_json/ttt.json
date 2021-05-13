@@ -1,0 +1,5 @@
+[
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "vto_fch","type": "STRING","mode": "NULLABLE"}
+
+]

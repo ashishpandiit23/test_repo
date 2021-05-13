@@ -1,0 +1,6 @@
+[
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "segmento_bb","type": "STRING","mode": "NULLABLE"},
+{"name": "lin_neg_bb","type": "STRING","mode": "NULLABLE"}
+
+]

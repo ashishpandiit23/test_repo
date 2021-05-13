@@ -1,0 +1,5 @@
+[
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_cta","type": "STRING","mode": "NULLABLE"}
+
+]

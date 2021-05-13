@@ -1,0 +1,7 @@
+[
+{"name": "num_band","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clasif_band","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_band","type": "STRING","mode": "NULLABLE"},
+{"name": "usu_regist","type": "STRING","mode": "NULLABLE"}
+
+]

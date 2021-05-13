@@ -1,0 +1,9 @@
+[
+{"name": "idsubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "duracion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto_act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"}
+
+]

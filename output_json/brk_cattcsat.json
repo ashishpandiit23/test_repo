@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mon_cambio_mn","type": "NUMERIC","mode": "NULLABLE"}
+
+]

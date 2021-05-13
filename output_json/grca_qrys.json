@@ -1,0 +1,6 @@
+[
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "titulo","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"}
+
+]

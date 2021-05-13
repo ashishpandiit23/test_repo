@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cons","type": "INTEGER","mode": "NULLABLE"},
+{"name": "folio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "liq","type": "STRING","mode": "NULLABLE"},
+{"name": "mto_liq","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"}
+
+]

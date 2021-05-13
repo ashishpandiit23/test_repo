@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof_vof","type": "NUMERIC","mode": "NULLABLE"}
+
+]

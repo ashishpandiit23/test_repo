@@ -1,0 +1,5 @@
+[
+{"name": "nrcons","type": "INTEGER","mode": "REQUIRED"},
+{"name": "book","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "job","type": "STRING","mode": "NULLABLE"},
+{"name": "cron","type": "STRING","mode": "NULLABLE"},
+{"name": "trigger","type": "STRING","mode": "NULLABLE"}
+
+]

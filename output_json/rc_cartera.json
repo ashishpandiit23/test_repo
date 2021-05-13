@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "pais","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_cartera","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "banda_1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_4","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_5","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_6","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_7","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_8","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_9","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_10","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_11","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_12","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_13","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banda_14","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_val_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"}
+
+]

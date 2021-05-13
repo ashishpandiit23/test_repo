@@ -1,0 +1,6 @@
+[
+{"name": "id_stress","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_scenario","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

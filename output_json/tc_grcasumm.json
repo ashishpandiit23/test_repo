@@ -1,0 +1,8 @@
+[
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "valinscont","type": "INTEGER","mode": "NULLABLE"},
+{"name": "valsumm_mtm","type": "INTEGER","mode": "NULLABLE"},
+{"name": "valctagrca","type": "STRING","mode": "NULLABLE"}
+
+]

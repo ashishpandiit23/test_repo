@@ -1,0 +1,5 @@
+[
+{"name": "calypso","type": "STRING","mode": "NULLABLE"},
+{"name": "id_murex","type": "STRING","mode": "NULLABLE"}
+
+]

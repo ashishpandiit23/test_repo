@@ -1,0 +1,15 @@
+[
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "bearing","type": "STRING","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "duracion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto_act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "idejer","type": "STRING","mode": "NULLABLE"},
+{"name": "idejer_rela","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"}
+
+]

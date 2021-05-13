@@ -1,0 +1,15 @@
+[
+{"name": "capnumcns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "captporep","type": "STRING","mode": "NULLABLE"},
+{"name": "capdesrep","type": "STRING","mode": "NULLABLE"},
+{"name": "captpopzo","type": "STRING","mode": "NULLABLE"},
+{"name": "capfecuno","type": "DATE","mode": "NULLABLE"},
+{"name": "capnumcta1","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capimpmto1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capfecdos","type": "DATE","mode": "NULLABLE"},
+{"name": "capnumcta2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capimpmto2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capnumdct","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capmondif","type": "NUMERIC","mode": "NULLABLE"}
+
+]

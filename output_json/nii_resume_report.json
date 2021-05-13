@@ -1,0 +1,27 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_ambiente","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_scenario","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_book","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_sub_book","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre_book","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre_sub_book","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre_grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "orden_sub_book","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden_book","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden_prod","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "id_stress","type": "INTEGER","mode": "NULLABLE"},
+{"name": "stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "bucket","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_mn","type": "NUMERIC","mode": "NULLABLE"}
+
+]

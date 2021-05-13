@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdocta","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "com_general_int_rate_risk","type": "STRING","mode": "NULLABLE"},
+{"name": "com_fx_risk","type": "STRING","mode": "NULLABLE"},
+{"name": "com_equity_risk","type": "STRING","mode": "NULLABLE"},
+{"name": "com_specific_issuer","type": "STRING","mode": "NULLABLE"},
+{"name": "com_options","type": "STRING","mode": "NULLABLE"}
+
+]

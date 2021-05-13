@@ -1,0 +1,17 @@
+[
+{"name": "nrcons","type": "INTEGER","mode": "REQUIRED"},
+{"name": "sys","type": "STRING","mode": "NULLABLE"},
+{"name": "glpath","type": "STRING","mode": "NULLABLE"},
+{"name": "transpath","type": "STRING","mode": "NULLABLE"},
+{"name": "filename","type": "STRING","mode": "NULLABLE"},
+{"name": "port","type": "STRING","mode": "NULLABLE"},
+{"name": "hostname","type": "STRING","mode": "NULLABLE"},
+{"name": "env","type": "STRING","mode": "NULLABLE"},
+{"name": "node","type": "STRING","mode": "NULLABLE"},
+{"name": "process_name","type": "STRING","mode": "NULLABLE"},
+{"name": "remote_file","type": "STRING","mode": "NULLABLE"},
+{"name": "remote_path","type": "STRING","mode": "NULLABLE"},
+{"name": "transfer_type","type": "STRING","mode": "NULLABLE"},
+{"name": "postprocess","type": "STRING","mode": "NULLABLE"}
+
+]

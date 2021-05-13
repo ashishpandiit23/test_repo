@@ -1,0 +1,23 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_persona","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_interes","type": "STRING","mode": "NULLABLE"}
+
+]

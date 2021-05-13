@@ -1,0 +1,6 @@
+[
+{"name": "accountid","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_sicobi","type": "STRING","mode": "NULLABLE"}
+
+]

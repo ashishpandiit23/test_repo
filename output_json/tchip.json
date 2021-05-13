@@ -1,0 +1,5 @@
+[
+{"name": "credito","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "esqtasa","type": "INTEGER","mode": "NULLABLE"}
+
+]

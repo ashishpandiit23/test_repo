@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cveint","type": "STRING","mode": "NULLABLE"},
+{"name": "msgctl","type": "STRING","mode": "NULLABLE"},
+{"name": "numreg","type": "INTEGER","mode": "NULLABLE"}
+
+]

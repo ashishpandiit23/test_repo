@@ -1,0 +1,7 @@
+[
+{"name": "gho_code","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "accou_treat","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_contra","type": "STRING","mode": "NULLABLE"}
+
+]

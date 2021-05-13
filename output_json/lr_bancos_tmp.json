@@ -1,0 +1,9 @@
+[
+{"name": "cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_me","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "banco","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "per_int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_per_int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

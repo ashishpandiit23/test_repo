@@ -1,0 +1,11 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "tamano_cupon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

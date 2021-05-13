@@ -1,0 +1,7 @@
+[
+{"name": "ferfecinf","type": "DATE","mode": "NULLABLE"},
+{"name": "ferfecrep","type": "STRING","mode": "NULLABLE"},
+{"name": "fernumcol","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fervalfec","type": "DATE","mode": "NULLABLE"}
+
+]

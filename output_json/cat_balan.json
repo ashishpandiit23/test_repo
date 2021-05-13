@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "rubro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "porta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "op","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "consec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cta","type": "STRING","mode": "NULLABLE"},
+{"name": "sicnroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "siccodaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"}
+
+]

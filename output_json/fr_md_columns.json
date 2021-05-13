@@ -1,0 +1,8 @@
+[
+{"name": "id_db_field","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_db_table","type": "INTEGER","mode": "NULLABLE"},
+{"name": "colno","type": "INTEGER","mode": "NULLABLE"},
+{"name": "colname","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"}
+
+]

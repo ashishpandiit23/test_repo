@@ -1,0 +1,10 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cta_contable","type": "STRING","mode": "NULLABLE"},
+{"name": "auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "conta1","type": "STRING","mode": "NULLABLE"},
+{"name": "conta2","type": "STRING","mode": "NULLABLE"},
+{"name": "conta3","type": "STRING","mode": "NULLABLE"}
+
+]

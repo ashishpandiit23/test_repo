@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "REQUIRED"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchven","type": "DATE","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "recpag","type": "STRING","mode": "NULLABLE"}
+
+]

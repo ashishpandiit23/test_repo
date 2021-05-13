@@ -1,0 +1,9 @@
+[
+{"name": "no_cred","type": "STRING","mode": "NULLABLE"},
+{"name": "mone","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "cal_cnbv","type": "STRING","mode": "NULLABLE"},
+{"name": "reserv1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reserv2","type": "NUMERIC","mode": "NULLABLE"}
+
+]

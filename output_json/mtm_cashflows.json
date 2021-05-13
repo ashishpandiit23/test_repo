@@ -1,0 +1,9 @@
+[
+{"name": "am_id_field","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "am_id_field_2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchamo","type": "DATE","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "term","type": "NUMERIC","mode": "NULLABLE"}
+
+]

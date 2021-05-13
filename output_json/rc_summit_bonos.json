@@ -1,0 +1,5 @@
+[
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "instr","type": "STRING","mode": "NULLABLE"}
+
+]

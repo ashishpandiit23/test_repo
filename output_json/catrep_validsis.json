@@ -1,0 +1,6 @@
+[
+{"name": "legado","type": "STRING","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "contraparte_matches","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"}
+
+]

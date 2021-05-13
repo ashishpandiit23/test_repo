@@ -1,0 +1,21 @@
+[
+{"name": "id_carga","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_carga","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_carga","type": "STRING","mode": "NULLABLE"},
+{"name": "src_file","type": "STRING","mode": "REQUIRED"},
+{"name": "dest_table","type": "STRING","mode": "REQUIRED"},
+{"name": "date_column","type": "STRING","mode": "NULLABLE"},
+{"name": "date_format","type": "STRING","mode": "NULLABLE"},
+{"name": "content_type","type": "STRING","mode": "NULLABLE"},
+{"name": "file_separator","type": "STRING","mode": "NULLABLE"},
+{"name": "file_table_mapping","type": "STRING","mode": "NULLABLE"},
+{"name": "frequency","type": "STRING","mode": "NULLABLE"},
+{"name": "rows_to_skip","type": "INTEGER","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "validate_column_pos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "add_process_date","type": "INTEGER","mode": "NULLABLE"},
+{"name": "module","type": "STRING","mode": "NULLABLE"},
+{"name": "run_process_after","type": "STRING","mode": "NULLABLE"},
+{"name": "sheet_num","type": "INTEGER","mode": "NULLABLE"}
+
+]

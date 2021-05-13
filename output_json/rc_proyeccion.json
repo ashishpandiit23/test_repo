@@ -1,0 +1,26 @@
+[
+{"name": "id","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf_anterior","type": "DATE","mode": "REQUIRED"},
+{"name": "fchinf_actual","type": "DATE","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "consecutivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "swaps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "activo_swaps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia_swaps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tenencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "activo_tenencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia_tenencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "futuros","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "activo_futuros","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia_futuros","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reportos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "activo_reportos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia_reportos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha_valor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "activo_fecha_valor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia_fecha_valor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prestamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "activo_prestamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia_prestamo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

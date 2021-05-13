@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "seccion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "inst1","type": "STRING","mode": "NULLABLE"},
+{"name": "inst2","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

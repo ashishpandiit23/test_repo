@@ -1,0 +1,5 @@
+[
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "shortdescrip","type": "STRING","mode": "NULLABLE"}
+
+]

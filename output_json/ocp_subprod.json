@@ -1,0 +1,8 @@
+[
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "sub","type": "INTEGER","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"}
+
+]

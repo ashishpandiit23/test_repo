@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchven","type": "DATE","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "nromonrec","type": "STRING","mode": "NULLABLE"},
+{"name": "nromonent","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_bruto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_reci","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_entre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_opera","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_bruto_entre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_tasa_p","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa_r","type": "STRING","mode": "NULLABLE"},
+{"name": "dias_act","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dias_pas","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto_act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_pas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "v_monto_act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_monto_pas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"}
+
+]

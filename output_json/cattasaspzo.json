@@ -1,0 +1,7 @@
+[
+{"name": "cvevector_ori","type": "STRING","mode": "NULLABLE"},
+{"name": "cvevector_des","type": "STRING","mode": "NULLABLE"},
+{"name": "maxpzo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "suma","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "tc_orig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tc_dol","type": "NUMERIC","mode": "NULLABLE"}
+
+]

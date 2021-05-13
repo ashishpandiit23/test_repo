@@ -1,0 +1,8 @@
+[
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capital_base","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_base","type": "NUMERIC","mode": "NULLABLE"}
+
+]

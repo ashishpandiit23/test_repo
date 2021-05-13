@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "id_ambiente","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "bucket","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"}
+
+]

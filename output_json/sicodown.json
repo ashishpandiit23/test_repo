@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "nummon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "codaux","type": "STRING","mode": "NULLABLE"},
+{"name": "num_secuen","type": "STRING","mode": "NULLABLE"},
+{"name": "typ","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_deal","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_valor","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_venci","type": "DATE","mode": "NULLABLE"},
+{"name": "tip_moncon","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_montocon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tip_monrec","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_montorec","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ban_pago","type": "STRING","mode": "NULLABLE"},
+{"name": "sal_contra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

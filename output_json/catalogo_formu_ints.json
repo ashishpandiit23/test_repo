@@ -1,0 +1,5 @@
+[
+{"name": "formu_ints","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"}
+
+]

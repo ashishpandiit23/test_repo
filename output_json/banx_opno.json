@@ -1,0 +1,8 @@
+[
+{"name": "nooper","type": "STRING","mode": "NULLABLE"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "llave","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "NULLABLE"},
+{"name": "mes","type": "STRING","mode": "NULLABLE"},
+{"name": "abr_mes","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "inscontra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "capini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasanom","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_tope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "margen","type": "NUMERIC","mode": "NULLABLE"}
+
+]

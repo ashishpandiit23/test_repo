@@ -1,0 +1,8 @@
+[
+{"name": "id_val_cat_table","type": "INTEGER","mode": "REQUIRED"},
+{"name": "db_table","type": "STRING","mode": "NULLABLE"},
+{"name": "id_val_cat","type": "INTEGER","mode": "NULLABLE"},
+{"name": "db_field","type": "STRING","mode": "NULLABLE"},
+{"name": "date_field","type": "STRING","mode": "NULLABLE"}
+
+]

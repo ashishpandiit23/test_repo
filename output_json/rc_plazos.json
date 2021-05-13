@@ -1,0 +1,7 @@
+[
+{"name": "consecutivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_inicial","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_final","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

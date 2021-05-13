@@ -1,0 +1,22 @@
+[
+{"name": "fec_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_amort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_ints","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_alta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_vencto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_prox_int","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_prox_pago","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_ult_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "imp_amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_comaper","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_comanual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "modalidad","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nom_modalidad","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,9 @@
+[
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "sub_tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_lob","type": "STRING","mode": "NULLABLE"},
+{"name": "shock","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "escenario","type": "NUMERIC","mode": "NULLABLE"}
+
+]

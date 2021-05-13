@@ -1,0 +1,5 @@
+[
+{"name": "clave","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nombre_edo","type": "STRING","mode": "NULLABLE"}
+
+]

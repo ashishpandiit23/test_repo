@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tdc_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tdc_porc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

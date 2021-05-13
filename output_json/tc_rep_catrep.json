@@ -1,0 +1,25 @@
+[
+{"name": "num_institucion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_empresa","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "REQUIRED"},
+{"name": "nom_reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "nom_corto","type": "STRING","mode": "REQUIRED"},
+{"name": "num_col_totales","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_col_contables","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ren_compensacion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "periodo","type": "STRING","mode": "REQUIRED"},
+{"name": "redondeo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_banxico","type": "STRING","mode": "REQUIRED"},
+{"name": "tipo_correo","type": "STRING","mode": "REQUIRED"},
+{"name": "campo_1","type": "STRING","mode": "REQUIRED"},
+{"name": "campo_2","type": "STRING","mode": "REQUIRED"},
+{"name": "campo_3","type": "STRING","mode": "REQUIRED"},
+{"name": "campo_4","type": "STRING","mode": "REQUIRED"},
+{"name": "campo_5","type": "STRING","mode": "REQUIRED"},
+{"name": "sta_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_regist","type": "DATE","mode": "NULLABLE"},
+{"name": "hor_regist","type": "DATEtime","mode": "NULLABLE"},
+{"name": "usu_regist","type": "STRING","mode": "NULLABLE"}
+
+]

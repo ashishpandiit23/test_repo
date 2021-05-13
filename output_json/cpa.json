@@ -1,0 +1,8 @@
+[
+{"name": "cpanumpar","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cpanompar","type": "STRING","mode": "NULLABLE"},
+{"name": "cpadespar","type": "STRING","mode": "NULLABLE"},
+{"name": "cpanatpar","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cpaoripar","type": "INTEGER","mode": "NULLABLE"}
+
+]

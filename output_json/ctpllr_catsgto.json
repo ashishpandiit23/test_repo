@@ -1,0 +1,7 @@
+[
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

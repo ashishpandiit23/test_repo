@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "id_rep","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_cta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_sic","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_sicval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_orig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_origval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_comentario","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo_sicpro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cat_min","type": "STRING","mode": "NULLABLE"}
+
+]

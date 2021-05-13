@@ -1,0 +1,10 @@
+[
+{"name": "cve_cia","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "STRING","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_pas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"}
+
+]

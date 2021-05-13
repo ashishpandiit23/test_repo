@@ -1,0 +1,5 @@
+[
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "idsubprod","type": "STRING","mode": "NULLABLE"}
+
+]

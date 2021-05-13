@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "recpag","type": "STRING","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchven","type": "DATE","mode": "NULLABLE"},
+{"name": "fchproint","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasafwd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spread","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasacomp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchval","type": "DATE","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "tasacup","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factdesc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valorpres","type": "NUMERIC","mode": "NULLABLE"}
+
+]

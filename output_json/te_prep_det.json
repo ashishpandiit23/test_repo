@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nocred","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pago_fijo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_periodo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cap_periodo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_insoluto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "probabilidad","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_periodo_p","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cap_periodo_p","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_insoluto_pre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_vect","type": "NUMERIC","mode": "NULLABLE"}
+
+]

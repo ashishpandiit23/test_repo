@@ -1,0 +1,11 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "fchini_amort","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto_amort","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"}
+
+]

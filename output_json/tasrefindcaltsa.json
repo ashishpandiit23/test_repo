@@ -1,0 +1,8 @@
+[
+{"name": "indcaltsa","type": "STRING","mode": "NULLABLE"},
+{"name": "tasabmx","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "cve_inst","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_inst","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "REQUIRED"}
+
+]

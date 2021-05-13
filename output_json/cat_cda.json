@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "cat","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "currency","type": "STRING","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "fecini_amorti","type": "STRING","mode": "NULLABLE"},
+{"name": "fecfin_amorti","type": "STRING","mode": "NULLABLE"},
+{"name": "fixing","type": "STRING","mode": "NULLABLE"},
+{"name": "payment","type": "STRING","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "strike","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "set_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "delta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vegq","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

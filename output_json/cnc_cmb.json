@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "agrupado","type": "STRING","mode": "NULLABLE"},
+{"name": "bbm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bbu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mme","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "corp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "otra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bbmc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bbuc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mmec","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "corpc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "otrac","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,14 @@
+[
+{"name": "archivo_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "legacy_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "prod_ori","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod_ori","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prodacpra","type": "STRING","mode": "NULLABLE"},
+{"name": "vista1","type": "STRING","mode": "NULLABLE"},
+{"name": "vista2","type": "STRING","mode": "NULLABLE"}
+
+]

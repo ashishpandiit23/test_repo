@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "excepcion","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "add_code","type": "STRING","mode": "NULLABLE"},
+{"name": "sub_code","type": "STRING","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"}
+
+]

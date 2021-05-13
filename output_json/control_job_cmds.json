@@ -1,0 +1,10 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cmd","type": "STRING","mode": "NULLABLE"},
+{"name": "dias","type": "STRING","mode": "NULLABLE"},
+{"name": "horas","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "propietario","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"}
+
+]

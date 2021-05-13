@@ -1,0 +1,12 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecini","type": "DATE","mode": "NULLABLE"},
+{"name": "fecven","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_ints","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,27 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "summitid","type": "STRING","mode": "NULLABLE"},
+{"name": "fchop","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_pago","type": "DATE","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "nat_ext","type": "STRING","mode": "NULLABLE"},
+{"name": "tratado","type": "STRING","mode": "NULLABLE"},
+{"name": "fchliq","type": "DATE","mode": "NULLABLE"},
+{"name": "curr_type","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exchange_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mxn_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "paym_type","type": "STRING","mode": "NULLABLE"},
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_r","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_p","type": "STRING","mode": "NULLABLE"},
+{"name": "broker","type": "STRING","mode": "NULLABLE"},
+{"name": "ctpyii","type": "INTEGER","mode": "NULLABLE"},
+{"name": "typepaymii","type": "INTEGER","mode": "NULLABLE"},
+{"name": "brokerid","type": "INTEGER","mode": "NULLABLE"},
+{"name": "indexs","type": "INTEGER","mode": "NULLABLE"},
+{"name": "excenta","type": "STRING","mode": "NULLABLE"},
+{"name": "id_condition","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "campo","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"}
+
+]

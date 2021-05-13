@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_mxn_udi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_usd_oth","type": "NUMERIC","mode": "NULLABLE"}
+
+]

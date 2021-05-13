@@ -1,0 +1,8 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cmd","type": "STRING","mode": "NULLABLE"},
+{"name": "output","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "postretas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "averatet","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "posit5","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "averatei","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

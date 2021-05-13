@@ -1,0 +1,9 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_com","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_com","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "inicio","type": "DATE","mode": "NULLABLE"},
+{"name": "fin","type": "DATE","mode": "NULLABLE"}
+
+]

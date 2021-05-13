@@ -1,0 +1,8 @@
+[
+{"name": "acronimo","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codigo1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codigo2","type": "STRING","mode": "NULLABLE"}
+
+]

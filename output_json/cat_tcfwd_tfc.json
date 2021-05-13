@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "mon","type": "STRING","mode": "NULLABLE"},
+{"name": "compra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "venta","type": "NUMERIC","mode": "NULLABLE"}
+
+]

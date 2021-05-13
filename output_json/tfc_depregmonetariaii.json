@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "capori","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "intdev","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "liquidacion","type": "STRING","mode": "NULLABLE"},
+{"name": "monope","type": "INTEGER","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numopera","type": "STRING","mode": "NULLABLE"},
+{"name": "tasaint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intacumulado","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diacupon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "diaflag","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "tw","type": "INTEGER","mode": "NULLABLE"},
+{"name": "porc","type": "INTEGER","mode": "NULLABLE"}
+
+]

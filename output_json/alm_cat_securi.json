@@ -1,0 +1,7 @@
+[
+{"name": "letra","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "codaux","type": "STRING","mode": "NULLABLE"},
+{"name": "nroaux","type": "STRING","mode": "NULLABLE"}
+
+]

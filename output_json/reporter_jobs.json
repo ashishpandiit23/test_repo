@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "name","type": "STRING","mode": "NULLABLE"},
+{"name": "group","type": "STRING","mode": "NULLABLE"},
+{"name": "jobclass","type": "STRING","mode": "NULLABLE"}
+
+]

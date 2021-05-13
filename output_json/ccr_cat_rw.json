@@ -1,0 +1,8 @@
+[
+{"name": "llave","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs","type": "STRING","mode": "NULLABLE"},
+{"name": "mat","type": "STRING","mode": "NULLABLE"},
+{"name": "rw","type": "NUMERIC","mode": "NULLABLE"}
+
+]

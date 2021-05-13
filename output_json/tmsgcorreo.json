@@ -1,0 +1,5 @@
+[
+{"name": "id_correo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "des_correo","type": "STRING","mode": "NULLABLE"}
+
+]

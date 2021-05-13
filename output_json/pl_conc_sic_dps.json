@@ -1,0 +1,7 @@
+[
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "id_mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_grupo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

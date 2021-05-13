@@ -1,0 +1,13 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "name_murex","type": "STRING","mode": "NULLABLE"},
+{"name": "name_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "name_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "nacionalidad","type": "STRING","mode": "NULLABLE"},
+{"name": "crr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exposure","type": "STRING","mode": "NULLABLE"},
+{"name": "grade_local","type": "STRING","mode": "NULLABLE"},
+{"name": "grade_extra","type": "STRING","mode": "NULLABLE"}
+
+]

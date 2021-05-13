@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cont","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_cont","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_said","type": "STRING","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"}
+
+]

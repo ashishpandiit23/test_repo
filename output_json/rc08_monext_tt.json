@@ -1,0 +1,18 @@
+[
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_c","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_totala","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_totalb","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_f","type": "STRING","mode": "NULLABLE"},
+{"name": "mac_me","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mac_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vacio_i","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_j","type": "STRING","mode": "NULLABLE"},
+{"name": "man_me","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vacio_m","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_n","type": "STRING","mode": "NULLABLE"},
+{"name": "variacion","type": "NUMERIC","mode": "NULLABLE"}
+
+]

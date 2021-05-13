@@ -1,0 +1,11 @@
+[
+{"name": "fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "id_section","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subsection","type": "STRING","mode": "NULLABLE"},
+{"name": "id_row","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_column","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "multiplier","type": "INTEGER","mode": "NULLABLE"}
+
+]

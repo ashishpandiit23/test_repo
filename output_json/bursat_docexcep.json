@@ -1,0 +1,11 @@
+[
+{"name": "num_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "st_cav","type": "STRING","mode": "NULLABLE"},
+{"name": "testimonio","type": "STRING","mode": "NULLABLE"},
+{"name": "garantia","type": "STRING","mode": "NULLABLE"},
+{"name": "documentos","type": "STRING","mode": "NULLABLE"},
+{"name": "excepciones","type": "STRING","mode": "NULLABLE"},
+{"name": "pv1207","type": "INTEGER","mode": "NULLABLE"},
+{"name": "desc_exc","type": "STRING","mode": "NULLABLE"}
+
+]

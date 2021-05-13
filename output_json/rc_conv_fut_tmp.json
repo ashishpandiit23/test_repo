@@ -1,0 +1,14 @@
+[
+{"name": "institucion","type": "STRING","mode": "NULLABLE"},
+{"name": "fe_corte","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini","type": "STRING","mode": "NULLABLE"},
+{"name": "nu_id","type": "STRING","mode": "NULLABLE"},
+{"name": "act_ope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pas_ope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preconteod","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mda_suby","type": "STRING","mode": "NULLABLE"},
+{"name": "estrategia","type": "STRING","mode": "NULLABLE"},
+{"name": "objope","type": "STRING","mode": "NULLABLE"},
+{"name": "numcontratos","type": "NUMERIC","mode": "NULLABLE"}
+
+]

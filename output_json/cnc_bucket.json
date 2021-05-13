@@ -1,0 +1,6 @@
+[
+{"name": "bucket","type": "STRING","mode": "NULLABLE"},
+{"name": "rango","type": "STRING","mode": "NULLABLE"},
+{"name": "minimo","type": "INTEGER","mode": "NULLABLE"}
+
+]

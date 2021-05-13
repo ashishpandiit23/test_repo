@@ -1,0 +1,9 @@
+[
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "inicio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasas_int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ot_subyacente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fx_oro","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,16 @@
+[
+{"name": "average_type","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_date_year","type": "INTEGER","mode": "NULLABLE"},
+{"name": "deal_date_month","type": "INTEGER","mode": "NULLABLE"},
+{"name": "counterparty_parent","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_name","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte_type","type": "STRING","mode": "NULLABLE"},
+{"name": "oper_type","type": "STRING","mode": "NULLABLE"},
+{"name": "pair_curr","type": "STRING","mode": "NULLABLE"},
+{"name": "num_deals","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "devstd_num_deals","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avg_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "stdev_amount","type": "NUMERIC","mode": "NULLABLE"}
+
+]

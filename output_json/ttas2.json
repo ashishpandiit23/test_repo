@@ -1,0 +1,5 @@
+[
+{"name": "fec_actual","type": "DATE","mode": "NULLABLE"},
+{"name": "dos","type": "INTEGER","mode": "NULLABLE"}
+
+]

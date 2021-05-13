@@ -1,0 +1,25 @@
+[
+{"name": "numorden_mnr","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"},
+{"name": "num_profit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numorden_mcs","type": "STRING","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "n","type": "STRING","mode": "NULLABLE"},
+{"name": "precio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "des1","type": "INTEGER","mode": "NULLABLE"},
+{"name": "des2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "des3","type": "INTEGER","mode": "NULLABLE"},
+{"name": "des4","type": "INTEGER","mode": "NULLABLE"},
+{"name": "des5","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "premio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valuacion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

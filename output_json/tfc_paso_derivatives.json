@@ -1,0 +1,14 @@
+[
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "libro","type": "STRING","mode": "NULLABLE"},
+{"name": "v_activa_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_activa_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_pasiva_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_pasiva_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fk_cve_gpo_ctas","type": "INTEGER","mode": "NULLABLE"}
+
+]

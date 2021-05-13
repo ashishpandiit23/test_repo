@@ -1,0 +1,6 @@
+[
+{"name": "banx_cve","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"}
+
+]

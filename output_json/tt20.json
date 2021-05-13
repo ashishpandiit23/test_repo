@@ -1,0 +1,11 @@
+[
+{"name": "campo1","type": "STRING","mode": "NULLABLE"},
+{"name": "campo2","type": "STRING","mode": "NULLABLE"},
+{"name": "campo3","type": "STRING","mode": "NULLABLE"},
+{"name": "campo4","type": "STRING","mode": "NULLABLE"},
+{"name": "campo5","type": "STRING","mode": "NULLABLE"},
+{"name": "campo6","type": "STRING","mode": "NULLABLE"},
+{"name": "campo7","type": "STRING","mode": "NULLABLE"},
+{"name": "campo8","type": "STRING","mode": "NULLABLE"}
+
+]

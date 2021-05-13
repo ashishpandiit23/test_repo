@@ -1,0 +1,5 @@
+[
+{"name": "num_moneda","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "id_cta","type": "INTEGER","mode": "NULLABLE"}
+
+]

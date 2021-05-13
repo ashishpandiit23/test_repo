@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_cta","type": "STRING","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "nomcol","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "aux_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "aux","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"}
+
+]

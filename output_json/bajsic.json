@@ -1,0 +1,10 @@
+[
+{"name": "nroins","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nroemp","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

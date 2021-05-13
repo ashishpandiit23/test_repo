@@ -1,0 +1,26 @@
+[
+{"name": "num_cta_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prod_o","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod_o","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon_o","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_actual_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ints_pag_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_ints_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecven_o","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_ini_o","type": "DATE","mode": "NULLABLE"},
+{"name": "numcliente_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomcte_o","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prod_f","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod_f","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon_f","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_actual_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ints_pag_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_ints_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecven_f","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_ini_f","type": "DATE","mode": "NULLABLE"},
+{"name": "numcliente_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomcte_f","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf_f","type": "DATE","mode": "NULLABLE"}
+
+]

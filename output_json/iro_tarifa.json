@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "lim_inf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lim_sup","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tarifa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

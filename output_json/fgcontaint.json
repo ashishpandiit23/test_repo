@@ -1,0 +1,26 @@
+[
+{"name": "institucio","type": "STRING","mode": "NULLABLE"},
+{"name": "empresa","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "scta1","type": "STRING","mode": "NULLABLE"},
+{"name": "scta2","type": "STRING","mode": "NULLABLE"},
+{"name": "scta3","type": "STRING","mode": "NULLABLE"},
+{"name": "scta4","type": "STRING","mode": "NULLABLE"},
+{"name": "scta5","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "num_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "promedio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_vdll","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prom_vdll","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_vmn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prom_vmn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "asset","type": "STRING","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "nivel","type": "STRING","mode": "NULLABLE"},
+{"name": "afec","type": "STRING","mode": "NULLABLE"}
+
+]

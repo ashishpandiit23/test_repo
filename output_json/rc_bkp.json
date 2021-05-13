@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "c_agre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_trading","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_hedge","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_nominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_mn_t","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_me","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_me_t","type": "NUMERIC","mode": "NULLABLE"}
+
+]

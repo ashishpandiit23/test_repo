@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "emisionserie","type": "STRING","mode": "NULLABLE"},
+{"name": "dxvpapel","type": "INTEGER","mode": "NULLABLE"}
+
+]

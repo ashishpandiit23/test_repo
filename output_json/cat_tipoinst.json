@@ -1,0 +1,5 @@
+[
+{"name": "cve_inst","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

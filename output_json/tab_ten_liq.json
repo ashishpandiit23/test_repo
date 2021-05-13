@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "emision_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo_vto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo_emi","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ponderador_emi","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

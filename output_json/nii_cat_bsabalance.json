@@ -1,0 +1,6 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipor_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"}
+
+]

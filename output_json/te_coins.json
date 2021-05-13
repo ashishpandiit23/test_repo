@@ -1,0 +1,12 @@
+[
+{"name": "co_cveare","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_cveins","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_cvemon","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_indfin","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_sobesp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_mistas","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_usureg","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_fecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "co_horreg","type": "STRING","mode": "REQUIRED"}
+
+]

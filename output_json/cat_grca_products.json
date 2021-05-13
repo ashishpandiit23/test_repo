@@ -1,0 +1,6 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "parent_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla_rep","type": "STRING","mode": "NULLABLE"}
+
+]

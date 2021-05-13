@@ -1,0 +1,6 @@
+[
+{"name": "id_grupo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_operacion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "atributo","type": "INTEGER","mode": "REQUIRED"}
+
+]

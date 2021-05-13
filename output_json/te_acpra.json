@@ -1,0 +1,9 @@
+[
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_corte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "des_nomb1","type": "STRING","mode": "NULLABLE"}
+
+]

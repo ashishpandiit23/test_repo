@@ -1,0 +1,7 @@
+[
+{"name": "cve_cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"}
+
+]

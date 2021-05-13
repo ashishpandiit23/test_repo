@@ -1,0 +1,7 @@
+[
+{"name": "formulario","type": "STRING","mode": "REQUIRED"},
+{"name": "num_validacion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "concepto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"}
+
+]

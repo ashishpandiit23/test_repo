@@ -1,0 +1,7 @@
+[
+{"name": "inscontra","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "promotor","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

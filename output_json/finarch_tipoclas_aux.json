@@ -1,0 +1,6 @@
+[
+{"name": "cve_tipoclas","type": "INTEGER","mode": "NULLABLE"},
+{"name": "amort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "amort_type","type": "STRING","mode": "NULLABLE"}
+
+]

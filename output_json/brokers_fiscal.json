@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "customer","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeid","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "currency","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "sdi","type": "STRING","mode": "NULLABLE"},
+{"name": "amount_payed_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "amount_expected_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "difeference_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "dtp_amount_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "difference_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "comments","type": "STRING","mode": "NULLABLE"},
+{"name": "amount_payed","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amount_expected","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "difeference","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dtp_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "differences","type": "NUMERIC","mode": "NULLABLE"}
+
+]

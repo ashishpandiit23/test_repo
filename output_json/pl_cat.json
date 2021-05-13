@@ -1,0 +1,10 @@
+[
+{"name": "id_plcat","type": "INTEGER","mode": "REQUIRED"},
+{"name": "jfccbr","type": "INTEGER","mode": "NULLABLE"},
+{"name": "jfpctr","type": "STRING","mode": "NULLABLE"},
+{"name": "jfacty","type": "STRING","mode": "NULLABLE"},
+{"name": "jfdpos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "jfapty","type": "STRING","mode": "NULLABLE"},
+{"name": "suma","type": "INTEGER","mode": "NULLABLE"}
+
+]

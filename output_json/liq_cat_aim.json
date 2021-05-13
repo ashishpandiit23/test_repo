@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "contrato","type": "STRING","mode": "NULLABLE"},
+{"name": "individual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "opuesta","type": "NUMERIC","mode": "NULLABLE"}
+
+]

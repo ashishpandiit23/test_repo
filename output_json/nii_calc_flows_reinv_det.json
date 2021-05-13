@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_stress","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "bucket","type": "INTEGER","mode": "NULLABLE"},
+{"name": "stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"}
+
+]

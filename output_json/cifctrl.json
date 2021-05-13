@@ -1,0 +1,7 @@
+[
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "canti","type": "INTEGER","mode": "NULLABLE"},
+{"name": "suma","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha","type": "DATEtime","mode": "NULLABLE"}
+
+]

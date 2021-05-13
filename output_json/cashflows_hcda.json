@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_cap","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_cap","type": "STRING","mode": "NULLABLE"},
+{"name": "interes_ftp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

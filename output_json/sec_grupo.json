@@ -1,0 +1,7 @@
+[
+{"name": "id_grupo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_aplicacion","type": "INTEGER","mode": "REQUIRED"}
+
+]

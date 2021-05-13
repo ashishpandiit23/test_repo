@@ -1,0 +1,8 @@
+[
+{"name": "fecha","type": "DATEtime","mode": "NULLABLE"},
+{"name": "num","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "tamano","type": "INTEGER","mode": "NULLABLE"},
+{"name": "libre","type": "INTEGER","mode": "NULLABLE"}
+
+]

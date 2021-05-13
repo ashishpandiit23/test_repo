@@ -1,0 +1,13 @@
+[
+{"name": "afinrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "aficnsfii","type": "INTEGER","mode": "REQUIRED"},
+{"name": "afifchpag","type": "DATE","mode": "NULLABLE"},
+{"name": "afimtoamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "afinrodxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "aficveban","type": "INTEGER","mode": "NULLABLE"},
+{"name": "afifchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "afitipope","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvestapar","type": "NUMERIC","mode": "NULLABLE"}
+
+]

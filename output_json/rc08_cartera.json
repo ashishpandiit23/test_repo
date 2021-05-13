@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "c_agre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mac_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mac_udis_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mac_udis_morig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_udis_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_udis_morig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "var_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "var_udis_val","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,8 @@
+[
+{"name": "carcverep","type": "STRING","mode": "REQUIRED"},
+{"name": "dernumcon","type": "INTEGER","mode": "REQUIRED"},
+{"name": "dernomcon","type": "STRING","mode": "NULLABLE"},
+{"name": "rancodran","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dernumord","type": "INTEGER","mode": "NULLABLE"}
+
+]

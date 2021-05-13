@@ -1,0 +1,14 @@
+[
+{"name": "fec_proceso","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_alterno_1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_alterno_2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_alterno_3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "desc_alterno_1","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_alterno_1a","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_alterno_2","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_alterno_2a","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_alterno_3","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_alterno_3a","type": "STRING","mode": "NULLABLE"},
+{"name": "comentarios","type": "STRING","mode": "NULLABLE"}
+
+]

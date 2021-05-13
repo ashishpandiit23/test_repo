@@ -1,0 +1,5 @@
+[
+{"name": "finrep_cust_code","type": "INTEGER","mode": "NULLABLE"},
+{"name": "finrep_cust_type","type": "STRING","mode": "NULLABLE"}
+
+]

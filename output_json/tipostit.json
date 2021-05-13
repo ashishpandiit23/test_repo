@@ -1,0 +1,14 @@
+[
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cusip","type": "STRING","mode": "NULLABLE"},
+{"name": "isin","type": "STRING","mode": "NULLABLE"},
+{"name": "fchemi","type": "DATE","mode": "NULLABLE"},
+{"name": "fchven","type": "DATE","mode": "NULLABLE"},
+{"name": "emisor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomemisor","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,10 @@
+[
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "num_deal","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "formula","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"}
+
+]

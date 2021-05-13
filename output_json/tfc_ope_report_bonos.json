@@ -1,0 +1,17 @@
+[
+{"name": "cve_reporte","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_descripcion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_producto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_moneda","type": "INTEGER","mode": "REQUIRED"},
+{"name": "gho","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_tipo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_clasificacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_tipoclas","type": "INTEGER","mode": "REQUIRED"},
+{"name": "orden","type": "INTEGER","mode": "REQUIRED"},
+{"name": "seguimiento","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_grupo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "contra_cta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fk_cve_contraparte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "val_dealing_pos","type": "INTEGER","mode": "NULLABLE"}
+
+]

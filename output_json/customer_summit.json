@@ -1,0 +1,28 @@
+[
+{"name": "acronym","type": "STRING","mode": "NULLABLE"},
+{"name": "short_name","type": "STRING","mode": "NULLABLE"},
+{"name": "full_name","type": "STRING","mode": "NULLABLE"},
+{"name": "residence","type": "STRING","mode": "NULLABLE"},
+{"name": "nationality","type": "STRING","mode": "NULLABLE"},
+{"name": "country","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_eg_lp_mn","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_eg_lp_me","type": "STRING","mode": "NULLABLE"},
+{"name": "sp__cp_me","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_en_lp","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_en_cp","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_eg_lp_mn","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_eg_lp_me","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch__cp_me","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_en_","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_eg_dlp_me","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_eg_delp_me","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_eg_cp_me","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_eg_dlp_mn","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_eg_delp_mn","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_eg_cp_mn","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_en_lp","type": "STRING","mode": "NULLABLE"},
+{"name": "moody_en_cp","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "relacionado","type": "INTEGER","mode": "NULLABLE"}
+
+]

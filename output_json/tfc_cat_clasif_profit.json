@@ -1,0 +1,6 @@
+[
+{"name": "cve_fk_descripcion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "clasif_local","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif_ifrs","type": "STRING","mode": "NULLABLE"}
+
+]

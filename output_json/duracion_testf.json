@@ -1,0 +1,12 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "REQUIRED"},
+{"name": "amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "flujos","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "diask","type": "INTEGER","mode": "NULLABLE"},
+{"name": "diastk","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "duracion","type": "NUMERIC","mode": "NULLABLE"}
+
+]

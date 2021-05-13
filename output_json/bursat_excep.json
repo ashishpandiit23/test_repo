@@ -1,0 +1,5 @@
+[
+{"name": "num_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "excep","type": "INTEGER","mode": "NULLABLE"}
+
+]

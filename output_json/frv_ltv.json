@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_credit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "imp_garantia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_ori","type": "NUMERIC","mode": "NULLABLE"}
+
+]

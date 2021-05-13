@@ -1,0 +1,8 @@
+[
+{"name": "id_report_name","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_id_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "qry","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horareg","type": "STRING","mode": "NULLABLE"}
+
+]

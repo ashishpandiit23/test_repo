@@ -1,0 +1,28 @@
+[
+{"name": "type_","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "INTEGER","mode": "NULLABLE"},
+{"name": "product_type","type": "STRING","mode": "NULLABLE"},
+{"name": "composite_deal","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_activity_type","type": "STRING","mode": "NULLABLE"},
+{"name": "original_deal_number","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_date","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "value_date","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dealer_id","type": "STRING","mode": "NULLABLE"},
+{"name": "origination_id","type": "STRING","mode": "NULLABLE"},
+{"name": "maintenance_user_id","type": "STRING","mode": "NULLABLE"},
+{"name": "maintenance_terminal","type": "STRING","mode": "NULLABLE"},
+{"name": "gho_classification","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_acronym","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_short_name","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_position","type": "INTEGER","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "product_currency","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_activity_subtype","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_number","type": "STRING","mode": "NULLABLE"},
+{"name": "exchange_code","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_lots","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "buy_sell_indicator","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_memo_narrative","type": "STRING","mode": "NULLABLE"},
+{"name": "booking_id","type": "STRING","mode": "NULLABLE"}
+
+]

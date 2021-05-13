@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clase_tasa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rengs","type": "INTEGER","mode": "NULLABLE"},
+{"name": "amort_ftp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_ftp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

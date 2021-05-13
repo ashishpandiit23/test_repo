@@ -1,0 +1,7 @@
+[
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "mon_rec","type": "STRING","mode": "NULLABLE"},
+{"name": "gross_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "maturity","type": "INTEGER","mode": "NULLABLE"}
+
+]

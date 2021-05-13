@@ -1,0 +1,6 @@
+[
+{"name": "current_code","type": "STRING","mode": "REQUIRED"},
+{"name": "new_code","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

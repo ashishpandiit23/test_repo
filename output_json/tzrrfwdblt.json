@@ -1,0 +1,17 @@
+[
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "moneda_rec","type": "STRING","mode": "NULLABLE"},
+{"name": "mto_rec","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "moneda_ent","type": "STRING","mode": "NULLABLE"},
+{"name": "mto_ent","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tc1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tc2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_peso","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_dolar","type": "NUMERIC","mode": "NULLABLE"}
+
+]

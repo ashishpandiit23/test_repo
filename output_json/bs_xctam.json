@@ -1,0 +1,15 @@
+[
+{"name": "periodo","type": "STRING","mode": "NULLABLE"},
+{"name": "natu","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "negocio","type": "STRING","mode": "NULLABLE"},
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_prom","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "codaux","type": "STRING","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"}
+
+]

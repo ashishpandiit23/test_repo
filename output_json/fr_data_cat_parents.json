@@ -1,0 +1,11 @@
+[
+{"name": "id_section_child","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subsection_child","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_row_child","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_column_child","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_section","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subsection","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_row","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_column","type": "INTEGER","mode": "NULLABLE"}
+
+]

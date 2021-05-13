@@ -1,0 +1,13 @@
+[
+{"name": "co_capspr","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_marint","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_cveind","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_monope","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_cveare","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_tpagfon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_tasbas","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_fecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "co_horreg","type": "STRING","mode": "REQUIRED"},
+{"name": "co_usureg","type": "NUMERIC","mode": "REQUIRED"}
+
+]

@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "startval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "startacc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endacc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cashflow","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "profitlo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

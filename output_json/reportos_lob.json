@@ -1,0 +1,7 @@
+[
+{"name": "num_cte","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "perf_cte","type": "STRING","mode": "REQUIRED"},
+{"name": "lob","type": "STRING","mode": "REQUIRED"},
+{"name": "num_cta","type": "NUMERIC","mode": "REQUIRED"}
+
+]

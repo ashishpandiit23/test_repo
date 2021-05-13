@@ -1,0 +1,13 @@
+[
+{"name": "co_numemp","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_cveare","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_cveins","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_tipper","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_plaini","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_plafin","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_sobtas","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_usureg","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_fecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "co_horreg","type": "STRING","mode": "REQUIRED"}
+
+]

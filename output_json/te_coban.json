@@ -1,0 +1,9 @@
+[
+{"name": "co_cveban","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_cvesec","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_cveori","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_usureg","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_fecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "co_horreg","type": "STRING","mode": "REQUIRED"}
+
+]

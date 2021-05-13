@@ -1,0 +1,11 @@
+[
+{"name": "am_id_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tx_cta_conta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tx_cod_aux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tx_num_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "am_rango","type": "INTEGER","mode": "NULLABLE"}
+
+]

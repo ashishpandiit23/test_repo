@@ -1,0 +1,12 @@
+[
+{"name": "insempnroi","type": "INTEGER","mode": "REQUIRED"},
+{"name": "insempnroe","type": "INTEGER","mode": "REQUIRED"},
+{"name": "insempnrod","type": "INTEGER","mode": "REQUIRED"},
+{"name": "insempdes","type": "STRING","mode": "NULLABLE"},
+{"name": "pardirlod","type": "STRING","mode": "NULLABLE"},
+{"name": "pardirtra","type": "STRING","mode": "NULLABLE"},
+{"name": "pardirfrm","type": "STRING","mode": "NULLABLE"},
+{"name": "pardirrep","type": "STRING","mode": "NULLABLE"},
+{"name": "pardircog","type": "STRING","mode": "NULLABLE"}
+
+]

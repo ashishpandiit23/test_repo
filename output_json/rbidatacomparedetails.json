@@ -1,0 +1,10 @@
+[
+{"name": "process_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "process_name","type": "STRING","mode": "NULLABLE"},
+{"name": "compared_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "trade_number","type": "STRING","mode": "NULLABLE"},
+{"name": "field_name","type": "STRING","mode": "NULLABLE"},
+{"name": "orig_value","type": "STRING","mode": "NULLABLE"},
+{"name": "final_value","type": "STRING","mode": "NULLABLE"}
+
+]

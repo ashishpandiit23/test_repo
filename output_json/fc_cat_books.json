@@ -1,0 +1,7 @@
+[
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "cost_center","type": "INTEGER","mode": "NULLABLE"},
+{"name": "activity","type": "STRING","mode": "NULLABLE"}
+
+]

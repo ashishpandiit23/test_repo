@@ -1,0 +1,13 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "empresa","type": "STRING","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "porc_participacion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "relacion_emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto_capital","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capital_contable","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_participacion","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_capital_cont","type": "DATE","mode": "NULLABLE"},
+{"name": "valor_razonable","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

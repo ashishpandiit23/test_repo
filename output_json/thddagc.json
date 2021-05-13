@@ -1,0 +1,17 @@
+[
+{"name": "cliente","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mon","type": "STRING","mode": "NULLABLE"},
+{"name": "prod","type": "STRING","mode": "NULLABLE"},
+{"name": "sprod","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sucur","type": "INTEGER","mode": "NULLABLE"},
+{"name": "prom","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sector","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha_ape","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_ope","type": "STRING","mode": "NULLABLE"},
+{"name": "cia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "importe","type": "NUMERIC","mode": "NULLABLE"}
+
+]

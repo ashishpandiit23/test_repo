@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "rectype","type": "STRING","mode": "NULLABLE"},
+{"name": "site_id","type": "STRING","mode": "NULLABLE"},
+{"name": "country_cod","type": "STRING","mode": "NULLABLE"},
+{"name": "group_id","type": "STRING","mode": "NULLABLE"},
+{"name": "accid","type": "STRING","mode": "NULLABLE"},
+{"name": "account_cod","type": "STRING","mode": "NULLABLE"},
+{"name": "accsousys","type": "STRING","mode": "NULLABLE"},
+{"name": "group_cod","type": "STRING","mode": "NULLABLE"}
+
+]

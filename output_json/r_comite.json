@@ -1,0 +1,13 @@
+[
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "no_comite","type": "INTEGER","mode": "NULLABLE"},
+{"name": "reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "usa_mon","type": "INTEGER","mode": "NULLABLE"}
+
+]

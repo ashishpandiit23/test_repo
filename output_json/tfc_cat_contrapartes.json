@@ -1,0 +1,10 @@
+[
+{"name": "pk_cve_contrapartes","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_catalogo","type": "STRING","mode": "REQUIRED"},
+{"name": "cve_contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_clasificacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "centro_costos","type": "STRING","mode": "NULLABLE"},
+{"name": "fk_cve_bookclassif","type": "INTEGER","mode": "NULLABLE"}
+
+]

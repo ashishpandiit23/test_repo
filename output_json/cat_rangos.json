@@ -1,0 +1,7 @@
+[
+{"name": "plazo_aclme","type": "INTEGER","mode": "NULLABLE"},
+{"name": "banda1","type": "INTEGER","mode": "NULLABLE"},
+{"name": "banda2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipoope","type": "STRING","mode": "NULLABLE"}
+
+]

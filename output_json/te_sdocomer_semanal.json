@@ -1,0 +1,22 @@
+[
+{"name": "numero","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "status","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecproc","type": "STRING","mode": "NULLABLE"},
+{"name": "fchalt","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "STRING","mode": "NULLABLE"},
+{"name": "proxint","type": "STRING","mode": "NULLABLE"},
+{"name": "proxpago","type": "STRING","mode": "NULLABLE"},
+{"name": "pagobanco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdofondo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numamort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numints","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasacobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasacobrfdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasapagafdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "stausgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdocomanual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdocomaper","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,15 @@
+[
+{"name": "id_num","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_report_name","type": "INTEGER","mode": "REQUIRED"},
+{"name": "am_id_field","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_num_bloque","type": "INTEGER","mode": "REQUIRED"},
+{"name": "am_institucion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tx_cta_conta","type": "STRING","mode": "NULLABLE"},
+{"name": "tx_cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "tx_num_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "am_rango","type": "INTEGER","mode": "NULLABLE"}
+
+]

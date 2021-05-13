@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "credito","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diasxper","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "tasvpzo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fuente","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,21 @@
+[
+{"name": "id_mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_dps","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_libro","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_clase","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subclase","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_rubro","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nprofit","type": "STRING","mode": "NULLABLE"},
+{"name": "subprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "taccount","type": "STRING","mode": "NULLABLE"},
+{"name": "tproduct","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_pos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_libro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_clase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_subclase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_rubro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_legacy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"}
+
+]

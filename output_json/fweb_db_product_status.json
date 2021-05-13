@@ -1,0 +1,10 @@
+[
+{"name": "aplicativo","type": "STRING","mode": "NULLABLE"},
+{"name": "interfaces","type": "INTEGER","mode": "NULLABLE"},
+{"name": "status_general","type": "INTEGER","mode": "NULLABLE"},
+{"name": "en_verde","type": "INTEGER","mode": "NULLABLE"},
+{"name": "en_amarillo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "en_rojo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

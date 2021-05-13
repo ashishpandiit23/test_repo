@@ -1,0 +1,19 @@
+[
+{"name": "repfchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "carcverep","type": "STRING","mode": "REQUIRED"},
+{"name": "dernumcon","type": "INTEGER","mode": "REQUIRED"},
+{"name": "repcadagr","type": "STRING","mode": "REQUIRED"},
+{"name": "repdxvini","type": "INTEGER","mode": "REQUIRED"},
+{"name": "repdxvfin","type": "INTEGER","mode": "REQUIRED"},
+{"name": "codint","type": "STRING","mode": "REQUIRED"},
+{"name": "repimpope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reptitimp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "repimpope2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "repimpope3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "repimpope4","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

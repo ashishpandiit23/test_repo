@@ -1,0 +1,28 @@
+[
+{"name": "num_int","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "des_int","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_arc","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_tab","type": "STRING","mode": "NULLABLE"},
+{"name": "colum_fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "form_fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "formatoarchivo","type": "STRING","mode": "NULLABLE"},
+{"name": "separador","type": "STRING","mode": "NULLABLE"},
+{"name": "mapeotabla","type": "STRING","mode": "NULLABLE"},
+{"name": "colum_a_saltarse","type": "INTEGER","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "categoria","type": "STRING","mode": "NULLABLE"},
+{"name": "id_funcion_reporter","type": "INTEGER","mode": "NULLABLE"},
+{"name": "lecturaporposicion","type": "STRING","mode": "NULLABLE"},
+{"name": "adddatecolumn","type": "INTEGER","mode": "NULLABLE"},
+{"name": "frecuencia","type": "STRING","mode": "NULLABLE"},
+{"name": "run_process_after","type": "STRING","mode": "NULLABLE"},
+{"name": "validate_column_pos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "renglon_eliminar","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_carga","type": "STRING","mode": "NULLABLE"},
+{"name": "parchruno","type": "STRING","mode": "NULLABLE"},
+{"name": "parametrosprocess","type": "STRING","mode": "NULLABLE"},
+{"name": "habilanterior","type": "INTEGER","mode": "NULLABLE"},
+{"name": "run_background","type": "STRING","mode": "NULLABLE"}
+
+]

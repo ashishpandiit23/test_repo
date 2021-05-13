@@ -1,0 +1,24 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ent_fin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "min_may","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "gob_nogob","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mnr_myr_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mnr_may_ano","type": "INTEGER","mode": "NULLABLE"},
+{"name": "accesorios","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_31","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_61","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_91","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_121","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_151","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_181","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_211","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_241","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_271","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_301","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_331","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rango_361","type": "NUMERIC","mode": "NULLABLE"}
+
+]

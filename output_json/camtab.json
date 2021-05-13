@@ -1,0 +1,12 @@
+[
+{"name": "bdscns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tablascodi","type": "STRING","mode": "REQUIRED"},
+{"name": "camtabcns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "camtabnom","type": "STRING","mode": "NULLABLE"},
+{"name": "camtabdes","type": "STRING","mode": "NULLABLE"},
+{"name": "camtabtpo","type": "STRING","mode": "NULLABLE"},
+{"name": "camtablon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "camtabnde","type": "INTEGER","mode": "NULLABLE"},
+{"name": "catabmcca","type": "STRING","mode": "NULLABLE"}
+
+]

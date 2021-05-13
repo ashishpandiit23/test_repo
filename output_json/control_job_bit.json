@@ -1,0 +1,7 @@
+[
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "fcheje","type": "DATE","mode": "NULLABLE"},
+{"name": "horeje","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "STRING","mode": "NULLABLE"}
+
+]

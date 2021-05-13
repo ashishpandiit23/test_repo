@@ -1,0 +1,14 @@
+[
+{"name": "id_mapeo_contable","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_mapeo_det","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_prod_branch","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_prod_nprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_prod_subprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_prod_taccount","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_prod_tproduct","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_prod_dealing","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "estatus","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "DATE","mode": "NULLABLE"}
+
+]

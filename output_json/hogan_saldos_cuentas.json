@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mes","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta","type": "STRING","mode": "NULLABLE"},
+{"name": "des_nom","type": "STRING","mode": "NULLABLE"},
+{"name": "empresa","type": "STRING","mode": "NULLABLE"},
+{"name": "pais","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_vigente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_vigente_valorizado","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,14 @@
+[
+{"name": "num_secuen","type": "STRING","mode": "NULLABLE"},
+{"name": "typ","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_deal","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_venci","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_moncon","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_montocon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tip_monrec","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_montorec","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ban_pago","type": "STRING","mode": "NULLABLE"},
+{"name": "sal_contra","type": "NUMERIC","mode": "NULLABLE"}
+
+]

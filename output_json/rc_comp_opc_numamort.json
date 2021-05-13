@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tradeid_nyc","type": "STRING","mode": "NULLABLE"},
+{"name": "fecini","type": "DATE","mode": "NULLABLE"},
+{"name": "fecfin","type": "DATE","mode": "NULLABLE"},
+{"name": "fecini_1er","type": "DATE","mode": "NULLABLE"},
+{"name": "amort_inicio","type": "STRING","mode": "NULLABLE"}
+
+]

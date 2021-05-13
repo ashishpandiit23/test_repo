@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "group_member","type": "STRING","mode": "NULLABLE"},
+{"name": "branch_number","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_number","type": "STRING","mode": "NULLABLE"},
+{"name": "pay_rec_indicator","type": "STRING","mode": "NULLABLE"},
+{"name": "period_start_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "period_end_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "schedule_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "schedule_record_type","type": "STRING","mode": "NULLABLE"},
+{"name": "principal_carrying_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interest_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fixed_flag","type": "STRING","mode": "NULLABLE"},
+{"name": "cash_flow","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "settlement_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "interest_accrual_str_date","type": "STRING","mode": "NULLABLE"},
+{"name": "interest_accrual_end_date","type": "STRING","mode": "NULLABLE"}
+
+]

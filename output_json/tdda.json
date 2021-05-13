@@ -1,0 +1,15 @@
+[
+{"name": "ddanrocte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ddanrocce","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ddanomcte","type": "STRING","mode": "NULLABLE"},
+{"name": "ddanromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ddactausa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ddalibreg","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ddafchape","type": "STRING","mode": "NULLABLE"},
+{"name": "ddasdoact","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ddasdodis","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ddactamex","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ddanomctu","type": "STRING","mode": "NULLABLE"},
+{"name": "ddanrotin","type": "NUMERIC","mode": "NULLABLE"}
+
+]

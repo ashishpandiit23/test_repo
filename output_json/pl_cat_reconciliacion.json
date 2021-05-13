@@ -1,0 +1,9 @@
+[
+{"name": "id_concepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_dps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "NUMERIC","mode": "NULLABLE"}
+
+]

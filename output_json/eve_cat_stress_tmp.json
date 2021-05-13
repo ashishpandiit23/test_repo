@@ -1,0 +1,9 @@
+[
+{"name": "pl_pb","type": "STRING","mode": "NULLABLE"},
+{"name": "pl_","type": "STRING","mode": "NULLABLE"},
+{"name": "increase_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "decrease_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "increase_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "decrease_usd","type": "NUMERIC","mode": "NULLABLE"}
+
+]

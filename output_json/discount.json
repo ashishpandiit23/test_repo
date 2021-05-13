@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dcur30b","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dcur30o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dcur30o1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dcur30o7","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dcur30oh","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dswpti30b","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dswpti30o","type": "NUMERIC","mode": "NULLABLE"}
+
+]

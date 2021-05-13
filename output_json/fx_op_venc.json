@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "numopera","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "dxv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monrecibi","type": "STRING","mode": "NULLABLE"},
+{"name": "compra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monentre","type": "STRING","mode": "NULLABLE"},
+{"name": "venta","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "ccpcverep","type": "STRING","mode": "NULLABLE"},
+{"name": "ccpnumcon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ccptitimp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ccpnumpar","type": "INTEGER","mode": "NULLABLE"}
+
+]

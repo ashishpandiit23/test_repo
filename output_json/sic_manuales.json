@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_conta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_monto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "uso","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "dia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pas","type": "NUMERIC","mode": "NULLABLE"}
+
+]

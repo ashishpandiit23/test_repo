@@ -1,0 +1,10 @@
+[
+{"name": "co_cveare","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_numemp","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_numins","type": "INTEGER","mode": "REQUIRED"},
+{"name": "co_valsob","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_usureg","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_fecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "co_horreg","type": "STRING","mode": "REQUIRED"}
+
+]

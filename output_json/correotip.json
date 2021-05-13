@@ -1,0 +1,8 @@
+[
+{"name": "tipo_correo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nomtipo","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

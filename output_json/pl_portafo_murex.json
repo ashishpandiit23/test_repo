@@ -1,0 +1,5 @@
+[
+{"name": "id_mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"}
+
+]

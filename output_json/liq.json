@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "legacy","type": "STRING","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "coflp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "montolp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "slp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

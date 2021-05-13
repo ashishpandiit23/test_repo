@@ -1,0 +1,7 @@
+[
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "treats","type": "STRING","mode": "NULLABLE"},
+{"name": "summit","type": "STRING","mode": "NULLABLE"},
+{"name": "murex","type": "STRING","mode": "NULLABLE"}
+
+]

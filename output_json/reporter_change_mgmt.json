@@ -1,0 +1,17 @@
+[
+{"name": "module","type": "STRING","mode": "REQUIRED"},
+{"name": "change_id","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "tabname","type": "STRING","mode": "REQUIRED"},
+{"name": "field","type": "STRING","mode": "REQUIRED"},
+{"name": "row_id","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tabdesc","type": "STRING","mode": "NULLABLE"},
+{"name": "change_type","type": "STRING","mode": "NULLABLE"},
+{"name": "old_value","type": "STRING","mode": "NULLABLE"},
+{"name": "new_value","type": "STRING","mode": "NULLABLE"},
+{"name": "requested_by","type": "STRING","mode": "NULLABLE"},
+{"name": "approved_by","type": "STRING","mode": "NULLABLE"},
+{"name": "comment","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "hrreg","type": "DATEtime","mode": "NULLABLE"}
+
+]

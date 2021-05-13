@@ -1,0 +1,7 @@
+[
+{"name": "fec","type": "STRING","mode": "NULLABLE"},
+{"name": "fuente","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"}
+
+]

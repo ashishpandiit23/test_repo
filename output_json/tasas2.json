@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "yld30d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld60d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld90d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld120d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld150d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld180d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld210d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld240d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld270d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld300d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld330d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld360d","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"}
+
+]

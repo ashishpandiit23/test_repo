@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "emision_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "prof_centr_mne","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_pos_num","type": "INTEGER","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo_vto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_adj","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchpip","type": "DATE","mode": "NULLABLE"},
+{"name": "preciosucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valornominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_limpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "liq_prem","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_pond_lp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

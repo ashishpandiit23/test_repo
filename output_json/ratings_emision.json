@@ -1,0 +1,24 @@
+[
+{"name": "id_level","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_sec","type": "STRING","mode": "NULLABLE"},
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "issuer","type": "STRING","mode": "NULLABLE"},
+{"name": "guarantor","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_instrument_rating_long_term_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_instrument_rating_short_term_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "instrument_rating_long_term_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "instrument_rating_short_term_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_instrument_rating_long_term_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_instrument_rating_short_term_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_instrument_rating_long_term_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_instrument_rating_short_term_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "instrument_rating_long_term_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "instrument_rating_short_term_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_instrument_rating_long_termmonloc","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_instrument_rating_short_term_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

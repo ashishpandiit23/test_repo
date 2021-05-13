@@ -1,0 +1,8 @@
+[
+{"name": "cve_clase","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subclase","type": "STRING","mode": "NULLABLE"},
+{"name": "clasifica1","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subclase","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mes_alta","type": "NUMERIC","mode": "NULLABLE"}
+
+]

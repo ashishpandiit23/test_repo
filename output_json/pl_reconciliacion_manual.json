@@ -1,0 +1,12 @@
+[
+{"name": "id_reconciliacion_man","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_concepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_dps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_proceso","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_ajuste","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "observaciones","type": "STRING","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "NUMERIC","mode": "NULLABLE"}
+
+]

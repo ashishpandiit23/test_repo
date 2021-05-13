@@ -1,0 +1,21 @@
+[
+{"name": "business_date","type": "STRING","mode": "NULLABLE"},
+{"name": "summit_hub_id","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "receive_side_mv_in_native_currency","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pay_side_mv_in_native_currency","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accrued_interest_receivable_in_native_currency","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accrued_interest_payable_in_native_currency","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "receive_notional_in_native_currency","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pay_notional_in_native_currency","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "currency_receive","type": "STRING","mode": "NULLABLE"},
+{"name": "currency_pay","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_date","type": "STRING","mode": "NULLABLE"},
+{"name": "settlement_date","type": "STRING","mode": "NULLABLE"},
+{"name": "maturity_date","type": "STRING","mode": "NULLABLE"},
+{"name": "cost_center","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "numauxpo","type": "STRING","mode": "NULLABLE"}
+
+]

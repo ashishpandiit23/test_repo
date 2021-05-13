@@ -1,0 +1,12 @@
+[
+{"name": "periodo","type": "STRING","mode": "NULLABLE"},
+{"name": "cis","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cliente","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "lp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clave","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

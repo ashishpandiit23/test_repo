@@ -1,0 +1,28 @@
+[
+{"name": "broker","type": "STRING","mode": "NULLABLE"},
+{"name": "summitid","type": "STRING","mode": "NULLABLE"},
+{"name": "trader","type": "STRING","mode": "NULLABLE"},
+{"name": "desk","type": "STRING","mode": "NULLABLE"},
+{"name": "typeop","type": "STRING","mode": "NULLABLE"},
+{"name": "externalid","type": "STRING","mode": "NULLABLE"},
+{"name": "salesperson","type": "STRING","mode": "NULLABLE"},
+{"name": "userperson","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "pccy","type": "STRING","mode": "NULLABLE"},
+{"name": "purchnotional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sccy","type": "STRING","mode": "NULLABLE"},
+{"name": "salenotional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tradeDATE","type": "DATE","mode": "NULLABLE"},
+{"name": "effDATE","type": "DATE","mode": "NULLABLE"},
+{"name": "matDATE","type": "DATE","mode": "NULLABLE"},
+{"name": "cpty","type": "STRING","mode": "NULLABLE"},
+{"name": "legalname","type": "STRING","mode": "NULLABLE"},
+{"name": "fixed","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fixedpayer","type": "STRING","mode": "NULLABLE"},
+{"name": "floatint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ecnname","type": "STRING","mode": "NULLABLE"},
+{"name": "confrqd","type": "STRING","mode": "NULLABLE"},
+{"name": "fixedtext","type": "STRING","mode": "NULLABLE"},
+{"name": "fixed2","type": "NUMERIC","mode": "NULLABLE"}
+
+]

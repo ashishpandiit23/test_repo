@@ -1,0 +1,5 @@
+[
+{"name": "no_cliente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_vto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

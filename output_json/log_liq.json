@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "var1","type": "STRING","mode": "NULLABLE"},
+{"name": "var2","type": "STRING","mode": "NULLABLE"},
+{"name": "var3","type": "STRING","mode": "NULLABLE"}
+
+]

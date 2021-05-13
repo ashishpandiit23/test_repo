@@ -1,0 +1,23 @@
+[
+{"name": "tipo_reg","type": "INTEGER","mode": "NULLABLE"},
+{"name": "account","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accountdt","type": "DATE","mode": "NULLABLE"},
+{"name": "fpaymentdt","type": "DATE","mode": "NULLABLE"},
+{"name": "npaymentdt","type": "DATE","mode": "NULLABLE"},
+{"name": "matdt","type": "DATE","mode": "NULLABLE"},
+{"name": "term","type": "INTEGER","mode": "NULLABLE"},
+{"name": "term_rem","type": "INTEGER","mode": "NULLABLE"},
+{"name": "amountfin","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prin_ini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago_pri","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago_int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cust_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prin_ini2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago_pri2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago_int2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "inipaymentdt","type": "INTEGER","mode": "NULLABLE"},
+{"name": "transfer_rate","type": "NUMERIC","mode": "NULLABLE"}
+
+]

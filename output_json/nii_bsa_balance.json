@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_bsa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "nSTRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "nSTRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof_vof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "adj_saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "adj_cof_vof","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "fondo","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "csoc_aut","type": "STRING","mode": "NULLABLE"},
+{"name": "accs_emit","type": "STRING","mode": "NULLABLE"},
+{"name": "csoc_pag","type": "STRING","mode": "NULLABLE"},
+{"name": "accs_circ","type": "STRING","mode": "NULLABLE"},
+{"name": "pje_circ","type": "STRING","mode": "NULLABLE"},
+{"name": "act_total","type": "STRING","mode": "NULLABLE"},
+{"name": "act_neto","type": "STRING","mode": "NULLABLE"}
+
+]

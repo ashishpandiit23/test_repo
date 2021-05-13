@@ -1,0 +1,9 @@
+[
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_inicial","type": "STRING","mode": "NULLABLE"},
+{"name": "abonos","type": "STRING","mode": "NULLABLE"},
+{"name": "cargos","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_final","type": "STRING","mode": "NULLABLE"}
+
+]

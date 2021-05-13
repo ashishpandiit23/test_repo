@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "des_nomb","type": "STRING","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "imp_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cal_cnbv","type": "STRING","mode": "NULLABLE"},
+{"name": "reserva","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_premio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fondeo_brk","type": "NUMERIC","mode": "NULLABLE"}
+
+]

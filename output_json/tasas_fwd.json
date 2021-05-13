@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld30","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld60","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld90","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld120","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld150","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld180","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld210","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld240","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld270","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld300","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld330","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yld360","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,10 @@
+[
+{"name": "fec1","type": "STRING","mode": "NULLABLE"},
+{"name": "num1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "des","type": "STRING","mode": "NULLABLE"},
+{"name": "numero","type": "STRING","mode": "NULLABLE"},
+{"name": "solo1","type": "STRING","mode": "NULLABLE"},
+{"name": "num2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num3","type": "NUMERIC","mode": "NULLABLE"}
+
+]

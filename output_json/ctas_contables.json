@@ -1,0 +1,14 @@
+[
+{"name": "producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_conta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cod_aux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "uso","type": "INTEGER","mode": "NULLABLE"}
+
+]

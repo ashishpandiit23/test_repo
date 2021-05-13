@@ -1,0 +1,24 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "NULLABLE"},
+{"name": "approach","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_linea","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clas_irb3","type": "STRING","mode": "NULLABLE"},
+{"name": "intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pond_cc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccf_unal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rw","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "is_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "ccobs_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "fac_type","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento_bb","type": "STRING","mode": "NULLABLE"},
+{"name": "lin_neg_bb","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_moneda","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "provision","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "garantia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "unal_com","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exp_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rwa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

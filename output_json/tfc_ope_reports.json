@@ -1,0 +1,14 @@
+[
+{"name": "cve_reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contrato","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "INTEGER","mode": "NULLABLE"},
+{"name": "subprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seguimiento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"}
+
+]

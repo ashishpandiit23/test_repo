@@ -1,0 +1,13 @@
+[
+{"name": "id_mapeo_rec","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_concepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_dps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_libro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_clase","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_subclase","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_rubro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_producto_legacy","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "estatus","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "NUMERIC","mode": "NULLABLE"}
+
+]

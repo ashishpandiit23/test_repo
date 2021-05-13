@@ -1,0 +1,22 @@
+[
+{"name": "sdafchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "sdanumper","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdaressob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdaresfal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdalimsob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdalimfal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdaexesup","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdaexeinf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdadensob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdadenfal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdaacumul","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdapromed","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdareqdos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdatipdia","type": "STRING","mode": "NULLABLE"},
+{"name": "sdanomdia","type": "STRING","mode": "NULLABLE"},
+{"name": "sdadiares","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdanumdia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdaacufal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdaacusob","type": "NUMERIC","mode": "NULLABLE"}
+
+]

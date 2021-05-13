@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cis","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cal_crr","type": "NUMERIC","mode": "NULLABLE"}
+
+]

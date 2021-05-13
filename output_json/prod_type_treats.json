@@ -1,0 +1,5 @@
+[
+{"name": "prod","type": "STRING","mode": "REQUIRED"},
+{"name": "name","type": "STRING","mode": "NULLABLE"}
+
+]

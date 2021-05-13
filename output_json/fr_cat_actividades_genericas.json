@@ -1,0 +1,6 @@
+[
+{"name": "id_actividad","type": "INTEGER","mode": "REQUIRED"},
+{"name": "actividad","type": "STRING","mode": "NULLABLE"},
+{"name": "id_institucion","type": "INTEGER","mode": "NULLABLE"}
+
+]

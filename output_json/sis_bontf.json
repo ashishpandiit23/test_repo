@@ -1,0 +1,12 @@
+[
+{"name": "cvemoneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveintope","type": "STRING","mode": "NULLABLE"},
+{"name": "cveemi","type": "STRING","mode": "NULLABLE"},
+{"name": "folref","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchiniope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvenope","type": "DATE","mode": "NULLABLE"},
+{"name": "impcapact","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasvpzo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

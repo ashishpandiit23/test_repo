@@ -1,0 +1,12 @@
+[
+{"name": "cve_reporte","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "elabora","type": "INTEGER","mode": "NULLABLE"},
+{"name": "autoriza","type": "INTEGER","mode": "NULLABLE"},
+{"name": "proceso","type": "STRING","mode": "NULLABLE"},
+{"name": "rep_path_fk","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "fase_proceso","type": "INTEGER","mode": "NULLABLE"}
+
+]

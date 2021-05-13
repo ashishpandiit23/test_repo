@@ -1,0 +1,22 @@
+[
+{"name": "fgsegmab","type": "STRING","mode": "NULLABLE"},
+{"name": "fgsebrno","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fgseacno","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fgseieco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fgseacsn","type": "STRING","mode": "NULLABLE"},
+{"name": "fgseauxl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fgseaxno","type": "STRING","mode": "NULLABLE"},
+{"name": "fgseagma","type": "STRING","mode": "NULLABLE"},
+{"name": "fgseabrn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fgseacty","type": "STRING","mode": "NULLABLE"},
+{"name": "fgseapty","type": "STRING","mode": "NULLABLE"},
+{"name": "fgseccyc","type": "STRING","mode": "NULLABLE"},
+{"name": "fgsepctr","type": "STRING","mode": "NULLABLE"},
+{"name": "fgsespcn","type": "STRING","mode": "NULLABLE"},
+{"name": "fgsegccl","type": "STRING","mode": "NULLABLE"},
+{"name": "fgsematc","type": "STRING","mode": "NULLABLE"},
+{"name": "fgsecnta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fgselmks","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fgsedlup","type": "DATE","mode": "NULLABLE"}
+
+]

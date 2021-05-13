@@ -1,0 +1,6 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasapzolp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

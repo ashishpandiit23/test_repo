@@ -1,0 +1,6 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_exp","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

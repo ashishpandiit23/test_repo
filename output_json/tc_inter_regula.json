@@ -1,0 +1,15 @@
+[
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "des_int","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_arc","type": "STRING","mode": "NULLABLE"},
+{"name": "num_int","type": "INTEGER","mode": "NULLABLE"},
+{"name": "arc_exe","type": "STRING","mode": "NULLABLE"},
+{"name": "ord_exe","type": "INTEGER","mode": "NULLABLE"},
+{"name": "int_act","type": "INTEGER","mode": "NULLABLE"},
+{"name": "periodicidad","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo_carga","type": "STRING","mode": "NULLABLE"},
+{"name": "exec","type": "STRING","mode": "NULLABLE"},
+{"name": "ruta_prog","type": "STRING","mode": "NULLABLE"}
+
+]

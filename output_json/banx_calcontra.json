@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "legacy","type": "STRING","mode": "NULLABLE"}
+
+]

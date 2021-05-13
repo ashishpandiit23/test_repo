@@ -1,0 +1,8 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "dt_fecha_cap","type": "DATEtime","mode": "REQUIRED"},
+{"name": "id_user","type": "STRING","mode": "REQUIRED"},
+{"name": "tx_accion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tx_concepto","type": "STRING","mode": "NULLABLE"}
+
+]

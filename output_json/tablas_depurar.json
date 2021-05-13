@@ -1,0 +1,11 @@
+[
+{"name": "nombre_tabla","type": "STRING","mode": "REQUIRED"},
+{"name": "meses_utiles","type": "INTEGER","mode": "NULLABLE"},
+{"name": "columna_fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_depuracion","type": "STRING","mode": "NULLABLE"},
+{"name": "depura_a_partir_de","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_modificacion","type": "DATE","mode": "NULLABLE"},
+{"name": "activo","type": "STRING","mode": "NULLABLE"}
+
+]

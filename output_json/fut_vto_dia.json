@@ -1,0 +1,6 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "dia_vto","type": "STRING","mode": "NULLABLE"}
+
+]

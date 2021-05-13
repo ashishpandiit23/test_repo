@@ -1,0 +1,22 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "subnrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "imptot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impcarac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impvista","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diastrans","type": "INTEGER","mode": "NULLABLE"},
+{"name": "diascarc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "impcardia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impcarrein","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasmisdia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasprom","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "taspzon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasvf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomint","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

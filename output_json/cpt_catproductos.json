@@ -1,0 +1,10 @@
+[
+{"name": "cveprod","type": "STRING","mode": "REQUIRED"},
+{"name": "cvesubprod","type": "STRING","mode": "REQUIRED"},
+{"name": "cvegrupo","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_bearing","type": "STRING","mode": "NULLABLE"}
+
+]

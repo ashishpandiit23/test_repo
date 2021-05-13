@@ -1,0 +1,17 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_credit","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_regis","type": "STRING","mode": "NULLABLE"},
+{"name": "esq_fin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"},
+{"name": "cap_vig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_vig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sal_cont","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvig_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ivig_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "STRING","mode": "NULLABLE"}
+
+]

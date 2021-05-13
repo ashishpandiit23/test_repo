@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo_dia","type": "STRING","mode": "NULLABLE"},
+{"name": "tot_com","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tot_hip","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sel_com","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sel_hip","type": "INTEGER","mode": "NULLABLE"},
+{"name": "size_dem","type": "INTEGER","mode": "NULLABLE"},
+{"name": "size_paso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchhabil","type": "DATE","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "id_sp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "query_line","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,9 @@
+[
+{"name": "empresa","type": "STRING","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "porc_participa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "relacion_emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "conc_capital","type": "STRING","mode": "NULLABLE"},
+{"name": "porc_participa2","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,9 @@
+[
+{"name": "portafolio","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "g1","type": "STRING","mode": "NULLABLE"},
+{"name": "g2","type": "STRING","mode": "NULLABLE"},
+{"name": "g3","type": "STRING","mode": "NULLABLE"}
+
+]

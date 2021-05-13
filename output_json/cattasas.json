@@ -1,0 +1,10 @@
+[
+{"name": "cvevectdest","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "diainicio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "diafinal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ptosbase","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvevectori","type": "STRING","mode": "NULLABLE"},
+{"name": "cvestatus","type": "NUMERIC","mode": "NULLABLE"}
+
+]

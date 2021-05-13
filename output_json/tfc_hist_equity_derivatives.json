@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "libro","type": "STRING","mode": "NULLABLE"},
+{"name": "v_activa_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_activa_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_pasiva_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_pasiva_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

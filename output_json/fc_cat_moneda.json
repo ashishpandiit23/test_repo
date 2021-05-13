@@ -1,0 +1,5 @@
+[
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"}
+
+]

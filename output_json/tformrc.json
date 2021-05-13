@@ -1,0 +1,11 @@
+[
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "of_nac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "agencias","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "soc_inv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fondos_inv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "formu","type": "NUMERIC","mode": "NULLABLE"}
+
+]

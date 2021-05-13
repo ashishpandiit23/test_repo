@@ -1,0 +1,14 @@
+[
+{"name": "numdcloan_o","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini_o","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto_o","type": "DATE","mode": "NULLABLE"},
+{"name": "imporiginal_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasvpzo_o","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numdcloan_f","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini_f","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto_f","type": "DATE","mode": "NULLABLE"},
+{"name": "imporiginal_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasvpzo_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchinf_f","type": "DATE","mode": "NULLABLE"}
+
+]

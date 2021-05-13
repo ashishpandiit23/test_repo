@@ -1,0 +1,6 @@
+[
+{"name": "id_text","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "test","type": "STRING","mode": "NULLABLE"}
+
+]

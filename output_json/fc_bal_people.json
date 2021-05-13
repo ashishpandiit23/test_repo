@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cta_mayor","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_ini","type": "STRING","mode": "NULLABLE"},
+{"name": "debe","type": "STRING","mode": "NULLABLE"},
+{"name": "haber","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_fin","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_fin_des","type": "STRING","mode": "NULLABLE"}
+
+]

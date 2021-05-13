@@ -1,0 +1,6 @@
+[
+{"name": "conterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "treatscode","type": "STRING","mode": "NULLABLE"},
+{"name": "conterparty_name","type": "STRING","mode": "NULLABLE"}
+
+]

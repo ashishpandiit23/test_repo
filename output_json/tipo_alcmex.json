@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tc_aper","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ptos_aper","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tc_cierre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ptos_cier","type": "NUMERIC","mode": "NULLABLE"}
+
+]

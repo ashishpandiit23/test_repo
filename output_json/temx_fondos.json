@@ -1,0 +1,5 @@
+[
+{"name": "fondo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "des_fondo","type": "STRING","mode": "NULLABLE"}
+
+]

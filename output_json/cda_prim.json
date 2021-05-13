@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "subproducto","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasalp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spread","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "seccion","type": "STRING","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "cv","type": "STRING","mode": "NULLABLE"},
+{"name": "fchop","type": "STRING","mode": "NULLABLE"},
+{"name": "fchven","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "divisa","type": "STRING","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "estrategia","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_est","type": "STRING","mode": "NULLABLE"}
+
+]

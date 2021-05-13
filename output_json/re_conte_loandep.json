@@ -1,0 +1,5 @@
+[
+{"name": "id_cta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_regla","type": "INTEGER","mode": "REQUIRED"}
+
+]

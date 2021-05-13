@@ -1,0 +1,12 @@
+[
+{"name": "interfaz","type": "STRING","mode": "NULLABLE"},
+{"name": "clase","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "clase_portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_tp","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_icp","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_interna","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_modificacion","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

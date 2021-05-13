@@ -1,0 +1,10 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_bsa","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_valor","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_parent","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"}
+
+]

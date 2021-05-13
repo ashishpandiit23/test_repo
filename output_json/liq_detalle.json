@@ -1,0 +1,22 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "concepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo_por_vencer","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo_emi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ponderador_emi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "dxv_dinero","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dxv_vto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preciosucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mdys","type": "STRING","mode": "NULLABLE"}
+
+]

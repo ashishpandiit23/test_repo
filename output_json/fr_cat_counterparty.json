@@ -1,0 +1,10 @@
+[
+{"name": "id_counterparty","type": "INTEGER","mode": "REQUIRED"},
+{"name": "system_name","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "id_institucion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_country","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nace_code","type": "STRING","mode": "NULLABLE"}
+
+]

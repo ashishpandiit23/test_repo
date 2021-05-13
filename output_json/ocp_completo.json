@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "codigo","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "det","type": "STRING","mode": "NULLABLE"},
+{"name": "seccion","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "vigente","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "usu_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "hora_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "usu_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_vobo","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_vobo","type": "STRING","mode": "NULLABLE"}
+
+]

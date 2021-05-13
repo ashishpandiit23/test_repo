@@ -1,0 +1,6 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fk_complemento","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fk_origen","type": "INTEGER","mode": "REQUIRED"}
+
+]

@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchpag","type": "DATE","mode": "NULLABLE"},
+{"name": "sdoamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numpagos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "periodo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "nomusu","type": "STRING","mode": "NULLABLE"}
+
+]

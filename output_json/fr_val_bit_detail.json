@@ -1,0 +1,8 @@
+[
+{"name": "id_bit_detail","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_bit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sys_source","type": "STRING","mode": "NULLABLE"},
+{"name": "sys_field","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,22 @@
+[
+{"name": "fec_pro","type": "STRING","mode": "NULLABLE"},
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_bca","type": "INTEGER","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sb1","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sb2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sb3","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cargo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "abono","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clas_cred","type": "INTEGER","mode": "NULLABLE"},
+{"name": "enc","type": "STRING","mode": "NULLABLE"},
+{"name": "fideicomis","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tip_credit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cta_regis","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_client","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fuente","type": "INTEGER","mode": "NULLABLE"}
+
+]

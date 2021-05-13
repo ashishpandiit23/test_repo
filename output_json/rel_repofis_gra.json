@@ -1,0 +1,22 @@
+[
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "num_renglon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_columna","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tabcodi","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_auxiliar","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_economico","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_suma","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_naturaleza","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_gpo","type": "INTEGER","mode": "NULLABLE"}
+
+]

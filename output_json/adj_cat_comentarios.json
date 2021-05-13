@@ -1,0 +1,15 @@
+[
+{"name": "id_regla","type": "INTEGER","mode": "NULLABLE"},
+{"name": "account_identifier","type": "STRING","mode": "NULLABLE"},
+{"name": "account_identifier_re","type": "STRING","mode": "NULLABLE"},
+{"name": "exposure_class_code","type": "STRING","mode": "NULLABLE"},
+{"name": "exposure_class_code_re","type": "STRING","mode": "NULLABLE"},
+{"name": "rating","type": "STRING","mode": "NULLABLE"},
+{"name": "rating_re","type": "STRING","mode": "NULLABLE"},
+{"name": "approach","type": "STRING","mode": "NULLABLE"},
+{"name": "approach_re","type": "STRING","mode": "NULLABLE"},
+{"name": "basel_risk_weight","type": "STRING","mode": "NULLABLE"},
+{"name": "basel_risk_weight_re","type": "STRING","mode": "NULLABLE"},
+{"name": "comentario","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo_alm_sub","type": "STRING","mode": "NULLABLE"}
+
+]

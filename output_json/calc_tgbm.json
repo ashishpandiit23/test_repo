@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof_fidw","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_calc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof_calc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"}
+
+]

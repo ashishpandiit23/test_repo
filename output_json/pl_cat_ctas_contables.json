@@ -1,0 +1,11 @@
+[
+{"name": "id_cta_contable","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cta_contable","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_status","type": "DATE","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "formula","type": "STRING","mode": "NULLABLE"}
+
+]

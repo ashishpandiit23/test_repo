@@ -1,0 +1,7 @@
+[
+{"name": "emision","type": "STRING","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ponderador","type": "INTEGER","mode": "NULLABLE"}
+
+]

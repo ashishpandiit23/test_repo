@@ -1,0 +1,13 @@
+[
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "reg_mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "columna","type": "STRING","mode": "NULLABLE"},
+{"name": "mtm","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

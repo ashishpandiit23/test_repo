@@ -1,0 +1,10 @@
+[
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "segccl","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "intereses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "liquidacion","type": "STRING","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"}
+
+]

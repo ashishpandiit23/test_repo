@@ -1,0 +1,10 @@
+[
+{"name": "id_reporte","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "firma1","type": "STRING","mode": "NULLABLE"},
+{"name": "firma1_back","type": "STRING","mode": "NULLABLE"},
+{"name": "firma2","type": "STRING","mode": "NULLABLE"},
+{"name": "firma2_back","type": "STRING","mode": "NULLABLE"},
+{"name": "reporte_detalle","type": "STRING","mode": "NULLABLE"}
+
+]

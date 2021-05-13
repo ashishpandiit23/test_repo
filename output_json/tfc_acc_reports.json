@@ -1,0 +1,14 @@
+[
+{"name": "cve_reporte","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_moneda","type": "INTEGER","mode": "REQUIRED"},
+{"name": "sicnrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "siccodaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fk_cve_clasificacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_clas","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clas_libro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fk_cve_gpo_ctas","type": "INTEGER","mode": "NULLABLE"}
+
+]

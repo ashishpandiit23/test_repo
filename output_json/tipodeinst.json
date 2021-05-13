@@ -1,0 +1,10 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveinst","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nombinst","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horareg","type": "STRING","mode": "NULLABLE"},
+{"name": "nomusu","type": "STRING","mode": "NULLABLE"}
+
+]

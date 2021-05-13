@@ -1,0 +1,16 @@
+[
+{"name": "id_source","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_section","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subsection","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_row","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_column","type": "INTEGER","mode": "NULLABLE"},
+{"name": "formula","type": "STRING","mode": "NULLABLE"},
+{"name": "db_table","type": "STRING","mode": "NULLABLE"},
+{"name": "db_field","type": "STRING","mode": "NULLABLE"},
+{"name": "rule","type": "STRING","mode": "NULLABLE"},
+{"name": "join","type": "STRING","mode": "NULLABLE"},
+{"name": "id_owner","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_area","type": "INTEGER","mode": "NULLABLE"},
+{"name": "locked","type": "STRING","mode": "NULLABLE"}
+
+]

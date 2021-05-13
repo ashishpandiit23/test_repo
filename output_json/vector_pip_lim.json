@@ -1,0 +1,8 @@
+[
+{"name": "fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "precio","type": "NUMERIC","mode": "NULLABLE"}
+
+]

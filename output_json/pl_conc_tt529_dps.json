@@ -1,0 +1,11 @@
+[
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "id_legacy_d","type": "INTEGER","mode": "NULLABLE"},
+{"name": "prod_ttr","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_ttr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prod_dps","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_dps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_moneda","type": "STRING","mode": "NULLABLE"}
+
+]

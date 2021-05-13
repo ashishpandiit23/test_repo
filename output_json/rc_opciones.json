@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "suby","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tip_ope","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_opc","type": "STRING","mode": "NULLABLE"},
+{"name": "prec_eje","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prec_mer","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "delta_opc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_contra","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nprofit","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "grupo_sic_rc","type": "STRING","mode": "REQUIRED"},
+{"name": "grupo_sic_cc","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

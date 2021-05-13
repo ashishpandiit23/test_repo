@@ -1,0 +1,7 @@
+[
+{"name": "cve_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "num_contrato","type": "INTEGER","mode": "NULLABLE"},
+{"name": "activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

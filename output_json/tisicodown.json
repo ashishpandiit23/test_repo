@@ -1,0 +1,5 @@
+[
+{"name": "ticonsec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tireporte","type": "STRING","mode": "NULLABLE"}
+
+]

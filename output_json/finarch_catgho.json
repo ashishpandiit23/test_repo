@@ -1,0 +1,8 @@
+[
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "finarch_cust_code","type": "INTEGER","mode": "NULLABLE"},
+{"name": "finarch_cust_type","type": "STRING","mode": "NULLABLE"},
+{"name": "finrep_cust_type","type": "STRING","mode": "NULLABLE"}
+
+]

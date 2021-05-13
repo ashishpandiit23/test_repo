@@ -1,0 +1,8 @@
+[
+{"name": "co_cvecat","type": "INTEGER","mode": "NULLABLE"},
+{"name": "co_nomcat","type": "STRING","mode": "REQUIRED"},
+{"name": "co_usureg","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "co_fecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "co_horreg","type": "STRING","mode": "REQUIRED"}
+
+]

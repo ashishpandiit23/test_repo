@@ -1,0 +1,14 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ent_fin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "min_may","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "gob_nogob","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mnr_myr_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mnr_may_ano","type": "INTEGER","mode": "NULLABLE"},
+{"name": "suma_interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accesorios","type": "NUMERIC","mode": "NULLABLE"}
+
+]

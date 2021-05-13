@@ -1,0 +1,9 @@
+[
+{"name": "d_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "calificacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ponderador","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ponderador_me","type": "NUMERIC","mode": "NULLABLE"}
+
+]

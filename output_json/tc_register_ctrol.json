@@ -1,0 +1,8 @@
+[
+{"name": "nom_archivo","type": "STRING","mode": "NULLABLE"},
+{"name": "existe_fec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "posi_ini_fec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "posi_fin_fec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_creacion","type": "DATE","mode": "NULLABLE"}
+
+]

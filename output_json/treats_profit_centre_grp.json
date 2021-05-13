@@ -1,0 +1,12 @@
+[
+{"name": "group_member","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "STRING","mode": "NULLABLE"},
+{"name": "profit_grp","type": "STRING","mode": "NULLABLE"},
+{"name": "currency","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing","type": "STRING","mode": "NULLABLE"},
+{"name": "cap_usid","type": "STRING","mode": "NULLABLE"},
+{"name": "cap_wsid","type": "STRING","mode": "NULLABLE"},
+{"name": "app_usid","type": "STRING","mode": "NULLABLE"},
+{"name": "app_wsid","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,11 @@
+[
+{"name": "update_id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "param_id","type": "STRING","mode": "NULLABLE"},
+{"name": "query_id","type": "STRING","mode": "NULLABLE"},
+{"name": "name","type": "STRING","mode": "NULLABLE"},
+{"name": "type","type": "INTEGER","mode": "NULLABLE"},
+{"name": "value","type": "STRING","mode": "NULLABLE"},
+{"name": "default","type": "STRING","mode": "NULLABLE"},
+{"name": "visible","type": "STRING","mode": "NULLABLE"}
+
+]

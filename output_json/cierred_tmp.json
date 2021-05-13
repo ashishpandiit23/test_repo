@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_hdda","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_cierred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dif","type": "NUMERIC","mode": "NULLABLE"}
+
+]

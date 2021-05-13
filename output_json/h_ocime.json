@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "opera","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ofic","type": "STRING","mode": "NULLABLE"},
+{"name": "importe","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecini","type": "STRING","mode": "NULLABLE"},
+{"name": "formamort","type": "STRING","mode": "NULLABLE"},
+{"name": "numamort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecven","type": "STRING","mode": "NULLABLE"},
+{"name": "vencant","type": "STRING","mode": "NULLABLE"},
+{"name": "tasaorig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "formula","type": "STRING","mode": "NULLABLE"},
+{"name": "tasaref","type": "INTEGER","mode": "NULLABLE"},
+{"name": "puntos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "revision","type": "INTEGER","mode": "NULLABLE"},
+{"name": "reside","type": "STRING","mode": "NULLABLE"},
+{"name": "tipcont","type": "STRING","mode": "NULLABLE"},
+{"name": "contrapart","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "recursos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_cont","type": "STRING","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "num_amort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "modifica","type": "INTEGER","mode": "NULLABLE"}
+
+]

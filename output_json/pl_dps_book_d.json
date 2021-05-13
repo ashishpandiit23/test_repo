@@ -1,0 +1,26 @@
+[
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "movs_daily_pos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_daily_neg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_mtd_pos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_mtd_neg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_ytd_pos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_ytd_neg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_mov","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "des_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_contable","type": "STRING","mode": "NULLABLE"},
+{"name": "auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_sicobi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "identificador","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "id_producto_dps","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_libro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_clase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_subclase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_rubro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_legacy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_mapeo","type": "INTEGER","mode": "NULLABLE"}
+
+]

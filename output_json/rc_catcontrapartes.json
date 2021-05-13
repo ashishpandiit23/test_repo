@@ -1,0 +1,8 @@
+[
+{"name": "contraparte","type": "STRING","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ponderado","type": "INTEGER","mode": "NULLABLE"}
+
+]

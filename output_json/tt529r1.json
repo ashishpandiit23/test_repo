@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "banco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "profitcentre","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "accounttype","type": "STRING","mode": "NULLABLE"},
+{"name": "currentt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monthtodate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yeartodate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

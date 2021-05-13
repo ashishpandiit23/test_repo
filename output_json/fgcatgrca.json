@@ -1,0 +1,5 @@
+[
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "seccion","type": "STRING","mode": "NULLABLE"}
+
+]

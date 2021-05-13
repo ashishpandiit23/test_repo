@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "STRING","mode": "NULLABLE"}
+
+]

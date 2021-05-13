@@ -1,0 +1,7 @@
+[
+{"name": "num_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "expediente","type": "STRING","mode": "NULLABLE"},
+{"name": "testimonio","type": "STRING","mode": "NULLABLE"},
+{"name": "excepcion","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,19 @@
+[
+{"name": "id_correo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "des_correo","type": "STRING","mode": "NULLABLE"},
+{"name": "sub_ject","type": "STRING","mode": "NULLABLE"},
+{"name": "from","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_correo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "arc_body","type": "STRING","mode": "NULLABLE"},
+{"name": "arc_head","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_archivo","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_int","type": "STRING","mode": "NULLABLE"},
+{"name": "hor_inicio","type": "DATEtime","mode": "NULLABLE"},
+{"name": "hor_termino","type": "DATEtime","mode": "NULLABLE"},
+{"name": "tip_correo","type": "STRING","mode": "NULLABLE"},
+{"name": "num_mailenv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_maxenv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "send_mail","type": "INTEGER","mode": "NULLABLE"}
+
+]

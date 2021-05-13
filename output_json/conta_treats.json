@@ -1,0 +1,26 @@
+[
+{"name": "sagmab","type": "STRING","mode": "NULLABLE"},
+{"name": "sabrno","type": "INTEGER","mode": "NULLABLE"},
+{"name": "samvda","type": "STRING","mode": "NULLABLE"},
+{"name": "sacycn","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saacno","type": "STRING","mode": "NULLABLE"},
+{"name": "saccyc","type": "STRING","mode": "NULLABLE"},
+{"name": "saacty","type": "STRING","mode": "NULLABLE"},
+{"name": "sartna","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saltna","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "satexr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "samdcf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sasign","type": "INTEGER","mode": "NULLABLE"},
+{"name": "salmks","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saieco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saauxl","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saaxno","type": "STRING","mode": "NULLABLE"},
+{"name": "sadlno","type": "STRING","mode": "NULLABLE"},
+{"name": "samnar","type": "STRING","mode": "NULLABLE"},
+{"name": "saacsn","type": "STRING","mode": "NULLABLE"},
+{"name": "sablki","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sadnei","type": "STRING","mode": "NULLABLE"},
+{"name": "sabtch","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sacnta","type": "INTEGER","mode": "NULLABLE"}
+
+]

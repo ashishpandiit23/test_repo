@@ -1,0 +1,12 @@
+[
+{"name": "num_institucion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_empresa","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fec_prosis","type": "DATE","mode": "REQUIRED"},
+{"name": "tipo_carga","type": "STRING","mode": "REQUIRED"},
+{"name": "num_cargas","type": "INTEGER","mode": "REQUIRED"},
+{"name": "sta_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_regist","type": "DATE","mode": "NULLABLE"},
+{"name": "hor_regist","type": "DATEtime","mode": "NULLABLE"},
+{"name": "usu_regist","type": "STRING","mode": "NULLABLE"}
+
+]

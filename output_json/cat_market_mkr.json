@@ -1,0 +1,18 @@
+[
+{"name": "isacroban","type": "STRING","mode": "NULLABLE"},
+{"name": "isacroban_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo_nccr","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs_final","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs_mn","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs_me","type": "STRING","mode": "NULLABLE"},
+{"name": "ccr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lgd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "grupo_mex","type": "STRING","mode": "NULLABLE"},
+{"name": "line_of_business","type": "STRING","mode": "NULLABLE"},
+{"name": "line_of_business2","type": "STRING","mode": "NULLABLE"},
+{"name": "approach_code","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs_bono","type": "STRING","mode": "NULLABLE"}
+
+]

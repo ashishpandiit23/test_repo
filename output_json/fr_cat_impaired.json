@@ -1,0 +1,11 @@
+[
+{"name": "id_impaired","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "past_due_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "sec_description","type": "STRING","mode": "NULLABLE"},
+{"name": "impaired_amt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acum_amt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "past_due_amt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "comments","type": "STRING","mode": "NULLABLE"}
+
+]

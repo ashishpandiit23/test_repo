@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "new_code","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"}
+
+]

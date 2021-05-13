@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "clave","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "nprofit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "grupo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ponderador","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "capini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "bucket","type": "INTEGER","mode": "NULLABLE"},
+{"name": "scenario","type": "STRING","mode": "NULLABLE"},
+{"name": "id_stress","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_base","type": "INTEGER","mode": "NULLABLE"},
+{"name": "outstand_deposit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "flujo_stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "flujo_base","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_base","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "flujo_yield_nii","type": "NUMERIC","mode": "NULLABLE"}
+
+]

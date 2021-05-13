@@ -1,0 +1,10 @@
+[
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "renglon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impcol1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impcol2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impcol3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impcol4","type": "NUMERIC","mode": "NULLABLE"}
+
+]

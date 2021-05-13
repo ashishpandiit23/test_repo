@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nrocte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bucket","type": "STRING","mode": "NULLABLE"},
+{"name": "sector","type": "INTEGER","mode": "NULLABLE"}
+
+]

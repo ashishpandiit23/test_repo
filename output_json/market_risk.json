@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "trninitial","type": "STRING","mode": "NULLABLE"},
+{"name": "portfolio","type": "STRING","mode": "NULLABLE"},
+{"name": "counterpart","type": "STRING","mode": "NULLABLE"},
+{"name": "general_risk","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "specific_risk","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cap_req_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cap_req_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rwa_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rwa_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "buy_sell","type": "STRING","mode": "NULLABLE"},
+{"name": "call_put","type": "STRING","mode": "NULLABLE"},
+{"name": "nocional_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pre_sucio_ponde_strike","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tit_monto_neto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromonrec_cqs","type": "STRING","mode": "NULLABLE"},
+{"name": "vencimiento_dxv","type": "STRING","mode": "NULLABLE"},
+{"name": "tc_fwd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "r_buy","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "r_sell","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "adj_otm","type": "NUMERIC","mode": "NULLABLE"}
+
+]

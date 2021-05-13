@@ -1,0 +1,10 @@
+[
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "posicion","type": "STRING","mode": "NULLABLE"},
+{"name": "cpto_act","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cpto_pas","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cpto_actd","type": "INTEGER","mode": "NULLABLE"}
+
+]

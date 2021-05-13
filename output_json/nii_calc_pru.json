@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasanominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "residual_flows","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nocional_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valornominal_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"},
+{"name": "porc_tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porc_subprod","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porc_lob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "castigo_stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "unique_flow","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"}
+
+]

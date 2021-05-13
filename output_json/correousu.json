@@ -1,0 +1,9 @@
+[
+{"name": "cve_usu","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nom_usu","type": "STRING","mode": "REQUIRED"},
+{"name": "cve_correo","type": "STRING","mode": "REQUIRED"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

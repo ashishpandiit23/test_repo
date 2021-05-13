@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "numtitu","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mkt_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preciosucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preciolimpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valornominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "btd_garantia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_adj","type": "NUMERIC","mode": "NULLABLE"}
+
+]

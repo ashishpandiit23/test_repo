@@ -1,0 +1,8 @@
+[
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla_origen","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_legacy_d","type": "INTEGER","mode": "NULLABLE"}
+
+]

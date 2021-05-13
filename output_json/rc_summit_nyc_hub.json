@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeid_nyc","type": "STRING","mode": "NULLABLE"},
+{"name": "pors","type": "STRING","mode": "NULLABLE"},
+{"name": "commodity","type": "STRING","mode": "NULLABLE"},
+{"name": "maturity","type": "DATE","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tradeid_hub","type": "STRING","mode": "NULLABLE"},
+{"name": "parent","type": "STRING","mode": "NULLABLE"}
+
+]

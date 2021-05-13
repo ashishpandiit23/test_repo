@@ -1,0 +1,8 @@
+[
+{"name": "tipo_emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "sector","type": "STRING","mode": "NULLABLE"},
+{"name": "subsector","type": "STRING","mode": "NULLABLE"},
+{"name": "ramo","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_emisora","type": "STRING","mode": "NULLABLE"}
+
+]

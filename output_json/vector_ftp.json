@@ -1,0 +1,6 @@
+[
+{"name": "cvevectordest","type": "STRING","mode": "NULLABLE"},
+{"name": "cvevectorori","type": "STRING","mode": "NULLABLE"},
+{"name": "usu","type": "INTEGER","mode": "NULLABLE"}
+
+]

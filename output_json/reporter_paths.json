@@ -1,0 +1,6 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "path","type": "STRING","mode": "NULLABLE"}
+
+]

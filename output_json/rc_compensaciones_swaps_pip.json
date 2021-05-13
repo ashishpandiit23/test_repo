@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "dias","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "activo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pasivo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dias_comp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"}
+
+]

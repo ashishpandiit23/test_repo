@@ -1,0 +1,7 @@
+[
+{"name": "csynypcta","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "csynyplib","type": "INTEGER","mode": "REQUIRED"},
+{"name": "csysnycta","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "csysnylib","type": "INTEGER","mode": "REQUIRED"}
+
+]

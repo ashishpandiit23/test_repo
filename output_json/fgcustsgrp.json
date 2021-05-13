@@ -1,0 +1,7 @@
+[
+{"name": "bantraind","type": "STRING","mode": "NULLABLE"},
+{"name": "procode","type": "STRING","mode": "NULLABLE"},
+{"name": "custsubgr1","type": "STRING","mode": "NULLABLE"},
+{"name": "custsubgr2","type": "STRING","mode": "NULLABLE"}
+
+]

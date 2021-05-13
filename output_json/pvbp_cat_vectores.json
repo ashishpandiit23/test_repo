@@ -1,0 +1,6 @@
+[
+{"name": "clase_tasa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_vector","type": "INTEGER","mode": "NULLABLE"},
+{"name": "vector","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,15 @@
+[
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_int","type": "STRING","mode": "REQUIRED"},
+{"name": "num_reg","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_carga","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fun_exe","type": "STRING","mode": "NULLABLE"},
+{"name": "por_var","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numproc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "hor_ini","type": "STRING","mode": "NULLABLE"},
+{"name": "hor_ter","type": "STRING","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"}
+
+]

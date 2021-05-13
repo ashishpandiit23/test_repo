@@ -1,0 +1,9 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomsubprod","type": "STRING","mode": "NULLABLE"}
+
+]

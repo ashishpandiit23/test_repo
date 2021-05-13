@@ -1,0 +1,6 @@
+[
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "instrumento","type": "STRING","mode": "NULLABLE"},
+{"name": "duracion","type": "INTEGER","mode": "NULLABLE"}
+
+]

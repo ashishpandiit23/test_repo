@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "numopera","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoope","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "capini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intdiario","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "nropai","type": "STRING","mode": "NULLABLE"},
+{"name": "nroinst","type": "STRING","mode": "NULLABLE"},
+{"name": "ctacap","type": "STRING","mode": "NULLABLE"},
+{"name": "codauxcap","type": "STRING","mode": "NULLABLE"},
+{"name": "numauxcap","type": "STRING","mode": "NULLABLE"},
+{"name": "ctagrccap","type": "STRING","mode": "NULLABLE"},
+{"name": "ctaint","type": "STRING","mode": "NULLABLE"},
+{"name": "codauxint","type": "STRING","mode": "NULLABLE"},
+{"name": "numauxint","type": "STRING","mode": "NULLABLE"},
+{"name": "ctagrcint","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

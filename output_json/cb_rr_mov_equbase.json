@@ -1,0 +1,12 @@
+[
+{"name": "id_base_emisor","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_oper","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "titulos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "posicion_acc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "precio_por_acc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha_corte","type": "DATE","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "aux_code","type": "STRING","mode": "NULLABLE"},
+{"name": "aux_num","type": "STRING","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "fchope","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvalue","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "STRING","mode": "REQUIRED"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "mto_contract","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy2","type": "STRING","mode": "NULLABLE"},
+{"name": "mto_contract2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "mto_balance","type": "NUMERIC","mode": "NULLABLE"}
+
+]

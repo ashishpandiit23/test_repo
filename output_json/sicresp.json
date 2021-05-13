@@ -1,0 +1,9 @@
+[
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "comentario","type": "STRING","mode": "NULLABLE"},
+{"name": "horresp","type": "DATEtime","mode": "NULLABLE"},
+{"name": "fchresp","type": "DATE","mode": "NULLABLE"},
+{"name": "numreg","type": "INTEGER","mode": "NULLABLE"}
+
+]

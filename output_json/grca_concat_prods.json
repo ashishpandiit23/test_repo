@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "parent_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "mercado","type": "STRING","mode": "NULLABLE"}
+
+]

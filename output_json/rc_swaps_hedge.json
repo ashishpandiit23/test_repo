@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tv","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora_serie","type": "STRING","mode": "NULLABLE"},
+{"name": "hedged_item","type": "STRING","mode": "NULLABLE"},
+{"name": "hedging_instrument","type": "STRING","mode": "NULLABLE"},
+{"name": "hub_id","type": "STRING","mode": "NULLABLE"},
+{"name": "hedge_type","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_type","type": "STRING","mode": "NULLABLE"},
+{"name": "maturity","type": "STRING","mode": "NULLABLE"}
+
+]

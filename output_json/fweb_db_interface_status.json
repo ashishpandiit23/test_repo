@@ -1,0 +1,19 @@
+[
+{"name": "fch_proc","type": "DATE","mode": "NULLABLE"},
+{"name": "fch_reg","type": "DATE","mode": "NULLABLE"},
+{"name": "hor_ini","type": "STRING","mode": "NULLABLE"},
+{"name": "hor_ter","type": "STRING","mode": "NULLABLE"},
+{"name": "aplicativo","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_interfaz","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_interfaz","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_arc","type": "STRING","mode": "NULLABLE"},
+{"name": "periodicidad","type": "STRING","mode": "NULLABLE"},
+{"name": "num_reg","type": "INTEGER","mode": "NULLABLE"},
+{"name": "prom_reg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "por_var","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "esta_cargando","type": "INTEGER","mode": "NULLABLE"},
+{"name": "esta_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "semaforo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "observacion","type": "STRING","mode": "NULLABLE"}
+
+]

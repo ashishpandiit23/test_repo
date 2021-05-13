@@ -1,0 +1,6 @@
+[
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "opera","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "area","type": "STRING","mode": "NULLABLE"}
+
+]

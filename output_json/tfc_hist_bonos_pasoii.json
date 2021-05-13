@@ -1,0 +1,9 @@
+[
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seguimiento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "contra_cta","type": "INTEGER","mode": "REQUIRED"}
+
+]

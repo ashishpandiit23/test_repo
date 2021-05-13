@@ -1,0 +1,21 @@
+[
+{"name": "cve_mes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_dps","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_dps_fds","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bandera","type": "STRING","mode": "NULLABLE"},
+{"name": "libro","type": "STRING","mode": "NULLABLE"},
+{"name": "mesa","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "vista","type": "STRING","mode": "NULLABLE"},
+{"name": "rubro1","type": "STRING","mode": "NULLABLE"},
+{"name": "metrica","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_metrica","type": "STRING","mode": "NULLABLE"},
+{"name": "id_cgr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "desc_cgr","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "entidad_saracen","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_supp","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_supp","type": "STRING","mode": "NULLABLE"}
+
+]

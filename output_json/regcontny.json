@@ -1,0 +1,14 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ocodint","type": "STRING","mode": "NULLABLE"},
+{"name": "onromon","type": "STRING","mode": "NULLABLE"},
+{"name": "onrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "ocodlib","type": "STRING","mode": "NULLABLE"},
+{"name": "osaldo","type": "STRING","mode": "NULLABLE"},
+{"name": "ccodint","type": "STRING","mode": "NULLABLE"},
+{"name": "cnromon","type": "STRING","mode": "NULLABLE"},
+{"name": "cnrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "ccodlib","type": "STRING","mode": "NULLABLE"},
+{"name": "csaldo","type": "STRING","mode": "NULLABLE"}
+
+]

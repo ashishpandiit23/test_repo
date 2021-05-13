@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_zero","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "disc_fact","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sum_disc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spread","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "disc_fact_fin","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fin","type": "NUMERIC","mode": "NULLABLE"}
+
+]

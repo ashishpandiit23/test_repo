@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocred","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroamor","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecvto","type": "DATE","mode": "NULLABLE"},
+{"name": "vector","type": "STRING","mode": "NULLABLE"}
+
+]

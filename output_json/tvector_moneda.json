@@ -1,0 +1,13 @@
+[
+{"name": "vec_fill1","type": "STRING","mode": "NULLABLE"},
+{"name": "vec_fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "vec_tip_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "vec_emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "vec_serie","type": "STRING","mode": "NULLABLE"},
+{"name": "vec_pre_suc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vec_pre_limp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vec_int_dev","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vec_fill2","type": "STRING","mode": "NULLABLE"},
+{"name": "vec_isin","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,16 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "idchange","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dealid","type": "STRING","mode": "NULLABLE"},
+{"name": "file","type": "STRING","mode": "NULLABLE"},
+{"name": "field","type": "STRING","mode": "NULLABLE"},
+{"name": "oldvalue","type": "STRING","mode": "NULLABLE"},
+{"name": "newvalue","type": "STRING","mode": "NULLABLE"},
+{"name": "comment","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

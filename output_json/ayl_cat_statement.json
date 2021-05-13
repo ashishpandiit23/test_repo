@@ -1,0 +1,10 @@
+[
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_parent","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "id_detalle","type": "INTEGER","mode": "NULLABLE"}
+
+]

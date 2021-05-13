@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_bearing","type": "STRING","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_carac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vofcarac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_on","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vofon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasacaract","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "p_dcaract","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_on_caract","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_total","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avg_bal_on","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vof_on_monthly","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avg_bal_caract","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vof_acum_monthly","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avg_trc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "t_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dailyvof_caract","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acumsdo_carac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acumvofcarac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "caract_tf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "slp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vofon_slp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

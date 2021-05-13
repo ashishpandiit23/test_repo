@@ -1,0 +1,5 @@
+[
+{"name": "des_tas","type": "STRING","mode": "NULLABLE"},
+{"name": "num_tas","type": "INTEGER","mode": "NULLABLE"}
+
+]

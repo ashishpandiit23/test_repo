@@ -1,0 +1,8 @@
+[
+{"name": "id_beta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "beta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "institucion","type": "STRING","mode": "NULLABLE"},
+{"name": "cliente","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_date","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_trans_cus","type": "STRING","mode": "NULLABLE"},
+{"name": "settle_date","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_isin","type": "STRING","mode": "NULLABLE"},
+{"name": "securi_quan","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "inst_contra","type": "STRING","mode": "NULLABLE"},
+{"name": "num_refer","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_modif","type": "STRING","mode": "NULLABLE"},
+{"name": "tit_notrans","type": "NUMERIC","mode": "NULLABLE"}
+
+]

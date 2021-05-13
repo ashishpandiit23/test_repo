@@ -1,0 +1,14 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bucket","type": "STRING","mode": "NULLABLE"},
+{"name": "bearing_level","type": "STRING","mode": "NULLABLE"}
+
+]

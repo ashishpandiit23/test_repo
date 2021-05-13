@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "sub","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchapro","type": "DATE","mode": "NULLABLE"},
+{"name": "port_cust","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "usu_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_capt","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "usu_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_vobo","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"}
+
+]

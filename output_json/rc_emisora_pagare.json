@@ -1,0 +1,5 @@
+[
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cvestatus","type": "STRING","mode": "NULLABLE"},
+{"name": "sectoreco","type": "STRING","mode": "NULLABLE"},
+{"name": "fecini","type": "DATE","mode": "NULLABLE"},
+{"name": "fecven","type": "DATE","mode": "NULLABLE"},
+{"name": "sumsdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sunintdia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numreg","type": "INTEGER","mode": "NULLABLE"}
+
+]

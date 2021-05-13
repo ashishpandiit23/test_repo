@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "clientes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "perfil","type": "STRING","mode": "NULLABLE"},
+{"name": "bucket","type": "STRING","mode": "NULLABLE"}
+
+]

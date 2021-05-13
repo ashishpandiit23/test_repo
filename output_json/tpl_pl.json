@@ -1,0 +1,15 @@
+[
+{"name": "jfccbr","type": "INTEGER","mode": "NULLABLE"},
+{"name": "jfpctr","type": "STRING","mode": "NULLABLE"},
+{"name": "jfdept","type": "INTEGER","mode": "NULLABLE"},
+{"name": "jfsect","type": "INTEGER","mode": "NULLABLE"},
+{"name": "jftrcd","type": "INTEGER","mode": "NULLABLE"},
+{"name": "jfdsbs","type": "STRING","mode": "NULLABLE"},
+{"name": "jfacty","type": "STRING","mode": "NULLABLE"},
+{"name": "jfapty","type": "STRING","mode": "NULLABLE"},
+{"name": "jfdpos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "jflcyc","type": "STRING","mode": "NULLABLE"},
+{"name": "daily_pl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchprc","type": "DATE","mode": "NULLABLE"}
+
+]

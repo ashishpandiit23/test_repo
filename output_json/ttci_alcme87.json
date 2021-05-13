@@ -1,0 +1,8 @@
+[
+{"name": "num_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "mon_divisa_x_dolar","type": "STRING","mode": "NULLABLE"},
+{"name": "mon_contra_nal1","type": "STRING","mode": "NULLABLE"},
+{"name": "mon_div_dolariz","type": "STRING","mode": "NULLABLE"}
+
+]

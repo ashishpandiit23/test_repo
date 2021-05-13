@@ -1,0 +1,8 @@
+[
+{"name": "id_excepction","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_origen","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "sistema","type": "STRING","mode": "NULLABLE"},
+{"name": "unrealized_amt","type": "NUMERIC","mode": "NULLABLE"}
+
+]

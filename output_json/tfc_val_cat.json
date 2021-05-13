@@ -1,0 +1,15 @@
+[
+{"name": "id_val_cat","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fk_cve_reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fk_cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "interface","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_int","type": "STRING","mode": "NULLABLE"},
+{"name": "catalogo","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_cat","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_filtro","type": "STRING","mode": "NULLABLE"},
+{"name": "valor_filtro","type": "STRING","mode": "NULLABLE"},
+{"name": "resultado","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "campo_fchname","type": "STRING","mode": "NULLABLE"}
+
+]

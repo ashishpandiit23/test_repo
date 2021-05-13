@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "plazo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

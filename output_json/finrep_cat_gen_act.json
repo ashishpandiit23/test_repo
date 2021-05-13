@@ -1,0 +1,6 @@
+[
+{"name": "id_gen_act","type": "INTEGER","mode": "NULLABLE"},
+{"name": "gen_act","type": "STRING","mode": "NULLABLE"},
+{"name": "finrep_cust_code","type": "INTEGER","mode": "NULLABLE"}
+
+]

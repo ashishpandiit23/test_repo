@@ -1,0 +1,7 @@
+[
+{"name": "id_stress","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_start_bucket","type": "INTEGER","mode": "NULLABLE"},
+{"name": "bps_spread","type": "INTEGER","mode": "NULLABLE"},
+{"name": "porc_spread","type": "NUMERIC","mode": "NULLABLE"}
+
+]

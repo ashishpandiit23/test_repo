@@ -1,0 +1,10 @@
+[
+{"name": "id_conta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cvemoneda","type": "INTEGER","mode": "REQUIRED"},
+{"name": "numcta","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "codaux","type": "INTEGER","mode": "REQUIRED"},
+{"name": "numaux","type": "STRING","mode": "REQUIRED"},
+{"name": "ctagrca","type": "STRING","mode": "REQUIRED"},
+{"name": "saldo","type": "NUMERIC","mode": "REQUIRED"}
+
+]

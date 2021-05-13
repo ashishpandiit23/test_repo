@@ -1,0 +1,22 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "nprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "v_intercompany_positiva","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_intercompany_negativo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_third_positiva","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_third_negativo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nominal_intercompany_compras","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nominal_intercompany_vta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nominal_third_compras","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nominal_third_vta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

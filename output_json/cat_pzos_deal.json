@@ -1,0 +1,6 @@
+[
+{"name": "tpd_fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tpd_cpto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tp_idgpo","type": "INTEGER","mode": "NULLABLE"}
+
+]

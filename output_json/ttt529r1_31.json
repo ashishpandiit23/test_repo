@@ -1,0 +1,5 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "texto","type": "STRING","mode": "NULLABLE"}
+
+]

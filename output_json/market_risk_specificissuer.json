@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "isacroban","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "monedat","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "vencimiento","type": "STRING","mode": "NULLABLE"},
+{"name": "sum_num_tit_pos_neg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preciosucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exposure","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "exposure_neto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cqs_final","type": "STRING","mode": "NULLABLE"},
+{"name": "llave_venc","type": "STRING","mode": "NULLABLE"},
+{"name": "ponderador","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cap_req_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rwa_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cap_req_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rwa_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

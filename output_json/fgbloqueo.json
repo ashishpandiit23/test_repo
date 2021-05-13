@@ -1,0 +1,10 @@
+[
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "id","type": "STRING","mode": "NULLABLE"},
+{"name": "blo_id","type": "STRING","mode": "NULLABLE"},
+{"name": "seccion","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "fecreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"}
+
+]

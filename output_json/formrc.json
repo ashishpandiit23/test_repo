@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "of_nac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "agencias","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "soc_inv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fondos_inv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "formu","type": "INTEGER","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "nomusu","type": "STRING","mode": "NULLABLE"}
+
+]

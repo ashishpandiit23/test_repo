@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "clave","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_mon_orig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"}
+
+]

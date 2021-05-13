@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "agrupado","type": "STRING","mode": "NULLABLE"},
+{"name": "cen","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cmb","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "gb","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "gpb","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pfs","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cenc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cmbc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "gbc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "gpbc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pfsc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

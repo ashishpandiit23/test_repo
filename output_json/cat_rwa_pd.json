@@ -1,0 +1,6 @@
+[
+{"name": "crr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sov","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bank","type": "NUMERIC","mode": "NULLABLE"}
+
+]

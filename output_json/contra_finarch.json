@@ -1,0 +1,6 @@
+[
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_lp_mn","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"}
+
+]

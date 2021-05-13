@@ -1,0 +1,16 @@
+[
+{"name": "clase_tasa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fch_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fch_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "op_plazo","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_vector","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "act_pas","type": "STRING","mode": "NULLABLE"},
+{"name": "interfaz","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif","type": "STRING","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"}
+
+]

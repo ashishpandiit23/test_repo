@@ -1,0 +1,6 @@
+[
+{"name": "num_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tasa_orig","type": "NUMERIC","mode": "NULLABLE"}
+
+]

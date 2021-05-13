@@ -1,0 +1,16 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fchreg","type": "DATE","mode": "REQUIRED"},
+{"name": "horreg","type": "STRING","mode": "REQUIRED"},
+{"name": "operacion","type": "STRING","mode": "REQUIRED"},
+{"name": "te_chip_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "te_cond_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "te_hdda_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "te_hie_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "te_sdocomer_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "te_sdohipot_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "te_te_idsdotda_d2_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tkkpsald_semanal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

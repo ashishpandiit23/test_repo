@@ -1,0 +1,6 @@
+[
+{"name": "cvegrupo","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "formato","type": "STRING","mode": "NULLABLE"}
+
+]

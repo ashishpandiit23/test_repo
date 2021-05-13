@@ -1,0 +1,9 @@
+[
+{"name": "idbloque","type": "INTEGER","mode": "REQUIRED"},
+{"name": "atributo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "tipodato","type": "STRING","mode": "NULLABLE"},
+{"name": "valoratributo","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "krocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroamo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchpag","type": "DATE","mode": "NULLABLE"},
+{"name": "sdoamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdotot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diaven","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numcre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cal_cnbv","type": "STRING","mode": "NULLABLE"},
+{"name": "cvestapar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mayor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "indprepago","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipbco","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "nomusu","type": "STRING","mode": "NULLABLE"}
+
+]

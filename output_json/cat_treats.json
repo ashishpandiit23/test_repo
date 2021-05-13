@@ -1,0 +1,15 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "d_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "d_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_contra","type": "STRING","mode": "NULLABLE"},
+{"name": "contra_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "calificacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ponderador","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ponderador_me","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

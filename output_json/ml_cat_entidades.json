@@ -1,0 +1,5 @@
+[
+{"name": "cve_entidad","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_entidad","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fch_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "fulltrnnb","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "trninitial","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "buy_sell","type": "STRING","mode": "NULLABLE"},
+{"name": "call_put","type": "STRING","mode": "NULLABLE"},
+{"name": "counterpart","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_liq","type": "STRING","mode": "NULLABLE"},
+{"name": "delta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "p_a","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"}
+
+]

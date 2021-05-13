@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchinf_r","type": "DATE","mode": "NULLABLE"},
+{"name": "numfolope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "instrumento","type": "STRING","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "monope","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valorini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "balance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "premiodesc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "fchliq","type": "DATE","mode": "NULLABLE"},
+{"name": "fchven","type": "DATE","mode": "NULLABLE"},
+{"name": "fchproliq","type": "DATE","mode": "NULLABLE"},
+{"name": "fchultliq","type": "DATE","mode": "NULLABLE"},
+{"name": "tasnom","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo1","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grade","type": "STRING","mode": "NULLABLE"},
+{"name": "serie_treats","type": "STRING","mode": "NULLABLE"}
+
+]

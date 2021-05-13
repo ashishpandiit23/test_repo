@@ -1,0 +1,16 @@
+[
+{"name": "id_fuente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tot_txns","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prom","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_suc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_filtro","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_comi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_costo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cta_cont","type": "STRING","mode": "NULLABLE"},
+{"name": "concep_costos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mes","type": "NUMERIC","mode": "NULLABLE"}
+
+]

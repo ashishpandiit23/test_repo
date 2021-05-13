@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_exc","type": "STRING","mode": "NULLABLE"},
+{"name": "nu_id","type": "STRING","mode": "NULLABLE"},
+{"name": "valor_conv","type": "STRING","mode": "NULLABLE"},
+{"name": "valor_fidw","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario_sol","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_sol","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_sol","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_vobo","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "STRING","mode": "NULLABLE"}
+
+]

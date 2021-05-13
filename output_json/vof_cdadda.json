@@ -1,0 +1,27 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cvegrupo","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "sdoorigen","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dailyvof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acumsdoorigen","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avgsdoorigen","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acumdailyvof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "transdaily","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "transmonth","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdosic","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdosicpro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_carac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acumsdo_carac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avgsdo_carac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vofon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vofcarac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acumvofcarac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avgtranratecarac","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tranratc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

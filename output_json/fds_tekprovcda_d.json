@@ -1,0 +1,23 @@
+[
+{"name": "fecha_oper","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "subproducto","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_eco","type": "STRING","mode": "NULLABLE"},
+{"name": "c3217_impte","type": "STRING","mode": "NULLABLE"},
+{"name": "c3227_impte","type": "STRING","mode": "NULLABLE"},
+{"name": "c3218_impte","type": "STRING","mode": "NULLABLE"},
+{"name": "c3222_impte","type": "STRING","mode": "NULLABLE"},
+{"name": "des_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "sig_integra","type": "STRING","mode": "NULLABLE"},
+{"name": "integra","type": "STRING","mode": "NULLABLE"},
+{"name": "sic_ins","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sic_emp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sic_pai","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sic_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "sic_ctacon","type": "STRING","mode": "NULLABLE"},
+{"name": "sic_tip_cta","type": "STRING","mode": "NULLABLE"},
+{"name": "sic_num_aux","type": "STRING","mode": "NULLABLE"}
+
+]

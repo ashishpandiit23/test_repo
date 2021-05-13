@@ -1,0 +1,7 @@
+[
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "percap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "perint","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"}
+
+]

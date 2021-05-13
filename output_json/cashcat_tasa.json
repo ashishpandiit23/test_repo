@@ -1,0 +1,5 @@
+[
+{"name": "revis_tasa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa","type": "STRING","mode": "NULLABLE"}
+
+]

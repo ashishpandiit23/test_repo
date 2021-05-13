@@ -1,0 +1,24 @@
+[
+{"name": "a1ddat","type": "DATE","mode": "NULLABLE"},
+{"name": "a1dlno","type": "STRING","mode": "NULLABLE"},
+{"name": "a1dlst","type": "STRING","mode": "NULLABLE"},
+{"name": "a1dlid","type": "STRING","mode": "NULLABLE"},
+{"name": "a1dpos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "a1cntr","type": "STRING","mode": "NULLABLE"},
+{"name": "a1cmon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "a1bsin","type": "STRING","mode": "NULLABLE"},
+{"name": "a1nlot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "a1olot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "a1clot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yield","type": "STRING","mode": "NULLABLE"},
+{"name": "a1pric","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "a1cmcy","type": "STRING","mode": "NULLABLE"},
+{"name": "comision","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "a1ogdn","type": "STRING","mode": "NULLABLE"},
+{"name": "a1asdn","type": "STRING","mode": "NULLABLE"},
+{"name": "a1memo","type": "STRING","mode": "NULLABLE"},
+{"name": "contract_ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "contract_amount","type": "STRING","mode": "NULLABLE"},
+{"name": "category","type": "STRING","mode": "NULLABLE"}
+
+]

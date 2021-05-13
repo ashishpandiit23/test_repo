@@ -1,0 +1,14 @@
+[
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "intercompany_recibir","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "thirdparty_recibir","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total_prod_recibir","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intercompany_entregar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "thirdparty_entregar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total_prod_entregar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"}
+
+]

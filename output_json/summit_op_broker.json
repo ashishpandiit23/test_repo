@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "comisiontext","type": "STRING","mode": "NULLABLE"},
+{"name": "broker","type": "STRING","mode": "NULLABLE"},
+{"name": "referencia","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchop","type": "DATE","mode": "NULLABLE"},
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchven","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "comisionporcentaje","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "comision","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ratetext","type": "STRING","mode": "NULLABLE"},
+{"name": "fchventext","type": "STRING","mode": "NULLABLE"}
+
+]

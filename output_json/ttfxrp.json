@@ -1,0 +1,11 @@
+[
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "postretas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spostretas","type": "STRING","mode": "NULLABLE"},
+{"name": "averatet","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "posit5","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sposit5","type": "STRING","mode": "NULLABLE"},
+{"name": "averatei","type": "NUMERIC","mode": "NULLABLE"}
+
+]

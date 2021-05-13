@@ -1,0 +1,9 @@
+[
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "sector","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "count","type": "INTEGER","mode": "NULLABLE"},
+{"name": "transfer","type": "STRING","mode": "NULLABLE"},
+{"name": "secbanxico","type": "STRING","mode": "NULLABLE"}
+
+]

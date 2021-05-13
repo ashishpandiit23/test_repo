@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_client","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_credit","type": "STRING","mode": "NULLABLE"},
+{"name": "v_totalade","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reserva_or","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "t_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "size","type": "STRING","mode": "NULLABLE"},
+{"name": "clas_cart","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "tasapzolp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"},
+{"name": "fondo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "is_numb","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fuente","type": "NUMERIC","mode": "NULLABLE"}
+
+]

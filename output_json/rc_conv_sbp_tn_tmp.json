@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_cia","type": "STRING","mode": "NULLABLE"},
+{"name": "deal","type": "STRING","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitupnng","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitudvng","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitucvng","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitupng","type": "NUMERIC","mode": "NULLABLE"}
+
+]

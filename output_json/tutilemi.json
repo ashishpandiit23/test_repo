@@ -1,0 +1,11 @@
+[
+{"name": "fecha","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "ingresos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "egresos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cupiny","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "utilidadtot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "utilidad24h","type": "NUMERIC","mode": "NULLABLE"}
+
+]

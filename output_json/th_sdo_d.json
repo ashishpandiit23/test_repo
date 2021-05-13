@@ -1,0 +1,18 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_dia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_cia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_suc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_corte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_neto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"},
+{"name": "int_acu_cr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_prom1","type": "STRING","mode": "NULLABLE"},
+{"name": "ind_sgiro","type": "STRING","mode": "NULLABLE"}
+
+]

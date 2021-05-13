@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "sistema","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "grupo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dxv_dinero","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dxv_cupon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "fchemi","type": "DATE","mode": "NULLABLE"},
+{"name": "tamano_cupon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nprofit","type": "STRING","mode": "NULLABLE"},
+{"name": "capini","type": "NUMERIC","mode": "NULLABLE"}
+
+]

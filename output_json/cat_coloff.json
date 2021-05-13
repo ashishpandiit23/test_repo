@@ -1,0 +1,6 @@
+[
+{"name": "cve_cat","type": "INTEGER","mode": "NULLABLE"},
+{"name": "columna","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"}
+
+]

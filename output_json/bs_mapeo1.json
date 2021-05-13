@@ -1,0 +1,10 @@
+[
+{"name": "mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "funcion","type": "INTEGER","mode": "NULLABLE"}
+
+]

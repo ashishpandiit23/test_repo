@@ -1,0 +1,6 @@
+[
+{"name": "int","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_corte","type": "DATE","mode": "NULLABLE"}
+
+]

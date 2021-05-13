@@ -1,0 +1,8 @@
+[
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "sub_producto","type": "STRING","mode": "NULLABLE"},
+{"name": "shock","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "escenario","type": "NUMERIC","mode": "NULLABLE"}
+
+]

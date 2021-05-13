@@ -1,0 +1,16 @@
+[
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_date","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_entry","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_type","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "eff_date","type": "STRING","mode": "NULLABLE"},
+{"name": "mat_date","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "STRING","mode": "NULLABLE"},
+{"name": "rate","type": "STRING","mode": "NULLABLE"},
+{"name": "premium","type": "STRING","mode": "NULLABLE"},
+{"name": "basis","type": "STRING","mode": "NULLABLE"},
+{"name": "vehicle","type": "STRING","mode": "NULLABLE"}
+
+]

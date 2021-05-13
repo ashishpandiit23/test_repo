@@ -1,0 +1,6 @@
+[
+{"name": "nombre","type": "STRING","mode": "REQUIRED"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"}
+
+]

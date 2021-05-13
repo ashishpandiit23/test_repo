@@ -1,0 +1,5 @@
+[
+{"name": "isda","type": "STRING","mode": "NULLABLE"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"}
+
+]

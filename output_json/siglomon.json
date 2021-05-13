@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tradop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valpro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "netprof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fundcost","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"},
+{"name": "compras","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ventas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "posini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "posfin","type": "NUMERIC","mode": "NULLABLE"}
+
+]

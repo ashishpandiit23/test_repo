@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "folio","type": "STRING","mode": "NULLABLE"},
+{"name": "gho","type": "STRING","mode": "NULLABLE"},
+{"name": "price_clean","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "price_mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ralized_pl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "coupon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dprice_clean","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dprice_mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dralized_pl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dcoupon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dpd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dcof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dmtm_amount","type": "NUMERIC","mode": "NULLABLE"}
+
+]

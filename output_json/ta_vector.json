@@ -1,0 +1,5 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "vector","type": "STRING","mode": "REQUIRED"}
+
+]

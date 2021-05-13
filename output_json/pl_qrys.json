@@ -1,0 +1,8 @@
+[
+{"name": "folio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "funcion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"}
+
+]

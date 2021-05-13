@@ -1,0 +1,8 @@
+[
+{"name": "cve_report","type": "STRING","mode": "NULLABLE"},
+{"name": "window_title","type": "STRING","mode": "NULLABLE"},
+{"name": "cancel_procedure","type": "STRING","mode": "NULLABLE"},
+{"name": "accept_procedure","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"}
+
+]

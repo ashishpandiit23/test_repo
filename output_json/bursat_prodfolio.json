@@ -1,0 +1,8 @@
+[
+{"name": "num_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "folio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fch_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "programa","type": "INTEGER","mode": "NULLABLE"}
+
+]

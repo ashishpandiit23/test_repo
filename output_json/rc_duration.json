@@ -1,0 +1,5 @@
+[
+{"name": "tipo_valor","type": "STRING","mode": "REQUIRED"},
+{"name": "duration","type": "INTEGER","mode": "REQUIRED"}
+
+]

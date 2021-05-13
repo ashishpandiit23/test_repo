@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "sicnrocta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "siccodaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicnroaux","type": "STRING","mode": "NULLABLE"},
+{"name": "sum_sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_cta","type": "STRING","mode": "NULLABLE"}
+
+]

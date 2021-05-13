@@ -1,0 +1,25 @@
+[
+{"name": "pais","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "num_op","type": "STRING","mode": "NULLABLE"},
+{"name": "num_op_rrpo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_op","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_op","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_inicial","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cliente","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_vto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sec_master","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "carry_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acc_prem","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tot_cuponn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tot_mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tot_prem","type": "NUMERIC","mode": "NULLABLE"}
+
+]

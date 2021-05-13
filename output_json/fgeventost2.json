@@ -1,0 +1,15 @@
+[
+{"name": "fgenominter","type": "STRING","mode": "NULLABLE"},
+{"name": "fgenuminst","type": "STRING","mode": "NULLABLE"},
+{"name": "fgenumemp","type": "STRING","mode": "NULLABLE"},
+{"name": "fgenumpais","type": "STRING","mode": "NULLABLE"},
+{"name": "fgemoneda","type": "STRING","mode": "NULLABLE"},
+{"name": "fgenumcta","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecodaux","type": "STRING","mode": "NULLABLE"},
+{"name": "fgenumaux","type": "STRING","mode": "NULLABLE"},
+{"name": "fgectagrca","type": "STRING","mode": "NULLABLE"},
+{"name": "fgefchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "fgehorreg","type": "STRING","mode": "NULLABLE"},
+{"name": "fgecodusu","type": "STRING","mode": "NULLABLE"}
+
+]

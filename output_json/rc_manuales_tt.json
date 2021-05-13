@@ -1,0 +1,7 @@
+[
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_me","type": "NUMERIC","mode": "NULLABLE"}
+
+]

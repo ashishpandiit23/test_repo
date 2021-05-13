@@ -1,0 +1,11 @@
+[
+{"name": "id_ajuste","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fecini_proc","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "legacy","type": "STRING","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

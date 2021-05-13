@@ -1,0 +1,5 @@
+[
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"}
+
+]

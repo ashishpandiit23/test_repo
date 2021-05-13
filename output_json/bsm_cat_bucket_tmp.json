@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dias","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_id_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "bucket","type": "INTEGER","mode": "NULLABLE"}
+
+]

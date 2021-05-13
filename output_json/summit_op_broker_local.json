@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "summitid","type": "STRING","mode": "NULLABLE"},
+{"name": "referencia","type": "STRING","mode": "NULLABLE"},
+{"name": "broker","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num","type": "INTEGER","mode": "NULLABLE"},
+{"name": "trade_ref","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "effective_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "buyer","type": "STRING","mode": "NULLABLE"},
+{"name": "seller","type": "STRING","mode": "NULLABLE"},
+{"name": "brokerage_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "days","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "principal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "maturity_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "brokerage_fee","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "brokerage_fee_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "days_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "principal_txt","type": "STRING","mode": "NULLABLE"}
+
+]

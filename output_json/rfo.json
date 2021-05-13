@@ -1,0 +1,10 @@
+[
+{"name": "rfocverep","type": "STRING","mode": "REQUIRED"},
+{"name": "rfoindapl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rforenori","type": "INTEGER","mode": "REQUIRED"},
+{"name": "rforendes","type": "INTEGER","mode": "REQUIRED"},
+{"name": "rfotipope","type": "INTEGER","mode": "REQUIRED"},
+{"name": "rfotitimp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rfoprieje","type": "INTEGER","mode": "NULLABLE"}
+
+]

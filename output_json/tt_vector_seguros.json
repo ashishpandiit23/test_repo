@@ -1,0 +1,17 @@
+[
+{"name": "cns","type": "STRING","mode": "NULLABLE"},
+{"name": "tip_mer","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tip_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "precio_sucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "precio_limpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_acum","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prov","type": "STRING","mode": "NULLABLE"},
+{"name": "ind","type": "INTEGER","mode": "NULLABLE"},
+{"name": "dias_venc","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "isin","type": "STRING","mode": "NULLABLE"}
+
+]

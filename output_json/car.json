@@ -1,0 +1,16 @@
+[
+{"name": "carcverep","type": "STRING","mode": "REQUIRED"},
+{"name": "carnomrep","type": "STRING","mode": "NULLABLE"},
+{"name": "cartiprep","type": "INTEGER","mode": "NULLABLE"},
+{"name": "carcvereg","type": "STRING","mode": "NULLABLE"},
+{"name": "cartpogen","type": "STRING","mode": "NULLABLE"},
+{"name": "carnrofil","type": "STRING","mode": "NULLABLE"},
+{"name": "carnroins","type": "STRING","mode": "NULLABLE"},
+{"name": "carmonpre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "carcodran","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cartippre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "indpond2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "indpond3","type": "INTEGER","mode": "NULLABLE"},
+{"name": "indpond4","type": "INTEGER","mode": "NULLABLE"}
+
+]

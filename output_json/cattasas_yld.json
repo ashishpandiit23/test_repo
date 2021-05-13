@@ -1,0 +1,9 @@
+[
+{"name": "cvevector_orig","type": "STRING","mode": "NULLABLE"},
+{"name": "cvevector_disc","type": "STRING","mode": "NULLABLE"},
+{"name": "cvevector_yld","type": "STRING","mode": "NULLABLE"},
+{"name": "cvevector_acum","type": "STRING","mode": "NULLABLE"},
+{"name": "basis","type": "INTEGER","mode": "NULLABLE"},
+{"name": "compounding","type": "INTEGER","mode": "NULLABLE"}
+
+]

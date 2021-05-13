@@ -1,0 +1,8 @@
+[
+{"name": "id_section","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subsection","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_row","type": "INTEGER","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "formato","type": "STRING","mode": "NULLABLE"}
+
+]

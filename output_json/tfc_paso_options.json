@@ -1,0 +1,20 @@
+[
+{"name": "libro","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nocional_base_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "moneda_nociona_baseamount","type": "STRING","mode": "NULLABLE"},
+{"name": "nocional_others","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_fxo_rebate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_fxo_flex","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nocional_mon_origen","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "val_mon_origen","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mon_valuacion","type": "STRING","mode": "NULLABLE"},
+{"name": "buy_sell","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "STRING","mode": "NULLABLE"},
+{"name": "dtp_tradeid","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "llave_valuacion","type": "STRING","mode": "NULLABLE"},
+{"name": "llave_nocional","type": "STRING","mode": "NULLABLE"}
+
+]

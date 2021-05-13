@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "llave","type": "STRING","mode": "NULLABLE"},
+{"name": "num_titu_fidw","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_fidw","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_titu_banx","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_banx","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dif_tit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dif_monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

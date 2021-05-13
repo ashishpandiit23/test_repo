@@ -1,0 +1,25 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "rectype","type": "STRING","mode": "NULLABLE"},
+{"name": "seccb","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccd","type": "INTEGER","mode": "NULLABLE"},
+{"name": "secce","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccg","type": "INTEGER","mode": "NULLABLE"},
+{"name": "secch","type": "INTEGER","mode": "NULLABLE"},
+{"name": "secci","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccj","type": "INTEGER","mode": "NULLABLE"},
+{"name": "secck","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccl","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccm","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccn","type": "INTEGER","mode": "NULLABLE"},
+{"name": "secco","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccr","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccs","type": "INTEGER","mode": "NULLABLE"},
+{"name": "secct","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccu","type": "INTEGER","mode": "NULLABLE"}
+
+]

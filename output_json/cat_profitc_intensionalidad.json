@@ -1,0 +1,10 @@
+[
+{"name": "profit_grp","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing","type": "STRING","mode": "NULLABLE"},
+{"name": "subpro_centre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "desc_profit_centre","type": "STRING","mode": "NULLABLE"},
+{"name": "clasifica","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_modif","type": "DATE","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

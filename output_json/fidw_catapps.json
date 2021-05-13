@@ -1,0 +1,6 @@
+[
+{"name": "id_app","type": "STRING","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

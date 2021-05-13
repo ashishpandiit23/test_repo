@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "prod","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vof","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasalp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "bearing","type": "STRING","mode": "NULLABLE"}
+
+]

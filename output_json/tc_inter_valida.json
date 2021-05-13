@@ -1,0 +1,23 @@
+[
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_archivo","type": "STRING","mode": "NULLABLE"},
+{"name": "cif_control","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arcdatos","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arcreg","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arccksum","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arccksumsis","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arcsum1","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_colsum1","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arcsum2","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_colsum2","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arcsum3","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_colsum3","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arcavg","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_colavg","type": "STRING","mode": "NULLABLE"},
+{"name": "ctl_arccfec","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_loderr","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_prog","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_tabpaso","type": "STRING","mode": "NULLABLE"},
+{"name": "band_exit","type": "STRING","mode": "NULLABLE"}
+
+]

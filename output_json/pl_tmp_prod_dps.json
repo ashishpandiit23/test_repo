@@ -1,0 +1,14 @@
+[
+{"name": "id_mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "branch","type": "STRING","mode": "NULLABLE"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"},
+{"name": "subprofit","type": "STRING","mode": "NULLABLE"},
+{"name": "account","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_legacy_d","type": "INTEGER","mode": "NULLABLE"}
+
+]

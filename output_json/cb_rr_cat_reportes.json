@@ -1,0 +1,8 @@
+[
+{"name": "cve_reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nu_reporte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "id_tabla","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nom_tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "campos_tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tabla","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,27 @@
+[
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capital_base","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_base","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_s","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_base_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_s_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_prll_r_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_s_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capital_rmp_r_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_base_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_s_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_prll_r_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_s_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_rmp_r_fon","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,11 @@
+[
+{"name": "name","type": "STRING","mode": "NULLABLE"},
+{"name": "subject","type": "STRING","mode": "NULLABLE"},
+{"name": "body0_alert","type": "STRING","mode": "NULLABLE"},
+{"name": "body1_code","type": "STRING","mode": "NULLABLE"},
+{"name": "body2_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "body3_prog","type": "STRING","mode": "NULLABLE"},
+{"name": "body4_date","type": "STRING","mode": "NULLABLE"},
+{"name": "body5_file","type": "STRING","mode": "NULLABLE"}
+
+]

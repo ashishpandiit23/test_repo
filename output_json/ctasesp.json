@@ -1,0 +1,8 @@
+[
+{"name": "clave","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "vig_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "vig_fin","type": "DATE","mode": "NULLABLE"}
+
+]

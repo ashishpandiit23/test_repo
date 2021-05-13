@@ -1,0 +1,6 @@
+[
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "calif_pip","type": "STRING","mode": "NULLABLE"}
+
+]

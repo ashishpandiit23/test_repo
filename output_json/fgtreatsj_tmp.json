@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "rectype","type": "STRING","mode": "NULLABLE"},
+{"name": "contrato","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_obe","type": "STRING","mode": "NULLABLE"},
+{"name": "accid","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_rou","type": "STRING","mode": "NULLABLE"}
+
+]

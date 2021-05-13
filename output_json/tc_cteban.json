@@ -1,0 +1,12 @@
+[
+{"name": "cve_interf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_igocte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ide_descte","type": "STRING","mode": "NULLABLE"},
+{"name": "cal_codcte","type": "STRING","mode": "NULLABLE"},
+{"name": "sta_califi","type": "STRING","mode": "NULLABLE"},
+{"name": "sta_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_regist","type": "DATE","mode": "NULLABLE"},
+{"name": "hor_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "usu_regist","type": "STRING","mode": "NULLABLE"}
+
+]

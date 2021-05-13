@@ -1,0 +1,12 @@
+[
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchcalc","type": "DATE","mode": "NULLABLE"},
+{"name": "idprod","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "buying","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_user_cap","type": "STRING","mode": "NULLABLE"},
+{"name": "aproval","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_user_apr","type": "STRING","mode": "NULLABLE"},
+{"name": "hora_cap","type": "DATE","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,13 @@
+[
+{"name": "bitfch","type": "DATE","mode": "REQUIRED"},
+{"name": "bitnrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "bitcodint","type": "STRING","mode": "NULLABLE"},
+{"name": "bitpro","type": "STRING","mode": "NULLABLE"},
+{"name": "bitcan","type": "INTEGER","mode": "NULLABLE"},
+{"name": "bithorini","type": "STRING","mode": "NULLABLE"},
+{"name": "bithorfin","type": "STRING","mode": "NULLABLE"},
+{"name": "bitfchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "bitusr","type": "STRING","mode": "NULLABLE"},
+{"name": "bitind","type": "INTEGER","mode": "NULLABLE"}
+
+]

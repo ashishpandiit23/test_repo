@@ -1,0 +1,10 @@
+[
+{"name": "fe_corte","type": "DATE","mode": "NULLABLE"},
+{"name": "insti","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_tit","type": "STRING","mode": "NULLABLE"},
+{"name": "nu_tit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pre_mdo1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nu_tit2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pre_mdo2","type": "NUMERIC","mode": "NULLABLE"}
+
+]

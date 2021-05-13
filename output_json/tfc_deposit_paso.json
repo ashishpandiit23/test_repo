@@ -1,0 +1,14 @@
+[
+{"name": "cve_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "book_classif","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "nominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intereses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nom_grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seguimiento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "REQUIRED"}
+
+]

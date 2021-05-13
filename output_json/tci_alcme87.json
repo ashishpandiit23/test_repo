@@ -1,0 +1,10 @@
+[
+{"name": "num_moneda","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "desc_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "mon_divisa_x_dolar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mon_contra_nal1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mon_div_dolariz","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cod_abr_swift","type": "STRING","mode": "NULLABLE"}
+
+]

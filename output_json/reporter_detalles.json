@@ -1,0 +1,12 @@
+[
+{"name": "cve_detalle","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_encabezado","type": "INTEGER","mode": "REQUIRED"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "campo","type": "STRING","mode": "NULLABLE"},
+{"name": "alias","type": "STRING","mode": "NULLABLE"},
+{"name": "titulo","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

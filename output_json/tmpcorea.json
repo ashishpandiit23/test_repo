@@ -1,0 +1,7 @@
+[
+{"name": "cve","type": "INTEGER","mode": "NULLABLE"},
+{"name": "h1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h3","type": "NUMERIC","mode": "NULLABLE"}
+
+]

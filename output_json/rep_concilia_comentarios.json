@@ -1,0 +1,9 @@
+[
+{"name": "id_comentario","type": "STRING","mode": "NULLABLE"},
+{"name": "comentario","type": "STRING","mode": "NULLABLE"},
+{"name": "plan_accion","type": "STRING","mode": "NULLABLE"},
+{"name": "antiguedad","type": "STRING","mode": "NULLABLE"},
+{"name": "id_usuario","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha_modificacion","type": "DATE","mode": "NULLABLE"}
+
+]

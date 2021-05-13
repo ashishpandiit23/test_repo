@@ -1,0 +1,22 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "hora","type": "STRING","mode": "NULLABLE"},
+{"name": "suc_depto","type": "STRING","mode": "NULLABLE"},
+{"name": "plaza","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_comvta","type": "STRING","mode": "NULLABLE"},
+{"name": "num_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "mon_volante","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mon_valmn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tic_suc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tic_valori","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tic_costo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "key_numero","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_ejecuti","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_instrum","type": "STRING","mode": "NULLABLE"},
+{"name": "hora_autori","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_autori","type": "STRING","mode": "NULLABLE"},
+{"name": "hora_cargo","type": "STRING","mode": "NULLABLE"},
+{"name": "hora_abono","type": "STRING","mode": "NULLABLE"},
+{"name": "cajero","type": "STRING","mode": "NULLABLE"}
+
+]

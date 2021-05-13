@@ -1,0 +1,10 @@
+[
+{"name": "id_mapeo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_mapeo_detalle","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_legacy_detalle","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto_detalle","type": "STRING","mode": "NULLABLE"},
+{"name": "operacion","type": "STRING","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "DATE","mode": "NULLABLE"}
+
+]

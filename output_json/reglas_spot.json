@@ -1,0 +1,22 @@
+[
+{"name": "id_cta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoop","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codaux","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cpy","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "sta_activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomcol","type": "STRING","mode": "NULLABLE"},
+{"name": "tipomon","type": "STRING","mode": "NULLABLE"},
+{"name": "tipocta","type": "STRING","mode": "NULLABLE"},
+{"name": "tipocodaux","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoaux","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "assliab","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "desc_costo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_costo","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accrual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof_vof_ccy","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cof_vof_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"}
+
+]

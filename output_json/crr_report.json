@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "parent_cbid","type": "STRING","mode": "NULLABLE"},
+{"name": "parent_name","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_cbid","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_name","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_type","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_country","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty_crr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reviewing_office","type": "STRING","mode": "NULLABLE"},
+{"name": "date_assessment_approved","type": "STRING","mode": "NULLABLE"},
+{"name": "assessment_review_type","type": "STRING","mode": "NULLABLE"},
+{"name": "net_capital_resources","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total_assets","type": "NUMERIC","mode": "NULLABLE"}
+
+]

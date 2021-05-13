@@ -1,0 +1,5 @@
+[
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,9 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fk_catprocfinarch","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fecha_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_informacion","type": "DATE","mode": "NULLABLE"},
+{"name": "registros","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fk_estatus_semaforo","type": "INTEGER","mode": "REQUIRED"}
+
+]

@@ -1,0 +1,8 @@
+[
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "oper_type","type": "STRING","mode": "NULLABLE"},
+{"name": "des_type","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_gleam","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_gleam","type": "STRING","mode": "NULLABLE"}
+
+]

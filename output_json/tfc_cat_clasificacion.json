@@ -1,0 +1,5 @@
+[
+{"name": "cve_clasificacion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "clasificacion","type": "STRING","mode": "REQUIRED"}
+
+]

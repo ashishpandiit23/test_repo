@@ -1,0 +1,6 @@
+[
+{"name": "producto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_conta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo","type": "INTEGER","mode": "NULLABLE"}
+
+]

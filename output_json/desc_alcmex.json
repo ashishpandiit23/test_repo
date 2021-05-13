@@ -1,0 +1,11 @@
+[
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cv","type": "STRING","mode": "NULLABLE"},
+{"name": "sucursal","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "plaza","type": "STRING","mode": "NULLABLE"},
+{"name": "obs","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla","type": "INTEGER","mode": "NULLABLE"}
+
+]

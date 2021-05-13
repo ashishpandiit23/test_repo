@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "equity","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pvbp_p1bp_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pvbp_l1bp_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pvbp_p1bp_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pvbp_l1bp_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "disc_mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "disc_usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "disc_udi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

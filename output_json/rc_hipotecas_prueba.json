@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "nocred","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"}
+
+]

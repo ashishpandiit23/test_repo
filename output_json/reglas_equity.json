@@ -1,0 +1,10 @@
+[
+{"name": "id_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"},
+{"name": "nomcol","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_activo","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,23 @@
+[
+{"name": "id_cta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "aux","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "sicnomcta","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_acc","type": "STRING","mode": "NULLABLE"},
+{"name": "grca_descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "cat_min","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo_sic","type": "STRING","mode": "NULLABLE"},
+{"name": "profit_center","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_pos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"}
+
+]

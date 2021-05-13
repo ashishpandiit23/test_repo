@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchinf_ant","type": "DATEtime","mode": "NULLABLE"},
+{"name": "interfaz","type": "STRING","mode": "REQUIRED"},
+{"name": "fk_cve_int","type": "STRING","mode": "REQUIRED"},
+{"name": "process_name","type": "STRING","mode": "REQUIRED"}
+
+]

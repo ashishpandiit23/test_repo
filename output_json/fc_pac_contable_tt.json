@@ -1,0 +1,19 @@
+[
+{"name": "branch","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "cost_center","type": "STRING","mode": "NULLABLE"},
+{"name": "investment_type","type": "STRING","mode": "NULLABLE"},
+{"name": "security","type": "STRING","mode": "NULLABLE"},
+{"name": "quantity","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "deal","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_oper","type": "STRING","mode": "NULLABLE"},
+{"name": "value_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "sett_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "reversal_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "price","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "market_price","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "market_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "proceed_amount","type": "NUMERIC","mode": "NULLABLE"}
+
+]

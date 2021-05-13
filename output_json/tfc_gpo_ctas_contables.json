@@ -1,0 +1,5 @@
+[
+{"name": "cve_gpo_ctas","type": "INTEGER","mode": "REQUIRED"},
+{"name": "descripcion_grupo","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tradeid","type": "STRING","mode": "NULLABLE"},
+{"name": "inst","type": "STRING","mode": "NULLABLE"},
+{"name": "style","type": "STRING","mode": "NULLABLE"},
+{"name": "endDATE","type": "DATE","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "customer","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "strike","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valuenpv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "irvol","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valueccy","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeccy","type": "STRING","mode": "NULLABLE"}
+
+]

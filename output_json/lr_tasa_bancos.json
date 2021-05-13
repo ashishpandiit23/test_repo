@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "banco","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta_sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cuenta_int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

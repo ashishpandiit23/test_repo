@@ -1,0 +1,27 @@
+[
+{"name": "empresa","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "scta1","type": "STRING","mode": "NULLABLE"},
+{"name": "scta2","type": "STRING","mode": "NULLABLE"},
+{"name": "scta3","type": "STRING","mode": "NULLABLE"},
+{"name": "scta4","type": "STRING","mode": "NULLABLE"},
+{"name": "scta5","type": "STRING","mode": "NULLABLE"},
+{"name": "cod","type": "STRING","mode": "NULLABLE"},
+{"name": "auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcio","type": "STRING","mode": "NULLABLE"},
+{"name": "asset","type": "STRING","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "nivel","type": "STRING","mode": "NULLABLE"},
+{"name": "afec","type": "STRING","mode": "NULLABLE"},
+{"name": "intercompa","type": "STRING","mode": "NULLABLE"},
+{"name": "comun","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_modi","type": "DATE","mode": "NULLABLE"},
+{"name": "user_alta","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_baja","type": "DATE","mode": "NULLABLE"},
+{"name": "user_baja","type": "STRING","mode": "NULLABLE"},
+{"name": "user_solic","type": "STRING","mode": "NULLABLE"},
+{"name": "bandera","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

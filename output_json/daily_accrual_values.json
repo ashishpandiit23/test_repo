@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "renglon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "avg_balance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "daily_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "daily_plan","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtd_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtd_plan","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ytd_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ytd_plan","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "full_year","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "time","type": "STRING","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"}
+
+]

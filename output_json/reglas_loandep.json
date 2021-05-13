@@ -1,0 +1,16 @@
+[
+{"name": "id_condicion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "aux","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "nromonrec","type": "STRING","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "segccl","type": "STRING","mode": "NULLABLE"},
+{"name": "nomcol","type": "STRING","mode": "NULLABLE"}
+
+]

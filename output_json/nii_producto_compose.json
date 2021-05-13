@@ -1,0 +1,6 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_compose","type": "INTEGER","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"}
+
+]

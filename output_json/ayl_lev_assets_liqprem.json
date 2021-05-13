@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "indev_type_val","type": "STRING","mode": "NULLABLE"},
+{"name": "prod_currency","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_num","type": "STRING","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "prof_centr_mne","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_pos_num","type": "INTEGER","mode": "NULLABLE"},
+{"name": "market_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_lp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "liq_prem","type": "NUMERIC","mode": "NULLABLE"}
+
+]

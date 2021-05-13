@@ -1,0 +1,27 @@
+[
+{"name": "num_institucion","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_empresa","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "num_renglon","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_columna","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_pais","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_moneda","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_ctamay","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_subcta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_ssubcta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_sssubcta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_ssssubcta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_sssssubcta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cod_auxiliar","type": "INTEGER","mode": "REQUIRED"},
+{"name": "num_auxiliar","type": "STRING","mode": "REQUIRED"},
+{"name": "sec_economico","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_valor","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_suma","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_signo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cod_naturaleza","type": "INTEGER","mode": "REQUIRED"},
+{"name": "sta_regist","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_regist","type": "DATE","mode": "NULLABLE"},
+{"name": "hor_regist","type": "DATEtime","mode": "NULLABLE"},
+{"name": "usu_regist","type": "STRING","mode": "NULLABLE"}
+
+]

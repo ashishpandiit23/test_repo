@@ -1,0 +1,10 @@
+[
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_tipo_mov","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sicobi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "operativo_contable","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,10 @@
+[
+{"name": "rrerepori","type": "STRING","mode": "NULLABLE"},
+{"name": "rrerepdes","type": "STRING","mode": "NULLABLE"},
+{"name": "rrerenori","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rrerendes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rrecodint","type": "STRING","mode": "NULLABLE"},
+{"name": "rrevalint","type": "STRING","mode": "NULLABLE"},
+{"name": "rreindope","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "id_rango","type": "INTEGER","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "rango_ini","type": "INTEGER","mode": "NULLABLE"},
+{"name": "rango_fin","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "vigente","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "sub","type": "INTEGER","mode": "NULLABLE"},
+{"name": "filtro","type": "STRING","mode": "NULLABLE"},
+{"name": "hs1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "hs2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "hs3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "usu_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "hora_capt","type": "STRING","mode": "NULLABLE"},
+{"name": "usu_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_vobo","type": "DATE","mode": "NULLABLE"},
+{"name": "hora_vobo","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,24 @@
+[
+{"name": "dealing_number","type": "STRING","mode": "NULLABLE"},
+{"name": "accnt_pr_type","type": "STRING","mode": "NULLABLE"},
+{"name": "countpty_acron","type": "STRING","mode": "NULLABLE"},
+{"name": "prod_currency","type": "STRING","mode": "NULLABLE"},
+{"name": "del_act_subtype","type": "STRING","mode": "NULLABLE"},
+{"name": "value_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "maturity_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "deal_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "tynmin","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tycpna","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dealing_yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "current_cuop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "del_status","type": "STRING","mode": "NULLABLE"},
+{"name": "secur_mast_numb","type": "STRING","mode": "NULLABLE"},
+{"name": "secur_descr","type": "STRING","mode": "NULLABLE"},
+{"name": "broker_id","type": "STRING","mode": "NULLABLE"},
+{"name": "free_brok_flag","type": "STRING","mode": "NULLABLE"},
+{"name": "princ_carr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "t01_tynmin","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dealing_pos","type": "STRING","mode": "NULLABLE"},
+{"name": "gho_custumer","type": "STRING","mode": "NULLABLE"}
+
+]

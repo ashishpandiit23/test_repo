@@ -1,0 +1,16 @@
+[
+{"name": "branch","type": "INTEGER","mode": "NULLABLE"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"},
+{"name": "subprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ac_type","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "mxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "usd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtdmxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtdusd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ytdmxn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ytdusd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "arch","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

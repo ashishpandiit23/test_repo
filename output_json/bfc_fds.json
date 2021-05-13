@@ -1,0 +1,24 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "no_cred","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fuente","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_alta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_vto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "imp_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nromon","type": "STRING","mode": "NULLABLE"},
+{"name": "num_amort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_break","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor_desc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mtm_tasafori","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm_tasabfc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_bfc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_bfc_val","type": "NUMERIC","mode": "NULLABLE"}
+
+]

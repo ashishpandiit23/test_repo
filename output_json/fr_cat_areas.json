@@ -1,0 +1,5 @@
+[
+{"name": "id_area","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"}
+
+]

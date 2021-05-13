@@ -1,0 +1,14 @@
+[
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "interfaz","type": "STRING","mode": "NULLABLE"},
+{"name": "prof_centr_mne","type": "STRING","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "pata","type": "STRING","mode": "NULLABLE"},
+{"name": "col_monto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_entidad","type": "STRING","mode": "NULLABLE"},
+{"name": "level_asset_banxico","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo_fij","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccion","type": "INTEGER","mode": "NULLABLE"}
+
+]

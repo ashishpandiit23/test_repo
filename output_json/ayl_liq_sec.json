@@ -1,0 +1,14 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_secuen","type": "STRING","mode": "NULLABLE"},
+{"name": "nrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "numaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "codaux","type": "STRING","mode": "NULLABLE"},
+{"name": "code","type": "STRING","mode": "NULLABLE"},
+{"name": "emis_serie","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "fchope","type": "DATE","mode": "NULLABLE"},
+{"name": "nummon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"}
+
+]

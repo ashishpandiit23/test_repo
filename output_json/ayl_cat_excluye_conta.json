@@ -1,0 +1,6 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

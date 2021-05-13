@@ -1,0 +1,7 @@
+[
+{"name": "num_client","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nom_client","type": "STRING","mode": "NULLABLE"},
+{"name": "art_73","type": "STRING","mode": "NULLABLE"},
+{"name": "cat_siti","type": "INTEGER","mode": "NULLABLE"}
+
+]

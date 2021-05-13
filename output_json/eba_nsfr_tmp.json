@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "menor3meses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "entre3_6meses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "entre6_9meses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "entre9_12meses","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mayor12meses","type": "NUMERIC","mode": "NULLABLE"}
+
+]

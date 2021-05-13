@@ -1,0 +1,5 @@
+[
+{"name": "no_comite","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"}
+
+]

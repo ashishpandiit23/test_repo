@@ -1,0 +1,7 @@
+[
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"}
+
+]

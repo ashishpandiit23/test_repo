@@ -1,0 +1,26 @@
+[
+{"name": "fec_proceso","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_clasi","type": "STRING","mode": "NULLABLE"},
+{"name": "fuente","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_ctatxt","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_cob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_spreed","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_ini","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_vencto","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dias","type": "INTEGER","mode": "NULLABLE"},
+{"name": "int_cob","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_pag","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spreed","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tflp1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tflp2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tflp3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tflp4","type": "NUMERIC","mode": "NULLABLE"}
+
+]

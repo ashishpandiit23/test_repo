@@ -1,0 +1,10 @@
+[
+{"name": "intins","type": "INTEGER","mode": "REQUIRED"},
+{"name": "intemp","type": "INTEGER","mode": "REQUIRED"},
+{"name": "intdto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "intcodint","type": "STRING","mode": "REQUIRED"},
+{"name": "intnom","type": "STRING","mode": "NULLABLE"},
+{"name": "bdsnom","type": "STRING","mode": "NULLABLE"},
+{"name": "tabnom","type": "STRING","mode": "NULLABLE"}
+
+]

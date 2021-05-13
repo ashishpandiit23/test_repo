@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "STRING","mode": "NULLABLE"},
+{"name": "mensaje","type": "STRING","mode": "NULLABLE"},
+{"name": "inicio","type": "DATEtime","mode": "NULLABLE"},
+{"name": "fin","type": "DATEtime","mode": "NULLABLE"}
+
+]

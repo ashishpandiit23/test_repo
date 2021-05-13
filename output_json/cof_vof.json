@@ -1,0 +1,13 @@
+[
+{"name": "header","type": "STRING","mode": "NULLABLE"},
+{"name": "record_type","type": "STRING","mode": "NULLABLE"},
+{"name": "record_id","type": "STRING","mode": "NULLABLE"},
+{"name": "rate_id","type": "STRING","mode": "NULLABLE"},
+{"name": "rate_description","type": "STRING","mode": "NULLABLE"},
+{"name": "rate_currency","type": "STRING","mode": "NULLABLE"},
+{"name": "cof_rate","type": "STRING","mode": "NULLABLE"},
+{"name": "vof_rate","type": "STRING","mode": "NULLABLE"},
+{"name": "date","type": "STRING","mode": "NULLABLE"},
+{"name": "filler","type": "STRING","mode": "NULLABLE"}
+
+]

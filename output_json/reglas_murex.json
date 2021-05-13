@@ -1,0 +1,14 @@
+[
+{"name": "id_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cod_aux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "aux","type": "STRING","mode": "NULLABLE"},
+{"name": "trngroup","type": "STRING","mode": "NULLABLE"},
+{"name": "plcurren","type": "STRING","mode": "NULLABLE"},
+{"name": "al","type": "STRING","mode": "NULLABLE"},
+{"name": "cpy","type": "STRING","mode": "NULLABLE"},
+{"name": "columna","type": "STRING","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sta_activo","type": "INTEGER","mode": "NULLABLE"}
+
+]

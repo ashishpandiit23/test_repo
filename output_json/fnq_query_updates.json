@@ -1,0 +1,26 @@
+[
+{"name": "update_id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "query_id_parent","type": "STRING","mode": "NULLABLE"},
+{"name": "datasource_id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "name","type": "STRING","mode": "NULLABLE"},
+{"name": "query","type": "STRING","mode": "NULLABLE"},
+{"name": "item","type": "INTEGER","mode": "NULLABLE"},
+{"name": "path","type": "STRING","mode": "NULLABLE"},
+{"name": "report","type": "STRING","mode": "NULLABLE"},
+{"name": "pathout","type": "STRING","mode": "NULLABLE"},
+{"name": "filename","type": "STRING","mode": "NULLABLE"},
+{"name": "header","type": "STRING","mode": "NULLABLE"},
+{"name": "separator","type": "STRING","mode": "NULLABLE"},
+{"name": "dest_type","type": "STRING","mode": "NULLABLE"},
+{"name": "id_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "waiting_approval","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mod_user","type": "STRING","mode": "NULLABLE"},
+{"name": "mod_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "approval_user","type": "STRING","mode": "NULLABLE"},
+{"name": "approval_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "approval_type","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "biro","type": "STRING","mode": "NULLABLE"},
+{"name": "primary","type": "key","mode": "NULLABLE"}
+
+]

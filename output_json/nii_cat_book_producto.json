@@ -1,0 +1,8 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_book","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_reporte","type": "INTEGER","mode": "NULLABLE"}
+
+]

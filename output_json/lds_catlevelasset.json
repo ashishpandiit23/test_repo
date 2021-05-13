@@ -1,0 +1,13 @@
+[
+{"name": "id_level","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_sec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "comentario","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_entidad","type": "STRING","mode": "NULLABLE"},
+{"name": "level_asset_banxico","type": "STRING","mode": "NULLABLE"}
+
+]

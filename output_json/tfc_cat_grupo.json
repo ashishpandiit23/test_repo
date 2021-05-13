@@ -1,0 +1,5 @@
+[
+{"name": "cve_grupo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nom_grupo","type": "STRING","mode": "NULLABLE"}
+
+]

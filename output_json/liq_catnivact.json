@@ -1,0 +1,6 @@
+[
+{"name": "grupo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ponderador","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nivel_activo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

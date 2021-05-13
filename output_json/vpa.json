@@ -1,0 +1,8 @@
+[
+{"name": "vpanumpar","type": "INTEGER","mode": "NULLABLE"},
+{"name": "vpafecpar","type": "DATE","mode": "NULLABLE"},
+{"name": "vpafecini","type": "DATE","mode": "NULLABLE"},
+{"name": "vpafecfin","type": "DATE","mode": "NULLABLE"},
+{"name": "vpaimptas","type": "NUMERIC","mode": "NULLABLE"}
+
+]

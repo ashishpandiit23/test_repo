@@ -1,0 +1,11 @@
+[
+{"name": "cns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_pos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "concatenado","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "localc_ifrs","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio_ifrs","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,17 @@
+[
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeid","type": "STRING","mode": "NULLABLE"},
+{"name": "pors","type": "STRING","mode": "NULLABLE"},
+{"name": "commodity","type": "STRING","mode": "NULLABLE"},
+{"name": "matdate","type": "STRING","mode": "NULLABLE"},
+{"name": "notional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "startvalue","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endvalue","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "startaccrual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endaccrual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cashflows","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "profit_loss","type": "NUMERIC","mode": "NULLABLE"}
+
+]

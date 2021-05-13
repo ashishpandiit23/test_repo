@@ -1,0 +1,6 @@
+[
+{"name": "datasource_id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "name","type": "STRING","mode": "REQUIRED"},
+{"name": "connection","type": "STRING","mode": "REQUIRED"}
+
+]

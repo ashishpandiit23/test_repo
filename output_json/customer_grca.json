@@ -1,0 +1,11 @@
+[
+{"name": "llave","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contraparte_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "sector_ban","type": "STRING","mode": "NULLABLE"},
+{"name": "sector_hsbc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cal_riesgo","type": "STRING","mode": "NULLABLE"},
+{"name": "cal_fim","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,8 @@
+[
+{"name": "id_oper","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_operacion_padre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "REQUIRED"},
+{"name": "recurso","type": "STRING","mode": "NULLABLE"},
+{"name": "id_aplicacion","type": "INTEGER","mode": "REQUIRED"}
+
+]

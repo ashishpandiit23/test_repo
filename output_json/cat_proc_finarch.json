@@ -1,0 +1,11 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "carga","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "interfaz","type": "STRING","mode": "REQUIRED"},
+{"name": "tabla","type": "STRING","mode": "REQUIRED"},
+{"name": "proceso","type": "STRING","mode": "NULLABLE"},
+{"name": "importancia","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_alterna","type": "STRING","mode": "NULLABLE"}
+
+]

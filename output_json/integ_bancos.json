@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "aux","type": "STRING","mode": "NULLABLE"},
+{"name": "banco","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spglobloc","type": "STRING","mode": "NULLABLE"},
+{"name": "splpglobext","type": "STRING","mode": "NULLABLE"},
+{"name": "spcpglobext","type": "STRING","mode": "NULLABLE"},
+{"name": "splpnac","type": "STRING","mode": "NULLABLE"},
+{"name": "spcpnac","type": "STRING","mode": "NULLABLE"},
+{"name": "ftglobloc","type": "STRING","mode": "NULLABLE"},
+{"name": "ftcpglobloc","type": "STRING","mode": "NULLABLE"},
+{"name": "ftlpglobext","type": "STRING","mode": "NULLABLE"},
+{"name": "ftcpglobext","type": "STRING","mode": "NULLABLE"},
+{"name": "ftlpnac","type": "STRING","mode": "NULLABLE"},
+{"name": "ftcpnac","type": "STRING","mode": "NULLABLE"},
+{"name": "mdglobloc","type": "STRING","mode": "NULLABLE"},
+{"name": "mdcpglobloc","type": "STRING","mode": "NULLABLE"},
+{"name": "mdlpglobext","type": "STRING","mode": "NULLABLE"},
+{"name": "mdcpglobext","type": "STRING","mode": "NULLABLE"},
+{"name": "mdlpnac","type": "STRING","mode": "NULLABLE"},
+{"name": "mdcpnac","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,22 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_alta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_baja","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_institucion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_empresa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_pais","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "suc_depto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_anio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_mes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "hor_alta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "red_vector","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_user_alta","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_user_baja","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_user_mod","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_ult_mod","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "hor_baja","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "hor_ult_mod","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sta_registro","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sta_status","type": "NUMERIC","mode": "NULLABLE"}
+
+]

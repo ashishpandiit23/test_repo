@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "id_producto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "origen","type": "STRING","mode": "REQUIRED"},
+{"name": "cvemon","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_valor","type": "STRING","mode": "REQUIRED"},
+{"name": "monto_bhvr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_original","type": "NUMERIC","mode": "NULLABLE"}
+
+]

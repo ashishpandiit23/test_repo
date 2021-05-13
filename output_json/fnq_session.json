@@ -1,0 +1,6 @@
+[
+{"name": "cveusu","type": "STRING","mode": "REQUIRED"},
+{"name": "session","type": "STRING","mode": "NULLABLE"},
+{"name": "time","type": "DATEtime","mode": "NULLABLE"}
+
+]

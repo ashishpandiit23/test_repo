@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "emision_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "nprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_vto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cal_fitch","type": "STRING","mode": "NULLABLE"},
+{"name": "mdys","type": "STRING","mode": "NULLABLE"},
+{"name": "sp","type": "STRING","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "id_level","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mkt_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "rpo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchpip","type": "DATE","mode": "NULLABLE"},
+{"name": "preciosucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preciolimpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valornominal","type": "NUMERIC","mode": "NULLABLE"}
+
+]

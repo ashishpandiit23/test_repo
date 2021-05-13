@@ -1,0 +1,10 @@
+[
+{"name": "id_param","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_escenario","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ltv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "baseline","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "param1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "param2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"}
+
+]

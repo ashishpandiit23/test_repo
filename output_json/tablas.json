@@ -1,0 +1,6 @@
+[
+{"name": "tablascodi","type": "STRING","mode": "REQUIRED"},
+{"name": "tablasintn","type": "STRING","mode": "NULLABLE"},
+{"name": "tablasnomt","type": "STRING","mode": "NULLABLE"}
+
+]

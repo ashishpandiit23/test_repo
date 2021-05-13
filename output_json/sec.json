@@ -1,0 +1,6 @@
+[
+{"name": "secfor","type": "INTEGER","mode": "REQUIRED"},
+{"name": "sectes","type": "INTEGER","mode": "REQUIRED"},
+{"name": "secdes","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "id_ambiente","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"}
+
+]

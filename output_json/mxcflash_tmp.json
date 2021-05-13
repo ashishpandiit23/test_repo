@@ -1,0 +1,5 @@
+[
+{"name": "own","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeid","type": "STRING","mode": "NULLABLE"}
+
+]

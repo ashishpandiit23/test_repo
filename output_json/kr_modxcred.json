@@ -1,0 +1,6 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "modalidad","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nom_modalidad","type": "STRING","mode": "NULLABLE"}
+
+]

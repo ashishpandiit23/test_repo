@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "numero","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "status","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchproc","type": "DATE","mode": "NULLABLE"},
+{"name": "fchalta","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "fchproxint","type": "DATE","mode": "NULLABLE"},
+{"name": "fchproxpago","type": "DATE","mode": "NULLABLE"},
+{"name": "pagobanco","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numamort","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numinst","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tasacobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "stausgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdocomanual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdocomaper","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomint","type": "STRING","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

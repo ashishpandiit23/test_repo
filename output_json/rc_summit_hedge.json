@@ -1,0 +1,12 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "noopera2","type": "STRING","mode": "NULLABLE"}
+
+]

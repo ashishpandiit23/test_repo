@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "hs1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "hs2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "hs3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pico1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pico2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pico3","type": "NUMERIC","mode": "NULLABLE"}
+
+]

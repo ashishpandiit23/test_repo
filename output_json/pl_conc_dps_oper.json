@@ -1,0 +1,17 @@
+[
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "movs_daily","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_mtd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "movs_ytd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "des_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "id_producto_dps","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_libro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_clase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_subclase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_rubro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_legacy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_mapeo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "movs_daily_oper","type": "NUMERIC","mode": "NULLABLE"}
+
+]

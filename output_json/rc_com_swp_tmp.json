@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "producto_ori","type": "STRING","mode": "NULLABLE"},
+{"name": "seccion","type": "STRING","mode": "NULLABLE"},
+{"name": "num_deal","type": "STRING","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "nprofit","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "id","type": "STRING","mode": "NULLABLE"},
+{"name": "deal","type": "STRING","mode": "NULLABLE"},
+{"name": "num_numtitu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitu","type": "NUMERIC","mode": "NULLABLE"}
+
+]

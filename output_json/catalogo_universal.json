@@ -1,0 +1,15 @@
+[
+{"name": "catalogo","type": "STRING","mode": "REQUIRED"},
+{"name": "clave","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "REQUIRED"},
+{"name": "clave_interna","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_aux1","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_aux2","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_aux3","type": "STRING","mode": "NULLABLE"},
+{"name": "clave_aux4","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_modif","type": "DATE","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"},
+{"name": "active","type": "INTEGER","mode": "NULLABLE"}
+
+]

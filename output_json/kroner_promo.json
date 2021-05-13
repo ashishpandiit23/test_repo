@@ -1,0 +1,7 @@
+[
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cod_prom","type": "STRING","mode": "NULLABLE"},
+{"name": "fchmanto","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "INTEGER","mode": "NULLABLE"}
+
+]

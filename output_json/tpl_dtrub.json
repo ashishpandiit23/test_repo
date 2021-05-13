@@ -1,0 +1,10 @@
+[
+{"name": "jfpctr","type": "STRING","mode": "NULLABLE"},
+{"name": "jfapty","type": "STRING","mode": "NULLABLE"},
+{"name": "jfacty","type": "STRING","mode": "NULLABLE"},
+{"name": "jfdlno","type": "STRING","mode": "NULLABLE"},
+{"name": "jftrcd","type": "INTEGER","mode": "NULLABLE"},
+{"name": "daily_pl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchprc","type": "DATE","mode": "NULLABLE"}
+
+]

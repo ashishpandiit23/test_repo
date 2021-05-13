@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "guber_yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "up200bp_discount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dwn200bp_discount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"}
+
+]

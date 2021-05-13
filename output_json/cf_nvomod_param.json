@@ -1,0 +1,9 @@
+[
+{"name": "model","type": "STRING","mode": "NULLABLE"},
+{"name": "ltv_prepago","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "param1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "multbl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_fin","type": "DATE","mode": "NULLABLE"}
+
+]

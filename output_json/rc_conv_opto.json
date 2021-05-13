@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "insti","type": "STRING","mode": "NULLABLE"},
+{"name": "fe_corte","type": "DATE","mode": "NULLABLE"},
+{"name": "fe_con_ope","type": "DATE","mode": "NULLABLE"},
+{"name": "nu_id","type": "STRING","mode": "NULLABLE"},
+{"name": "act_ope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pas_ope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prima_act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "delta_opc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prec_fwd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fte_pr_fwd","type": "STRING","mode": "NULLABLE"},
+{"name": "vol_implic","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "c_cptesp","type": "STRING","mode": "NULLABLE"},
+{"name": "c_cptemd","type": "STRING","mode": "NULLABLE"},
+{"name": "c_cpteft","type": "STRING","mode": "NULLABLE"},
+{"name": "c_cpteotro","type": "STRING","mode": "NULLABLE"},
+{"name": "novacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tip_novac","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_vig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "seccion","type": "STRING","mode": "NULLABLE"}
+
+]

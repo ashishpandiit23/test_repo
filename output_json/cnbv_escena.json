@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "num_credit","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_client","type": "STRING","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "STRING","mode": "NULLABLE"},
+{"name": "v_totalade","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reservas_tot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fuente","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif_cnbv","type": "STRING","mode": "NULLABLE"},
+{"name": "tenor_orig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tenor_remanente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bnd_contingente","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"}
+
+]

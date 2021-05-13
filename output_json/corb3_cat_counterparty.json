@@ -1,0 +1,13 @@
+[
+{"name": "treatsid","type": "STRING","mode": "NULLABLE"},
+{"name": "cbid","type": "STRING","mode": "NULLABLE"},
+{"name": "custid","type": "STRING","mode": "NULLABLE"},
+{"name": "ravenid","type": "STRING","mode": "NULLABLE"},
+{"name": "gls","type": "STRING","mode": "NULLABLE"},
+{"name": "agreid","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cis","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "crr","type": "NUMERIC","mode": "NULLABLE"}
+
+]

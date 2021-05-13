@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id_linea","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "comentario","type": "STRING","mode": "NULLABLE"}
+
+]

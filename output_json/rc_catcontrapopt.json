@@ -1,0 +1,6 @@
+[
+{"name": "id_contraparte","type": "INTEGER","mode": "REQUIRED"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "tenor","type": "INTEGER","mode": "NULLABLE"},
+{"name": "baseline_prepay","type": "NUMERIC","mode": "NULLABLE"}
+
+]

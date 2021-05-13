@@ -1,0 +1,23 @@
+[
+{"name": "id_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion_contable","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "cpy","type": "STRING","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "intercompany","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clasificacion_producto","type": "STRING","mode": "NULLABLE"},
+{"name": "sta_activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomcol","type": "STRING","mode": "NULLABLE"},
+{"name": "tipomon","type": "STRING","mode": "NULLABLE"},
+{"name": "flag","type": "STRING","mode": "NULLABLE"}
+
+]

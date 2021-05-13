@@ -1,0 +1,6 @@
+[
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "bloque","type": "STRING","mode": "NULLABLE"}
+
+]

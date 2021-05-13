@@ -1,0 +1,7 @@
+[
+{"name": "cve_pais","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_bolsa","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "INTEGER","mode": "NULLABLE"}
+
+]

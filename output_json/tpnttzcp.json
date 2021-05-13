@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nropai","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "numopera","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoope","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "capori","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "scapori","type": "STRING","mode": "NULLABLE"},
+{"name": "capact","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "scapact","type": "STRING","mode": "NULLABLE"},
+{"name": "intdev","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sintdev","type": "STRING","mode": "NULLABLE"},
+{"name": "tasaint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipotasa","type": "STRING","mode": "NULLABLE"},
+{"name": "saifcode","type": "STRING","mode": "NULLABLE"},
+{"name": "secconta","type": "STRING","mode": "NULLABLE"},
+{"name": "secbanxico","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "num_sucur","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda1","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda2","type": "STRING","mode": "NULLABLE"}
+
+]

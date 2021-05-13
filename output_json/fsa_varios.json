@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cta_fsa","type": "STRING","mode": "NULLABLE"},
+{"name": "subcta_fsa","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"}
+
+]

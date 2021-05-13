@@ -1,0 +1,6 @@
+[
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo_sicobi","type": "NUMERIC","mode": "NULLABLE"}
+
+]

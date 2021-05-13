@@ -1,0 +1,5 @@
+[
+{"name": "dealing_position","type": "STRING","mode": "NULLABLE"},
+{"name": "posicion","type": "STRING","mode": "NULLABLE"}
+
+]

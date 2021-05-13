@@ -1,0 +1,9 @@
+[
+{"name": "legado","type": "STRING","mode": "REQUIRED"},
+{"name": "tabla","type": "STRING","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "REQUIRED"},
+{"name": "subprod","type": "STRING","mode": "REQUIRED"},
+{"name": "tipo","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "periodo","type": "STRING","mode": "NULLABLE"},
+{"name": "spread","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor","type": "NUMERIC","mode": "NULLABLE"}
+
+]

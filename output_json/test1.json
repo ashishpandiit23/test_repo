@@ -1,0 +1,5 @@
+[
+{"name": "code","type": "INTEGER","mode": "REQUIRED"},
+{"name": "description","type": "STRING","mode": "NULLABLE"}
+
+]

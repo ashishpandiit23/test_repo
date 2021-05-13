@@ -1,0 +1,5 @@
+[
+{"name": "nombre","type": "STRING","mode": "REQUIRED"},
+{"name": "activo","type": "INTEGER","mode": "REQUIRED"}
+
+]

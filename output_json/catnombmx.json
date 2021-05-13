@@ -1,0 +1,9 @@
+[
+{"name": "numcat","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomcat","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoclave","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

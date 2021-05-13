@@ -1,0 +1,19 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cur030_byield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_oyield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_o1yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_o7yield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_ohyield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "swpti30_byield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "swpti30_oyield","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_bdisc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_odisc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_o1disc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_o7disc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cur030_ohdisc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "swpti30_bdisc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "swpti30_odisc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

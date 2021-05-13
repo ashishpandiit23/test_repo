@@ -1,0 +1,12 @@
+[
+{"name": "id_log","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_legacy_d","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tabla_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_inf","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_ini_carga","type": "DATEtime","mode": "NULLABLE"},
+{"name": "fecha_fin_carga","type": "DATEtime","mode": "NULLABLE"},
+{"name": "cargado","type": "INTEGER","mode": "NULLABLE"},
+{"name": "error","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_proceso","type": "STRING","mode": "NULLABLE"}
+
+]

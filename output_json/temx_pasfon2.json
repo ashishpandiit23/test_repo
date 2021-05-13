@@ -1,0 +1,25 @@
+[
+{"name": "depto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "periodo","type": "STRING","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "scta1","type": "INTEGER","mode": "NULLABLE"},
+{"name": "scta2","type": "INTEGER","mode": "NULLABLE"},
+{"name": "scta3","type": "INTEGER","mode": "NULLABLE"},
+{"name": "scta4","type": "INTEGER","mode": "NULLABLE"},
+{"name": "scta5","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_aux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "fid","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdo_oper","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ref_oper","type": "STRING","mode": "NULLABLE"},
+{"name": "num_credit","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_client","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cis","type": "STRING","mode": "NULLABLE"},
+{"name": "num_contro","type": "STRING","mode": "NULLABLE"},
+{"name": "vencimiento","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_m_ant","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "revision","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "renglon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "funcion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "exec","type": "INTEGER","mode": "NULLABLE"}
+
+]

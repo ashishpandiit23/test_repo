@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_inicial","type": "STRING","mode": "NULLABLE"},
+{"name": "abonos","type": "STRING","mode": "NULLABLE"},
+{"name": "cargos","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_final","type": "STRING","mode": "NULLABLE"},
+{"name": "identificador","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg","type": "STRING","mode": "NULLABLE"}
+
+]

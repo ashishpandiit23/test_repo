@@ -1,0 +1,8 @@
+[
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_ints","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"}
+
+]

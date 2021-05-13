@@ -1,0 +1,9 @@
+[
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_bearing","type": "STRING","mode": "NULLABLE"},
+{"name": "act_economica","type": "INTEGER","mode": "NULLABLE"}
+
+]

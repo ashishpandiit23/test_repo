@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "spread","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "revis_tasa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_vobo","type": "STRING","mode": "NULLABLE"},
+{"name": "responsable","type": "STRING","mode": "NULLABLE"},
+{"name": "teso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "spreadlp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

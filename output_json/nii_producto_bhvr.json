@@ -1,0 +1,5 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "idsubprod","type": "STRING","mode": "REQUIRED"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "cve_fk_profit","type": "INTEGER","mode": "REQUIRED"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"}
+
+]

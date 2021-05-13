@@ -1,0 +1,10 @@
+[
+{"name": "fec_inf","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_vto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_cliente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_final","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"}
+
+]

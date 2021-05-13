@@ -1,0 +1,19 @@
+[
+{"name": "query_id","type": "STRING","mode": "REQUIRED"},
+{"name": "datasource_id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "name","type": "STRING","mode": "REQUIRED"},
+{"name": "query","type": "STRING","mode": "REQUIRED"},
+{"name": "item","type": "INTEGER","mode": "NULLABLE"},
+{"name": "path","type": "STRING","mode": "REQUIRED"},
+{"name": "report","type": "STRING","mode": "REQUIRED"},
+{"name": "pathout","type": "STRING","mode": "NULLABLE"},
+{"name": "filename","type": "STRING","mode": "NULLABLE"},
+{"name": "header","type": "STRING","mode": "NULLABLE"},
+{"name": "separator","type": "STRING","mode": "NULLABLE"},
+{"name": "dest_type","type": "STRING","mode": "NULLABLE"},
+{"name": "id_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "waiting_approval","type": "INTEGER","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "biro","type": "STRING","mode": "NULLABLE"}
+
+]

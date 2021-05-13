@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "security","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "face_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "titles","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "maturity_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "htt_dirty_price","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "htt_titles","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "htm_dirty_price","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "htm_titles","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "dirty_price_wavg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

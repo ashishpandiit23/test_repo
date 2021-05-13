@@ -1,0 +1,5 @@
+[
+{"name": "cod_said","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"}
+
+]

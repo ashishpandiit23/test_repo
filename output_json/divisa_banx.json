@@ -1,0 +1,5 @@
+[
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre_contra","type": "STRING","mode": "NULLABLE"}
+
+]

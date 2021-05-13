@@ -1,0 +1,7 @@
+[
+{"name": "consc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "llave_treats","type": "STRING","mode": "NULLABLE"},
+{"name": "llave_pip","type": "STRING","mode": "NULLABLE"},
+{"name": "duracion","type": "INTEGER","mode": "NULLABLE"}
+
+]

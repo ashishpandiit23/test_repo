@@ -1,0 +1,5 @@
+[
+{"name": "cod_eba","type": "INTEGER","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"}
+
+]

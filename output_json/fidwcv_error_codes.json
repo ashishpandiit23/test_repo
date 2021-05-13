@@ -1,0 +1,7 @@
+[
+{"name": "err_code","type": "STRING","mode": "NULLABLE"},
+{"name": "err_name","type": "STRING","mode": "NULLABLE"},
+{"name": "err_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "fk_alert_name","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,16 @@
+[
+{"name": "snyctausa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "snynrolib","type": "INTEGER","mode": "NULLABLE"},
+{"name": "snynromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "snydescon","type": "STRING","mode": "NULLABLE"},
+{"name": "snysdoact","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "snysdoacd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "snysdoatr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "snynul","type": "STRING","mode": "NULLABLE"},
+{"name": "snynrocre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "snynrodeb","type": "INTEGER","mode": "NULLABLE"},
+{"name": "snyfchact","type": "STRING","mode": "NULLABLE"},
+{"name": "snyfchrep","type": "STRING","mode": "NULLABLE"},
+{"name": "snyctamex","type": "NUMERIC","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_persona","type": "STRING","mode": "NULLABLE"}
+
+]

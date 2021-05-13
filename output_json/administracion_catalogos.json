@@ -1,0 +1,7 @@
+[
+{"name": "id_catalogo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre_catalogo","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"}
+
+]

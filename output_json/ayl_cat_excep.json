@@ -1,0 +1,11 @@
+[
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "add_code","type": "STRING","mode": "NULLABLE"},
+{"name": "sub_code","type": "STRING","mode": "NULLABLE"},
+{"name": "id_detalle","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "signo","type": "INTEGER","mode": "NULLABLE"}
+
+]

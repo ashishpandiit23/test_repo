@@ -1,0 +1,7 @@
+[
+{"name": "id_cuenta","type": "STRING","mode": "REQUIRED"},
+{"name": "id_producto","type": "STRING","mode": "REQUIRED"},
+{"name": "es_hedge","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "cuenta","type": "STRING","mode": "REQUIRED"}
+
+]

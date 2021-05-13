@@ -1,0 +1,7 @@
+[
+{"name": "id_book","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_padre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"}
+
+]

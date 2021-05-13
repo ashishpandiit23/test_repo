@@ -1,0 +1,10 @@
+[
+{"name": "job_name","type": "STRING","mode": "NULLABLE"},
+{"name": "job_status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "horini","type": "STRING","mode": "NULLABLE"},
+{"name": "horend","type": "STRING","mode": "NULLABLE"},
+{"name": "server","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

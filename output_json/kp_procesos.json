@@ -1,0 +1,9 @@
+[
+{"name": "fase","type": "STRING","mode": "NULLABLE"},
+{"name": "proceso","type": "STRING","mode": "NULLABLE"},
+{"name": "nuenpro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "termino","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecproc","type": "DATE","mode": "NULLABLE"},
+{"name": "fecexe","type": "DATEtime","mode": "NULLABLE"}
+
+]

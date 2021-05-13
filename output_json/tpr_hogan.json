@@ -1,0 +1,15 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "REQUIRED"},
+{"name": "num_cta","type": "STRING","mode": "REQUIRED"},
+{"name": "num_cte","type": "STRING","mode": "REQUIRED"},
+{"name": "lob","type": "STRING","mode": "REQUIRED"},
+{"name": "sublob","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "REQUIRED"},
+{"name": "cve_subprod","type": "STRING","mode": "REQUIRED"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo_actual_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_pag_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_alta_cta","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_ven_cta","type": "STRING","mode": "NULLABLE"}
+
+]

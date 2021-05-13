@@ -1,0 +1,8 @@
+[
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fuente","type": "INTEGER","mode": "NULLABLE"},
+{"name": "consecutivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo_etiq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

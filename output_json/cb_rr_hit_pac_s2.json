@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "institucion","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_corte","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo_operacion","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_oper","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_liq","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_ven","type": "DATE","mode": "NULLABLE"},
+{"name": "clave_accion","type": "STRING","mode": "NULLABLE"},
+{"name": "num_acciones","type": "INTEGER","mode": "NULLABLE"},
+{"name": "precio_unit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_premio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_tasa_premio","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_premio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "valor_razonable","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fuente_valor_r","type": "STRING","mode": "NULLABLE"},
+{"name": "tasa_mercado_vr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fuente_tasa_merc","type": "STRING","mode": "NULLABLE"},
+{"name": "oficina","type": "STRING","mode": "NULLABLE"},
+{"name": "num_orden","type": "STRING","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"}
+
+]

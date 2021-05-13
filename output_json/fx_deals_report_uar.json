@@ -1,0 +1,8 @@
+[
+{"name": "fec_ini","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_fin","type": "DATE","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "pair_curr","type": "STRING","mode": "NULLABLE"},
+{"name": "message","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "noopera","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diasxven","type": "INTEGER","mode": "NULLABLE"},
+{"name": "inscontra","type": "STRING","mode": "NULLABLE"},
+{"name": "nromonrec","type": "STRING","mode": "NULLABLE"},
+{"name": "nromonent","type": "STRING","mode": "NULLABLE"},
+{"name": "mtm_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accrual_r","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mto_aclme","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "id_cta","type": "INTEGER","mode": "REQUIRED"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo_sicval","type": "NUMERIC","mode": "NULLABLE"}
+
+]

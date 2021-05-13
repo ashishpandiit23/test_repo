@@ -1,0 +1,6 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "desprod","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,10 @@
+[
+{"name": "institucion","type": "STRING","mode": "NULLABLE"},
+{"name": "contra_corta","type": "STRING","mode": "NULLABLE"},
+{"name": "contra_larga","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_limite","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_des","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_limite","type": "INTEGER","mode": "NULLABLE"}
+
+]

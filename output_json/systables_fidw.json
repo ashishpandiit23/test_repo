@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tabname","type": "STRING","mode": "NULLABLE"},
+{"name": "owner","type": "STRING","mode": "NULLABLE"},
+{"name": "partnum","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tabid","type": "INTEGER","mode": "REQUIRED"},
+{"name": "rowsize","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ncols","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nindexes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "created","type": "DATE","mode": "NULLABLE"},
+{"name": "version","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tabtype","type": "STRING","mode": "NULLABLE"},
+{"name": "locklevel","type": "STRING","mode": "NULLABLE"},
+{"name": "fextsize","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nextsize","type": "INTEGER","mode": "NULLABLE"},
+{"name": "flags","type": "INTEGER","mode": "NULLABLE"},
+{"name": "site","type": "STRING","mode": "NULLABLE"},
+{"name": "dbname","type": "STRING","mode": "NULLABLE"},
+{"name": "type_xid","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pagesize","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ustlowts","type": "DATEtime","mode": "NULLABLE"},
+{"name": "secpolicyid","type": "INTEGER","mode": "NULLABLE"}
+{"name": "protgranularity","type": "STRING","mode": "NULLABLE"},
+
+]

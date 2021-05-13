@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "consec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_f","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_g","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_q","type": "NUMERIC","mode": "NULLABLE"}
+
+]

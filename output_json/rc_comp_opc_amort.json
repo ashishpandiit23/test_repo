@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tradeid_nyc","type": "STRING","mode": "NULLABLE"},
+{"name": "amort_max_conv","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_opto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amortini_opto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

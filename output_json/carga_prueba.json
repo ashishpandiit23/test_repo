@@ -1,0 +1,5 @@
+[
+{"name": "texto","type": "STRING","mode": "NULLABLE"},
+{"name": "num","type": "NUMERIC","mode": "NULLABLE"}
+
+]

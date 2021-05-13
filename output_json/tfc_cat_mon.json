@@ -1,0 +1,7 @@
+[
+{"name": "cve_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "acronimo_sic","type": "STRING","mode": "NULLABLE"},
+{"name": "acronimo_ps","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

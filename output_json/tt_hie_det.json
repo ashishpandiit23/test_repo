@@ -1,0 +1,18 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchini","type": "DATE","mode": "NULLABLE"},
+{"name": "numdcloan","type": "STRING","mode": "NULLABLE"},
+{"name": "numctecis","type": "STRING","mode": "NULLABLE"},
+{"name": "ctamayor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipproduc","type": "STRING","mode": "NULLABLE"},
+{"name": "codaux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numaux","type": "STRING","mode": "NULLABLE"},
+{"name": "nummon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdovig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipimporte","type": "STRING","mode": "NULLABLE"},
+{"name": "tasvpzo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imporiginal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaliqprem","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "impliqprem","type": "NUMERIC","mode": "NULLABLE"}
+
+]

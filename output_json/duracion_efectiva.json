@@ -1,0 +1,6 @@
+[
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "duracion","type": "NUMERIC","mode": "NULLABLE"}
+
+]

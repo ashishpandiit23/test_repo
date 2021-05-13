@@ -1,0 +1,10 @@
+[
+{"name": "nom_proceso","type": "STRING","mode": "REQUIRED"},
+{"name": "fec_proceso","type": "DATEtime","mode": "NULLABLE"},
+{"name": "nom_origen","type": "STRING","mode": "REQUIRED"},
+{"name": "nom_tab_origen","type": "STRING","mode": "REQUIRED"},
+{"name": "registro","type": "STRING","mode": "REQUIRED"},
+{"name": "nom_tab_destino","type": "STRING","mode": "NULLABLE"},
+{"name": "dsc_error","type": "STRING","mode": "REQUIRED"}
+
+]

@@ -1,0 +1,10 @@
+[
+{"name": "cveintpro","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_correo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_usu","type": "INTEGER","mode": "REQUIRED"},
+{"name": "de","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

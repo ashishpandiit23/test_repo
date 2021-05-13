@@ -1,0 +1,12 @@
+[
+{"name": "fgmcvepai","type": "STRING","mode": "NULLABLE"},
+{"name": "fgmpaitre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fgmopaiwd","type": "STRING","mode": "NULLABLE"},
+{"name": "fgmpaitnu","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fgmmontre","type": "STRING","mode": "NULLABLE"},
+{"name": "fgmmonsic","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "DATEtime","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

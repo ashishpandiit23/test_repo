@@ -1,0 +1,10 @@
+[
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "indcode","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto_v","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "concepto_n","type": "NUMERIC","mode": "NULLABLE"}
+
+]

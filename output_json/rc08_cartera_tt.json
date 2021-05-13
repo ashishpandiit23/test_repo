@@ -1,0 +1,21 @@
+[
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_c","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_totala","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_totalb","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_f","type": "STRING","mode": "NULLABLE"},
+{"name": "mac_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mac_udis_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mac_udis_morig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vacio_j","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_k","type": "STRING","mode": "NULLABLE"},
+{"name": "man_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_udis_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_udis_morig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vacio_o","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_p","type": "STRING","mode": "NULLABLE"},
+{"name": "var_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "var_udis_val","type": "NUMERIC","mode": "NULLABLE"}
+
+]

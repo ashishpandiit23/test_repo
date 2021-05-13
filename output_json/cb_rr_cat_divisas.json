@@ -1,0 +1,8 @@
+[
+{"name": "cve_div_bxo","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_div_hsbc","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "local","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "cve_tipo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

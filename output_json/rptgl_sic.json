@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "institucion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_fg","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "imp_sic","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferencia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tablas","type": "STRING","mode": "NULLABLE"}
+
+]

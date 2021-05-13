@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "vto_cadena","type": "STRING","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"}
+
+]

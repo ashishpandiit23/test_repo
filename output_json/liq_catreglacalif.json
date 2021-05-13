@@ -1,0 +1,5 @@
+[
+{"name": "id_regla","type": "STRING","mode": "NULLABLE"},
+{"name": "mdys","type": "STRING","mode": "NULLABLE"}
+
+]

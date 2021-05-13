@@ -1,0 +1,25 @@
+[
+{"name": "num_deal","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "id_mapeo_dps","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_dps","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_libro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_clase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_subclase","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_rubro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "archivo_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_acum","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "branch","type": "INTEGER","mode": "NULLABLE"},
+{"name": "profit","type": "STRING","mode": "NULLABLE"},
+{"name": "subprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "account","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "referencia1","type": "STRING","mode": "NULLABLE"}
+
+]

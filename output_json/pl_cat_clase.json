@@ -1,0 +1,14 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_clase","type": "STRING","mode": "NULLABLE"},
+{"name": "des_clase","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo_mov","type": "STRING","mode": "NULLABLE"},
+{"name": "regula1","type": "STRING","mode": "NULLABLE"},
+{"name": "regula2","type": "STRING","mode": "NULLABLE"},
+{"name": "regula3","type": "STRING","mode": "NULLABLE"},
+{"name": "id_producto_libro","type": "INTEGER","mode": "NULLABLE"}
+
+]

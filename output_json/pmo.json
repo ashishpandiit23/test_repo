@@ -1,0 +1,16 @@
+[
+{"name": "pmofchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "pmocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "pmonumcns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pmoctausa","type": "STRING","mode": "NULLABLE"},
+{"name": "pmonroper","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pmofchpag","type": "DATE","mode": "NULLABLE"},
+{"name": "pmosdoamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pmosdotot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pmodiaven","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pmolibreg","type": "STRING","mode": "NULLABLE"},
+{"name": "pmocodcal","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvestapar","type": "NUMERIC","mode": "NULLABLE"}
+
+]

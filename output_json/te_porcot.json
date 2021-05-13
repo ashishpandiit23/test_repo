@@ -1,0 +1,20 @@
+[
+{"name": "pornumfol","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pornumcns","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porfchtas","type": "DATE","mode": "NULLABLE"},
+{"name": "portipcot","type": "INTEGER","mode": "NULLABLE"},
+{"name": "porcveind","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pormtoope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pornumpzo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "portasbse","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porstaspr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porstaste","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porspread","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pormarint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porcauwht","type": "STRING","mode": "NULLABLE"},
+{"name": "portasdef","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "porusureg","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "porfecreg","type": "DATE","mode": "REQUIRED"},
+{"name": "porhorreg","type": "STRING","mode": "REQUIRED"}
+
+]

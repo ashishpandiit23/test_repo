@@ -1,0 +1,8 @@
+[
+{"name": "tipo_int","type": "STRING","mode": "NULLABLE"},
+{"name": "perioricidad","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nom_file_int","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "valor_portafolio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchinf_30","type": "DATE","mode": "NULLABLE"},
+{"name": "cambio_valuacion_mercado","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cambio_maximo_valuacion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "valor_portafolio_30","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valor_colateral","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valor_colateral_30","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "delta_colateral","type": "NUMERIC","mode": "NULLABLE"}
+
+]

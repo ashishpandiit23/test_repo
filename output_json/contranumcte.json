@@ -1,0 +1,8 @@
+[
+{"name": "numcte","type": "INTEGER","mode": "NULLABLE"},
+{"name": "contrapar","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

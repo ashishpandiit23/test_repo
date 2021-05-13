@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "id","type": "STRING","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "lreopba","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "locrepain","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lrespoam","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lrmtmamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lrnegmtmamam","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lrnoprinc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lorepbooval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "repunaval","type": "NUMERIC","mode": "NULLABLE"}
+
+]

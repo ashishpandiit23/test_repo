@@ -1,0 +1,13 @@
+[
+{"name": "noopera","type": "STRING","mode": "NULLABLE"},
+{"name": "startvaluep","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endvaluep","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "startaccrualp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endaccrualp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "startvalues","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endvalues","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "startaccruals","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "endaccruals","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ccy2","type": "STRING","mode": "NULLABLE"}
+
+]

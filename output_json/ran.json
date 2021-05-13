@@ -1,0 +1,6 @@
+[
+{"name": "rancodran","type": "INTEGER","mode": "REQUIRED"},
+{"name": "randespan","type": "STRING","mode": "NULLABLE"},
+{"name": "randesdet","type": "STRING","mode": "NULLABLE"}
+
+]

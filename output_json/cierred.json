@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nomint","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "numctas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdonetdia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intdia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasadia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "variacion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "capprommes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "intacumdia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasapond","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvestapar","type": "NUMERIC","mode": "NULLABLE"}
+
+]

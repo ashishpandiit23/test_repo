@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fch","type": "DATE","mode": "NULLABLE"},
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "port","type": "STRING","mode": "NULLABLE"},
+{"name": "lob","type": "STRING","mode": "NULLABLE"},
+{"name": "leve","type": "STRING","mode": "NULLABLE"},
+{"name": "h1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h4","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h5","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "h6","type": "NUMERIC","mode": "NULLABLE"}
+
+]

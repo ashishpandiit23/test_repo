@@ -1,0 +1,7 @@
+[
+{"name": "broker","type": "STRING","mode": "NULLABLE"},
+{"name": "product","type": "STRING","mode": "NULLABLE"},
+{"name": "fee","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "aliasspool","type": "STRING","mode": "NULLABLE"}
+
+]

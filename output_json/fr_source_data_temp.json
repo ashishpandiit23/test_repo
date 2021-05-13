@@ -1,0 +1,11 @@
+[
+{"name": "id_section","type": "STRING","mode": "NULLABLE"},
+{"name": "id_subsection","type": "STRING","mode": "NULLABLE"},
+{"name": "id_row","type": "STRING","mode": "NULLABLE"},
+{"name": "id_column","type": "STRING","mode": "NULLABLE"},
+{"name": "val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "process_date","type": "STRING","mode": "NULLABLE"},
+{"name": "id_month","type": "STRING","mode": "NULLABLE"},
+{"name": "id_country","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,21 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_cta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_st","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_cencos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_sec_eco","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_suc","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_prom1","type": "STRING","mode": "NULLABLE"},
+{"name": "fecven","type": "DATE","mode": "NULLABLE"},
+{"name": "fecini","type": "DATE","mode": "NULLABLE"},
+{"name": "filler","type": "STRING","mode": "NULLABLE"},
+{"name": "pzomisdia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numcliente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nomcte","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesegmto","type": "STRING","mode": "NULLABLE"}
+
+]

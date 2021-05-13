@@ -1,0 +1,13 @@
+[
+{"name": "reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "c_agre","type": "INTEGER","mode": "REQUIRED"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "c_tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "c_suma","type": "STRING","mode": "NULLABLE"},
+{"name": "c_plazo","type": "STRING","mode": "NULLABLE"},
+{"name": "c_portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "criterio","type": "STRING","mode": "NULLABLE"},
+{"name": "rs_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "c_nominal","type": "STRING","mode": "NULLABLE"}
+
+]

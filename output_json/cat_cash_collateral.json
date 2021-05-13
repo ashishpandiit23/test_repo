@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre_empresa","type": "STRING","mode": "NULLABLE"},
+{"name": "isacroban_summit","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "subtotal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "proporcion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "noopera","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "id_owner","type": "INTEGER","mode": "REQUIRED"},
+{"name": "owner","type": "STRING","mode": "NULLABLE"}
+
+]

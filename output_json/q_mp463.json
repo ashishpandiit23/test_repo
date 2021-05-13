@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns","type": "INTEGER","mode": "NULLABLE"},
+{"name": "a1ddat","type": "STRING","mode": "NULLABLE"},
+{"name": "a1dlno","type": "STRING","mode": "NULLABLE"},
+{"name": "a1ogdn","type": "STRING","mode": "NULLABLE"},
+{"name": "a1dlst","type": "STRING","mode": "NULLABLE"},
+{"name": "a1dlid","type": "STRING","mode": "NULLABLE"},
+{"name": "a1cntr","type": "STRING","mode": "NULLABLE"},
+{"name": "a1cmon","type": "STRING","mode": "NULLABLE"},
+{"name": "a1emon","type": "STRING","mode": "NULLABLE"},
+{"name": "a1bsin","type": "STRING","mode": "NULLABLE"},
+{"name": "a1nlot","type": "STRING","mode": "NULLABLE"},
+{"name": "yield","type": "STRING","mode": "NULLABLE"},
+{"name": "a1dpos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "a1cmcy","type": "STRING","mode": "NULLABLE"},
+{"name": "commission","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contract_price","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "time","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "nomusu","type": "STRING","mode": "NULLABLE"},
+{"name": "date_crea","type": "STRING","mode": "NULLABLE"},
+{"name": "capture_date","type": "STRING","mode": "NULLABLE"},
+{"name": "event_count","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_memo_narra","type": "STRING","mode": "NULLABLE"}
+
+]

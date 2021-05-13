@@ -1,0 +1,7 @@
+[
+{"name": "cve_int","type": "STRING","mode": "NULLABLE"},
+{"name": "archivo","type": "STRING","mode": "NULLABLE"},
+{"name": "output_cmd","type": "STRING","mode": "NULLABLE"},
+{"name": "existe","type": "STRING","mode": "NULLABLE"}
+
+]

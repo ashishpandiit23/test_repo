@@ -1,0 +1,6 @@
+[
+{"name": "id_ind_tabla","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_tabla","type": "INTEGER","mode": "NULLABLE"},
+{"name": "orden_tablas","type": "INTEGER","mode": "NULLABLE"}
+
+]

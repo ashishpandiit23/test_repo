@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "new_deal","type": "STRING","mode": "NULLABLE"},
+{"name": "uwd_deal","type": "STRING","mode": "NULLABLE"},
+{"name": "contra","type": "STRING","mode": "NULLABLE"},
+{"name": "fchmax","type": "DATE","mode": "NULLABLE"}
+
+]

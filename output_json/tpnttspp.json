@@ -1,0 +1,24 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "numopera","type": "STRING","mode": "NULLABLE"},
+{"name": "tipoop","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "STRING","mode": "NULLABLE"},
+{"name": "monrecibi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtorecibi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monentre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtoentre","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipocambio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "secconta","type": "STRING","mode": "NULLABLE"},
+{"name": "secbanxico","type": "STRING","mode": "NULLABLE"},
+{"name": "mtorecibiusd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtoentreusd","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "inddiv","type": "STRING","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "num_sucur","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda1","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda2","type": "STRING","mode": "NULLABLE"}
+
+]

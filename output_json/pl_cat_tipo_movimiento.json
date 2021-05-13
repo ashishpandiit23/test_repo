@@ -1,0 +1,7 @@
+[
+{"name": "id_movimiento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fec_inicio","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_movimiento","type": "STRING","mode": "NULLABLE"},
+{"name": "des_movimiento","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,13 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tindcode","type": "STRING","mode": "REQUIRED"},
+{"name": "temisora","type": "STRING","mode": "REQUIRED"},
+{"name": "tserie","type": "STRING","mode": "REQUIRED"},
+{"name": "pindcode","type": "STRING","mode": "NULLABLE"},
+{"name": "pemisora","type": "STRING","mode": "NULLABLE"},
+{"name": "pserie","type": "STRING","mode": "NULLABLE"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

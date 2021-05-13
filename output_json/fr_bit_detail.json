@@ -1,0 +1,10 @@
+[
+{"name": "id_fr_bit_mod","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_fr_bit","type": "INTEGER","mode": "REQUIRED"},
+{"name": "registro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "campo","type": "STRING","mode": "NULLABLE"},
+{"name": "val_ant","type": "STRING","mode": "NULLABLE"},
+{"name": "val_act","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,18 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_seg","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_alta_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fch_ven_cta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdo_act_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_pag_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "vof_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_bhvr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_anual_pag","type": "NUMERIC","mode": "NULLABLE"}
+
+]

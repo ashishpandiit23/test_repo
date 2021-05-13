@@ -1,0 +1,9 @@
+[
+{"name": "id_archivo","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fec_inicio","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_producto","type": "STRING","mode": "NULLABLE"},
+{"name": "des_producto","type": "STRING","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_estatus","type": "DATE","mode": "NULLABLE"}
+
+]

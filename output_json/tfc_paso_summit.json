@@ -1,0 +1,16 @@
+[
+{"name": "cve_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cod_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "concepto","type": "STRING","mode": "NULLABLE"},
+{"name": "v_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "i_intercompany","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "i_thirdparty","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_intercompany_nocional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "v_thirdparty_nocional","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"},
+{"name": "orden","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "cve_tipo_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"}
+
+]

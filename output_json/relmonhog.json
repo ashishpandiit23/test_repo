@@ -1,0 +1,5 @@
+[
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"}
+
+]

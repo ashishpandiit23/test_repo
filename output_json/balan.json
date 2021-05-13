@@ -1,0 +1,10 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "rubro","type": "INTEGER","mode": "NULLABLE"},
+{"name": "porta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "consec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cta","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

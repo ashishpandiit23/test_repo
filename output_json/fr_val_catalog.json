@@ -1,0 +1,8 @@
+[
+{"name": "id_val_cat","type": "INTEGER","mode": "REQUIRED"},
+{"name": "catalog","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "db_source","type": "STRING","mode": "NULLABLE"},
+{"name": "command","type": "STRING","mode": "NULLABLE"}
+
+]

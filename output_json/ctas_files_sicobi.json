@@ -1,0 +1,14 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_institucion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tx_cta_conta","type": "STRING","mode": "NULLABLE"},
+{"name": "tx_cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "tx_num_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "am_tipo_file","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"},
+{"name": "dt_fecha_cap","type": "DATE","mode": "NULLABLE"}
+
+]

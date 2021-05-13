@@ -1,0 +1,17 @@
+[
+{"name": "cve_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_control","type": "DATE","mode": "NULLABLE"},
+{"name": "cve_ctzn_emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "num_titulos","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha_operacion","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_liq_mex","type": "DATE","mode": "NULLABLE"},
+{"name": "fecha_liq_usa","type": "DATE","mode": "NULLABLE"},
+{"name": "precio_compra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "precio_venta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "lugar_compra","type": "STRING","mode": "NULLABLE"},
+{"name": "lugar_venta","type": "STRING","mode": "NULLABLE"},
+{"name": "interm_extranjero","type": "STRING","mode": "NULLABLE"},
+{"name": "custodio","type": "STRING","mode": "NULLABLE"}
+
+]

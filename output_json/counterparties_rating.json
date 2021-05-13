@@ -1,0 +1,28 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "acronym_tts","type": "STRING","mode": "NULLABLE"},
+{"name": "dummy1","type": "STRING","mode": "NULLABLE"},
+{"name": "full_name","type": "STRING","mode": "NULLABLE"},
+{"name": "dummy2","type": "STRING","mode": "NULLABLE"},
+{"name": "dummy3","type": "STRING","mode": "NULLABLE"},
+{"name": "dummy4","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_lp_monlocal","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_lp_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_cp_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_lp","type": "STRING","mode": "NULLABLE"},
+{"name": "sp_cp","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_lp_monlocal","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_lp_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_cp_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "fitch_escalanat","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_dlp_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_deplp_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_cp_monext","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_dlp_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_deplp_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_cp_monloc","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_lp","type": "STRING","mode": "NULLABLE"},
+{"name": "moodys_cp","type": "STRING","mode": "NULLABLE"},
+{"name": "hr_en","type": "STRING","mode": "NULLABLE"}
+
+]

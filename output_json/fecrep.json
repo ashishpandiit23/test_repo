@@ -1,0 +1,12 @@
+[
+{"name": "feccverep","type": "STRING","mode": "NULLABLE"},
+{"name": "fecnumcol","type": "INTEGER","mode": "NULLABLE"},
+{"name": "feccvefec","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fectipcol","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecnomcol","type": "STRING","mode": "NULLABLE"},
+{"name": "feccodsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fecfchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "fechorreg","type": "STRING","mode": "NULLABLE"},
+{"name": "fecnomusu","type": "STRING","mode": "NULLABLE"}
+
+]

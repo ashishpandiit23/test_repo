@@ -1,0 +1,6 @@
+[
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cta_grca","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif","type": "STRING","mode": "NULLABLE"}
+
+]

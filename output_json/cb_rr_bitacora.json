@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchproc","type": "DATE","mode": "NULLABLE"},
+{"name": "hraproc","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "detalle","type": "STRING","mode": "NULLABLE"}
+
+]

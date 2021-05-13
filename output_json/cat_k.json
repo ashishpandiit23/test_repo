@@ -1,0 +1,7 @@
+[
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_secuen","type": "STRING","mode": "NULLABLE"},
+{"name": "k","type": "NUMERIC","mode": "NULLABLE"}
+
+]

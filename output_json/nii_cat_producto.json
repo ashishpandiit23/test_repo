@@ -1,0 +1,6 @@
+[
+{"name": "id_producto","type": "INTEGER","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

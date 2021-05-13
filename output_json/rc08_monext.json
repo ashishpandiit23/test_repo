@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "c_agre","type": "INTEGER","mode": "NULLABLE"},
+{"name": "concepto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mac_me","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mac_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_me","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "man_mn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "variacion","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"}
+
+]

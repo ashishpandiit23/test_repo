@@ -1,0 +1,8 @@
+[
+{"name": "id_bit","type": "INTEGER","mode": "REQUIRED"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "catalog","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "hrreg","type": "DATEtime","mode": "NULLABLE"}
+
+]

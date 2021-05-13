@@ -1,0 +1,5 @@
+[
+{"name": "cvevec","type": "STRING","mode": "NULLABLE"},
+{"name": "origen","type": "STRING","mode": "NULLABLE"}
+
+]

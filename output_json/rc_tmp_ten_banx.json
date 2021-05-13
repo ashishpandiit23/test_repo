@@ -1,0 +1,7 @@
+[
+{"name": "fe_corte","type": "DATE","mode": "NULLABLE"},
+{"name": "clave_tit","type": "STRING","mode": "NULLABLE"},
+{"name": "num_titu","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"}
+
+]

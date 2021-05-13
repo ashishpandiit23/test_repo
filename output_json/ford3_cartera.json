@@ -1,0 +1,14 @@
+[
+{"name": "account","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "accountdt","type": "DATE","mode": "NULLABLE"},
+{"name": "fpaymentdt","type": "DATE","mode": "NULLABLE"},
+{"name": "matdt","type": "DATE","mode": "NULLABLE"},
+{"name": "term","type": "INTEGER","mode": "NULLABLE"},
+{"name": "amountfin","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prin_ini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "int_ini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pago_ini","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cust_rate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_fondeo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

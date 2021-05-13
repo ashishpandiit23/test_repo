@@ -1,0 +1,15 @@
+[
+{"name": "seq","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_ftp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_ftp","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_ppy","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_ppy","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_fon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort_fon_ppy","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes_fon_ppy","type": "NUMERIC","mode": "NULLABLE"}
+
+]

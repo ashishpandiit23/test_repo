@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "id_stress","type": "INTEGER","mode": "REQUIRED"},
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "REQUIRED"},
+{"name": "idsubprod","type": "STRING","mode": "REQUIRED"},
+{"name": "segmento","type": "STRING","mode": "NULLABLE"},
+{"name": "bucket","type": "INTEGER","mode": "REQUIRED"},
+{"name": "stress","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa_aop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_aop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "inc_aop","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvevector","type": "STRING","mode": "NULLABLE"}
+
+]

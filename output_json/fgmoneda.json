@@ -1,0 +1,10 @@
+[
+{"name": "nummonori","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemonori","type": "STRING","mode": "NULLABLE"},
+{"name": "desmonori","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemonkr","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipcambio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cvemes","type": "INTEGER","mode": "NULLABLE"}
+
+]

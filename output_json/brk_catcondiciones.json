@@ -1,0 +1,7 @@
+[
+{"name": "cpty","type": "STRING","mode": "NULLABLE"},
+{"name": "tax_situation","type": "STRING","mode": "NULLABLE"},
+{"name": "product_type","type": "STRING","mode": "NULLABLE"},
+{"name": "id","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,21 @@
+[
+{"name": "agrcodint","type": "STRING","mode": "REQUIRED"},
+{"name": "agrnomagr","type": "STRING","mode": "NULLABLE"},
+{"name": "agrdesagr","type": "STRING","mode": "NULLABLE"},
+{"name": "agrcamord","type": "STRING","mode": "NULLABLE"},
+{"name": "agrnomcat","type": "STRING","mode": "NULLABLE"},
+{"name": "agrnomcad","type": "STRING","mode": "NULLABLE"},
+{"name": "agrfchtot","type": "STRING","mode": "NULLABLE"},
+{"name": "agrnomcat2","type": "STRING","mode": "NULLABLE"},
+{"name": "agrnomcat3","type": "STRING","mode": "NULLABLE"},
+{"name": "agrnomcat4","type": "STRING","mode": "NULLABLE"},
+{"name": "agrindpon","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "agrindpon2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "agrindpon3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "agrindpon4","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codsta","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"},
+{"name": "codusu","type": "STRING","mode": "NULLABLE"}
+
+]

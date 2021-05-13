@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "codigo","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "seccion","type": "STRING","mode": "NULLABLE"},
+{"name": "escenario","type": "STRING","mode": "NULLABLE"},
+{"name": "ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "sdo1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo3","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo4","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo5","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo6","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo7","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codigo_alm","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,5 @@
+[
+{"name": "inter","type": "STRING","mode": "NULLABLE"},
+{"name": "proceso","type": "STRING","mode": "NULLABLE"}
+
+]

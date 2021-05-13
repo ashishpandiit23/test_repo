@@ -1,0 +1,8 @@
+[
+{"name": "rancodran","type": "INTEGER","mode": "REQUIRED"},
+{"name": "randescns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "randesini","type": "INTEGER","mode": "NULLABLE"},
+{"name": "randesfin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "randestit","type": "INTEGER","mode": "NULLABLE"}
+
+]

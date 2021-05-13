@@ -1,0 +1,12 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "numorden","type": "STRING","mode": "NULLABLE"},
+{"name": "monedat","type": "INTEGER","mode": "NULLABLE"},
+{"name": "gl_nominal","type": "STRING","mode": "NULLABLE"},
+{"name": "gl_premio_desc","type": "STRING","mode": "NULLABLE"},
+{"name": "gl_valuacion","type": "STRING","mode": "NULLABLE"},
+{"name": "gl_interes","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_valor_nom","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fecha_valor_val","type": "INTEGER","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,13 @@
+[
+{"name": "id","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "institucion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "empresa","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pais","type": "INTEGER","mode": "NULLABLE"},
+{"name": "moneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cod_aux","type": "INTEGER","mode": "NULLABLE"},
+{"name": "num_aux","type": "STRING","mode": "NULLABLE"}
+
+]

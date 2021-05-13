@@ -1,0 +1,7 @@
+[
+{"name": "id_prod_contable","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_prod","type": "STRING","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "REQUIRED"},
+{"name": "fec_status","type": "DATE","mode": "NULLABLE"}
+
+]

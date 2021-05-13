@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"},
+{"name": "contra_garantia","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "tipope","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "ponderador","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "act_cip","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pas_cip","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "importe_positivo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_garantia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "residuo_garantia","type": "NUMERIC","mode": "NULLABLE"}
+
+]

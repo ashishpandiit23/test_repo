@@ -1,0 +1,14 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_mtto_bit","type": "INTEGER","mode": "REQUIRED"},
+{"name": "aplicacion","type": "STRING","mode": "REQUIRED"},
+{"name": "tabla","type": "STRING","mode": "REQUIRED"},
+{"name": "registro","type": "STRING","mode": "NULLABLE"},
+{"name": "campo","type": "STRING","mode": "REQUIRED"},
+{"name": "val_ant","type": "STRING","mode": "REQUIRED"},
+{"name": "val_act","type": "STRING","mode": "REQUIRED"},
+{"name": "usureg","type": "STRING","mode": "REQUIRED"},
+{"name": "horreg","type": "STRING","mode": "REQUIRED"},
+{"name": "fchreg","type": "DATE","mode": "REQUIRED"}
+
+]

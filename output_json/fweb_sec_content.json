@@ -1,0 +1,7 @@
+[
+{"name": "id_content_categorie","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_content","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_operacion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_user_group","type": "INTEGER","mode": "NULLABLE"}
+
+]

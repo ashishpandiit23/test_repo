@@ -1,0 +1,11 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "evento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "producto","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_conta","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mto_sicobi","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mto_operativo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "time","type": "STRING","mode": "NULLABLE"},
+{"name": "mto_extra","type": "NUMERIC","mode": "NULLABLE"}
+
+]

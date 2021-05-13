@@ -1,0 +1,5 @@
+[
+{"name": "nombre_empresa","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs_final","type": "STRING","mode": "NULLABLE"}
+
+]

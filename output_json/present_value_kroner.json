@@ -1,0 +1,13 @@
+[
+{"name": "fec_inf","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_lob","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "sub_tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "contador","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_mon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "capital","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv_cap","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pv_int","type": "NUMERIC","mode": "NULLABLE"}
+
+]

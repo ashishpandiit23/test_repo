@@ -1,0 +1,8 @@
+[
+{"name": "cve_contra_bxo","type": "STRING","mode": "REQUIRED"},
+{"name": "cve_contra_hsbc","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"}
+
+]

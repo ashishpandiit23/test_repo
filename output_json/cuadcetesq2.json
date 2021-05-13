@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "nroins","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroemp","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvepai","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cvemoneda","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nroctai","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codauxi","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numauxi","type": "STRING","mode": "NULLABLE"},
+{"name": "sicsdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtoint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "diferenc","type": "NUMERIC","mode": "NULLABLE"}
+
+]

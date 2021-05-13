@@ -1,0 +1,5 @@
+[
+{"name": "cve_clasificacion","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"}
+
+]

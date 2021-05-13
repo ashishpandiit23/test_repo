@@ -1,0 +1,10 @@
+[
+{"name": "ctcnroins","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ctcnroemp","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ctcnropai","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ctcnromon","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ctcnrocta","type": "NUMERIC","mode": "REQUIRED"},
+{"name": "ctccodaux","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ctcnumaux","type": "STRING","mode": "REQUIRED"}
+
+]

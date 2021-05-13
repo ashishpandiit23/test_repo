@@ -1,0 +1,8 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "xertqd","type": "STRING","mode": "NULLABLE"},
+{"name": "xecyp1","type": "STRING","mode": "NULLABLE"},
+{"name": "xecyp2","type": "STRING","mode": "NULLABLE"},
+{"name": "xestor","type": "NUMERIC","mode": "NULLABLE"}
+
+]

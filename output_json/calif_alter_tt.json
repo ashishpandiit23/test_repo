@@ -1,0 +1,27 @@
+[
+{"name": "a","type": "STRING","mode": "NULLABLE"},
+{"name": "b","type": "STRING","mode": "NULLABLE"},
+{"name": "c","type": "STRING","mode": "NULLABLE"},
+{"name": "d","type": "STRING","mode": "NULLABLE"},
+{"name": "e","type": "STRING","mode": "NULLABLE"},
+{"name": "f","type": "STRING","mode": "NULLABLE"},
+{"name": "g","type": "STRING","mode": "NULLABLE"},
+{"name": "h","type": "STRING","mode": "NULLABLE"},
+{"name": "i","type": "STRING","mode": "NULLABLE"},
+{"name": "j","type": "STRING","mode": "NULLABLE"},
+{"name": "k","type": "STRING","mode": "NULLABLE"},
+{"name": "l","type": "STRING","mode": "NULLABLE"},
+{"name": "m","type": "STRING","mode": "NULLABLE"},
+{"name": "n","type": "STRING","mode": "NULLABLE"},
+{"name": "o","type": "STRING","mode": "NULLABLE"},
+{"name": "p","type": "STRING","mode": "NULLABLE"},
+{"name": "q","type": "STRING","mode": "NULLABLE"},
+{"name": "r","type": "STRING","mode": "NULLABLE"},
+{"name": "s","type": "STRING","mode": "NULLABLE"},
+{"name": "t","type": "STRING","mode": "NULLABLE"},
+{"name": "u","type": "STRING","mode": "NULLABLE"},
+{"name": "v","type": "STRING","mode": "NULLABLE"},
+{"name": "w","type": "STRING","mode": "NULLABLE"},
+{"name": "x","type": "STRING","mode": "NULLABLE"}
+
+]

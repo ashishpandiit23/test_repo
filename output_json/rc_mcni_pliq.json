@@ -1,0 +1,17 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "deal_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "value_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "rpo_rrp_date","type": "INTEGER","mode": "NULLABLE"},
+{"name": "deal_number","type": "STRING","mode": "NULLABLE"},
+{"name": "org_deal_no","type": "STRING","mode": "NULLABLE"},
+{"name": "cyp","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cpty","type": "STRING","mode": "NULLABLE"},
+{"name": "sec_master","type": "STRING","mode": "NULLABLE"},
+{"name": "status","type": "STRING","mode": "NULLABLE"},
+{"name": "position","type": "INTEGER","mode": "NULLABLE"},
+{"name": "security","type": "STRING","mode": "NULLABLE"},
+{"name": "delivery_type","type": "STRING","mode": "NULLABLE"}
+
+]

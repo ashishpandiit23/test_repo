@@ -1,0 +1,7 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_banxico","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "sib_nemonic","type": "STRING","mode": "NULLABLE"}
+
+]

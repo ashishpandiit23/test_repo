@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_mov","type": "DATE","mode": "NULLABLE"},
+{"name": "no_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "empresap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "nromon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "sb1","type": "STRING","mode": "NULLABLE"},
+{"name": "sb2","type": "STRING","mode": "NULLABLE"},
+{"name": "sb3","type": "STRING","mode": "NULLABLE"},
+{"name": "sb4","type": "STRING","mode": "NULLABLE"},
+{"name": "sb5","type": "STRING","mode": "NULLABLE"},
+{"name": "importe","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tip_mov","type": "INTEGER","mode": "NULLABLE"}
+
+]

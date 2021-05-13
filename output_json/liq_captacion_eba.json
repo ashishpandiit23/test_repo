@@ -1,0 +1,17 @@
+[
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "gobierno","type": "INTEGER","mode": "NULLABLE"},
+{"name": "entd_fin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "vencimiento_mes","type": "INTEGER","mode": "NULLABLE"},
+{"name": "vencimiento_anio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "pf_pm","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cte_transacional","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cte_operacional","type": "INTEGER","mode": "NULLABLE"},
+{"name": "mayor_ipab","type": "INTEGER","mode": "NULLABLE"},
+{"name": "sdo_actual","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "sdo_actual_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "umb_monto","type": "INTEGER","mode": "NULLABLE"}
+
+]

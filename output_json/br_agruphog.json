@@ -1,0 +1,8 @@
+[
+{"name": "prod","type": "STRING","mode": "NULLABLE"},
+{"name": "subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "agrupa","type": "STRING","mode": "NULLABLE"}
+
+]

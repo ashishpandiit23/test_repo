@@ -1,0 +1,7 @@
+[
+{"name": "tipovalor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "id_crr","type": "INTEGER","mode": "REQUIRED"}
+
+]

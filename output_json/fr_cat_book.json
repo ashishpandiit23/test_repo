@@ -1,0 +1,10 @@
+[
+{"name": "id_book","type": "INTEGER","mode": "REQUIRED"},
+{"name": "system_name","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "id_mkt_type","type": "INTEGER","mode": "NULLABLE"},
+{"name": "book_type","type": "STRING","mode": "NULLABLE"},
+{"name": "description","type": "STRING","mode": "NULLABLE"},
+{"name": "id_db_table","type": "INTEGER","mode": "NULLABLE"}
+
+]

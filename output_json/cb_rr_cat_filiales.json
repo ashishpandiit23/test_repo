@@ -1,0 +1,8 @@
+[
+{"name": "cve_filial_bxo","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_filial_hsbc","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "STRING","mode": "NULLABLE"}
+
+]

@@ -1,0 +1,6 @@
+[
+{"name": "cvemes","type": "STRING","mode": "NULLABLE"},
+{"name": "credito","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fec_vencto","type": "STRING","mode": "NULLABLE"}
+
+]

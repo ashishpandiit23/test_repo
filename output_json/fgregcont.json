@@ -1,0 +1,13 @@
+[
+{"name": "nrocns","type": "INTEGER","mode": "REQUIRED"},
+{"name": "ocodint","type": "STRING","mode": "NULLABLE"},
+{"name": "onroins","type": "STRING","mode": "NULLABLE"},
+{"name": "onroemp","type": "STRING","mode": "NULLABLE"},
+{"name": "ocvepai","type": "STRING","mode": "NULLABLE"},
+{"name": "onromon","type": "STRING","mode": "NULLABLE"},
+{"name": "onrocta","type": "STRING","mode": "NULLABLE"},
+{"name": "ocodaux","type": "STRING","mode": "NULLABLE"},
+{"name": "onumaux","type": "STRING","mode": "NULLABLE"},
+{"name": "osaldo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

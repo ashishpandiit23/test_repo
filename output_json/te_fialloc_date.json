@@ -1,0 +1,25 @@
+[
+{"name": "fec_proceso","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "allocation","type": "STRING","mode": "NULLABLE"},
+{"name": "num_cte","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha_mov","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_operacion","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "precio_mdo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "cta_contable","type": "STRING","mode": "NULLABLE"},
+{"name": "scta1","type": "STRING","mode": "NULLABLE"},
+{"name": "scta2","type": "STRING","mode": "NULLABLE"},
+{"name": "scta3","type": "STRING","mode": "NULLABLE"},
+{"name": "scta4","type": "STRING","mode": "NULLABLE"},
+{"name": "scta5","type": "STRING","mode": "NULLABLE"},
+{"name": "cod_aux","type": "STRING","mode": "NULLABLE"},
+{"name": "auxiliar","type": "STRING","mode": "NULLABLE"},
+{"name": "conc_costos","type": "STRING","mode": "NULLABLE"},
+{"name": "no_titulos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "no_contrato","type": "STRING","mode": "NULLABLE"}
+
+]

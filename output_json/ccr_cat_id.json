@@ -1,0 +1,5 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "id","type": "NUMERIC","mode": "NULLABLE"}
+
+]

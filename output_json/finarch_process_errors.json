@@ -1,0 +1,10 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cve_archivo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_encabezado","type": "INTEGER","mode": "NULLABLE"},
+{"name": "status","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "STRING","mode": "NULLABLE"}
+
+]

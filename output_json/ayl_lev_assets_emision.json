@@ -1,0 +1,9 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "sec_descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "indev_type_val","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "id_level","type": "INTEGER","mode": "NULLABLE"}
+
+]

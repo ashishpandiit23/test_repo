@@ -1,0 +1,9 @@
+[
+{"name": "mnemonico","type": "STRING","mode": "NULLABLE"},
+{"name": "descricta","type": "STRING","mode": "NULLABLE"},
+{"name": "nroctad","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "codauxd","type": "INTEGER","mode": "NULLABLE"},
+{"name": "numauxd","type": "STRING","mode": "NULLABLE"},
+{"name": "asocia","type": "STRING","mode": "NULLABLE"}
+
+]

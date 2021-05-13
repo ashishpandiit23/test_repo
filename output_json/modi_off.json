@@ -1,0 +1,15 @@
+[
+{"name": "cons","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "nu_id","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_cat","type": "STRING","mode": "NULLABLE"},
+{"name": "descrip","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_cat","type": "INTEGER","mode": "NULLABLE"},
+{"name": "valorig","type": "STRING","mode": "NULLABLE"},
+{"name": "valact","type": "STRING","mode": "NULLABLE"},
+{"name": "reviso","type": "STRING","mode": "NULLABLE"},
+{"name": "aut","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"},
+{"name": "hora","type": "STRING","mode": "NULLABLE"}
+
+]

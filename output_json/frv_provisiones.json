@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_credit","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "provisiones","type": "NUMERIC","mode": "NULLABLE"}
+
+]

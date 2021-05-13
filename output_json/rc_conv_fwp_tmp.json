@@ -1,0 +1,18 @@
+[
+{"name": "institucion","type": "STRING","mode": "NULLABLE"},
+{"name": "fe_corte","type": "STRING","mode": "NULLABLE"},
+{"name": "fchini","type": "STRING","mode": "NULLABLE"},
+{"name": "nu_id","type": "STRING","mode": "NULLABLE"},
+{"name": "act_ope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pas_ope","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prec_spot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mda_suby","type": "STRING","mode": "NULLABLE"},
+{"name": "c_cptesp","type": "STRING","mode": "NULLABLE"},
+{"name": "c_cptemd","type": "STRING","mode": "NULLABLE"},
+{"name": "c_cpteft","type": "STRING","mode": "NULLABLE"},
+{"name": "c_cpteotro","type": "STRING","mode": "NULLABLE"},
+{"name": "estrategia","type": "STRING","mode": "NULLABLE"},
+{"name": "id_estra","type": "STRING","mode": "NULLABLE"},
+{"name": "imp_base","type": "NUMERIC","mode": "NULLABLE"}
+
+]

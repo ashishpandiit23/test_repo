@@ -1,0 +1,8 @@
+[
+{"name": "cve_plazo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "seccion","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_ini","type": "INTEGER","mode": "NULLABLE"},
+{"name": "plazo_fin","type": "INTEGER","mode": "NULLABLE"},
+{"name": "desc_plazo","type": "STRING","mode": "NULLABLE"}
+
+]

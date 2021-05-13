@@ -1,0 +1,8 @@
+[
+{"name": "archivo_fuente","type": "STRING","mode": "NULLABLE"},
+{"name": "path_fuente","type": "STRING","mode": "NULLABLE"},
+{"name": "archivo_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "path_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "sleep","type": "INTEGER","mode": "NULLABLE"}
+
+]

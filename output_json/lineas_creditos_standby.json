@@ -1,0 +1,8 @@
+[
+{"name": "cve_mes","type": "STRING","mode": "NULLABLE"},
+{"name": "num_linea","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "let_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "std_part","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "std_fin","type": "NUMERIC","mode": "NULLABLE"}
+
+]

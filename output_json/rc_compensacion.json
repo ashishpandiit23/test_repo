@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "llave","type": "STRING","mode": "NULLABLE"},
+{"name": "plazo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "STRING","mode": "NULLABLE"},
+{"name": "activo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pasivo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"}
+
+]

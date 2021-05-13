@@ -1,0 +1,25 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tradeid","type": "STRING","mode": "NULLABLE"},
+{"name": "type","type": "STRING","mode": "NULLABLE"},
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "tradedate","type": "STRING","mode": "NULLABLE"},
+{"name": "startdate","type": "STRING","mode": "NULLABLE"},
+{"name": "enddate","type": "STRING","mode": "NULLABLE"},
+{"name": "notional","type": "STRING","mode": "NULLABLE"},
+{"name": "notional_ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "counterparty","type": "STRING","mode": "NULLABLE"},
+{"name": "estatus","type": "STRING","mode": "NULLABLE"},
+{"name": "action","type": "STRING","mode": "NULLABLE"},
+{"name": "audit_field","type": "STRING","mode": "NULLABLE"},
+{"name": "old_value","type": "STRING","mode": "NULLABLE"},
+{"name": "new_value","type": "STRING","mode": "NULLABLE"},
+{"name": "economic","type": "STRING","mode": "NULLABLE"},
+{"name": "user_id","type": "STRING","mode": "NULLABLE"},
+{"name": "modified_on","type": "STRING","mode": "NULLABLE"},
+{"name": "field_description","type": "STRING","mode": "NULLABLE"},
+{"name": "comments","type": "STRING","mode": "NULLABLE"},
+{"name": "external_system","type": "STRING","mode": "NULLABLE"},
+{"name": "external_confirm","type": "STRING","mode": "NULLABLE"}
+
+]

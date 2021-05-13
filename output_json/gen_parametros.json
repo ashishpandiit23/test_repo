@@ -1,0 +1,7 @@
+[
+{"name": "id_app","type": "STRING","mode": "REQUIRED"},
+{"name": "parametro","type": "STRING","mode": "REQUIRED"},
+{"name": "valor","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

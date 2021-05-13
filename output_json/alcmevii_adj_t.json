@@ -1,0 +1,25 @@
+[
+{"name": "fchinf_adj","type": "DATE","mode": "NULLABLE"},
+{"name": "nrocns_adj","type": "INTEGER","mode": "NULLABLE"},
+{"name": "grupo_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "pais_adj","type": "INTEGER","mode": "NULLABLE"},
+{"name": "folio_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "vacio_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "carac1_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "carac2_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "contra_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_op_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "fchop2_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_ven_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "dxv_adj","type": "INTEGER","mode": "NULLABLE"},
+{"name": "divisa_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "monto_adj","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "divisa2_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "monto2_adj","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tipoc_adj","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "contra2_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg_adj","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg_adj","type": "STRING","mode": "NULLABLE"},
+{"name": "usureg_adj","type": "STRING","mode": "NULLABLE"}
+
+]

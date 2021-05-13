@@ -1,0 +1,9 @@
+[
+{"name": "id_detalle","type": "INTEGER","mode": "REQUIRED"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "c_tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "rs_reporte","type": "STRING","mode": "NULLABLE"},
+{"name": "c_criterio_mxn","type": "STRING","mode": "NULLABLE"},
+{"name": "c_criterio_usd","type": "STRING","mode": "NULLABLE"}
+
+]

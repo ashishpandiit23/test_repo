@@ -1,0 +1,9 @@
+[
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "posicion","type": "STRING","mode": "NULLABLE"},
+{"name": "clave","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora_s","type": "STRING","mode": "NULLABLE"},
+{"name": "titulos","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "precio","type": "NUMERIC","mode": "NULLABLE"}
+
+]

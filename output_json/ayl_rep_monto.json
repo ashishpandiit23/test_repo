@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "num_id","type": "STRING","mode": "NULLABLE"},
+{"name": "tipord","type": "STRING","mode": "NULLABLE"},
+{"name": "cvemon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tipprod","type": "STRING","mode": "NULLABLE"},
+{"name": "nprofit","type": "INTEGER","mode": "NULLABLE"},
+{"name": "emision","type": "STRING","mode": "NULLABLE"},
+{"name": "fchvto","type": "DATE","mode": "NULLABLE"},
+{"name": "level_asset","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "btd_garantia","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_adj","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fchpip","type": "DATE","mode": "NULLABLE"},
+{"name": "preciosucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "preciolimpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "valornominal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "numtitu","type": "INTEGER","mode": "NULLABLE"},
+{"name": "monto_limpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "btd_garantia_limpio","type": "NUMERIC","mode": "NULLABLE"}
+
+]

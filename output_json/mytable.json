@@ -1,0 +1,5 @@
+[
+{"name": "id","type": "INTEGER","mode": "NULLABLE"},
+{"name": "observaciones","type": "STRING","mode": "NULLABLE"}
+
+]

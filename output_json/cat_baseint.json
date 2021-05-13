@@ -1,0 +1,8 @@
+[
+{"name": "base_int","type": "STRING","mode": "NULLABLE"},
+{"name": "revis_tasa","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasa","type": "STRING","mode": "NULLABLE"},
+{"name": "base","type": "STRING","mode": "NULLABLE"},
+{"name": "contador","type": "NUMERIC","mode": "NULLABLE"}
+
+]

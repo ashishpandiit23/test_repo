@@ -1,0 +1,15 @@
+[
+{"name": "asset","type": "STRING","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "am_id_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "balance","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "present_value","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "weekly","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monthtodate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "yeartodate","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avgterm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avgdiscnt","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ftp","type": "NUMERIC","mode": "NULLABLE"}
+
+]

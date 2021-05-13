@@ -1,0 +1,13 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "desk","type": "STRING","mode": "NULLABLE"},
+{"name": "trade","type": "STRING","mode": "NULLABLE"},
+{"name": "broker_name","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_id","type": "STRING","mode": "NULLABLE"},
+{"name": "trade_ccy","type": "STRING","mode": "NULLABLE"},
+{"name": "amount_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tradedate_txt","type": "STRING","mode": "NULLABLE"},
+{"name": "tradeDATE","type": "DATE","mode": "NULLABLE"}
+
+]

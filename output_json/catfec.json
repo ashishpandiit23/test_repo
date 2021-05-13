@@ -1,0 +1,10 @@
+[
+{"name": "cfecvefec","type": "INTEGER","mode": "REQUIRED"},
+{"name": "cfevalfec","type": "DATE","mode": "NULLABLE"},
+{"name": "cfedesfec","type": "STRING","mode": "NULLABLE"},
+{"name": "cfecodsta","type": "STRING","mode": "NULLABLE"},
+{"name": "cfefchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "cfehorreg","type": "STRING","mode": "NULLABLE"},
+{"name": "cfenomusu","type": "STRING","mode": "NULLABLE"}
+
+]

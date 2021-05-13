@@ -1,0 +1,9 @@
+[
+{"name": "id_bursatilidad","type": "INTEGER","mode": "REQUIRED"},
+{"name": "categoria","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "indice","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fecha","type": "DATE","mode": "NULLABLE"}
+
+]

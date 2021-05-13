@@ -1,0 +1,20 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "tipo_valor","type": "STRING","mode": "NULLABLE"},
+{"name": "emisora","type": "STRING","mode": "NULLABLE"},
+{"name": "serie","type": "STRING","mode": "NULLABLE"},
+{"name": "prc_limpio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "prc_sucio","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "nombre","type": "STRING","mode": "NULLABLE"},
+{"name": "sector","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_emision","type": "STRING","mode": "NULLABLE"},
+{"name": "fch_vto","type": "STRING","mode": "NULLABLE"},
+{"name": "moneda","type": "STRING","mode": "NULLABLE"},
+{"name": "suby","type": "STRING","mode": "NULLABLE"},
+{"name": "frec_cpn","type": "STRING","mode": "NULLABLE"},
+{"name": "regla_cpn","type": "STRING","mode": "NULLABLE"},
+{"name": "val_nom","type": "STRING","mode": "NULLABLE"},
+{"name": "dur_macaulay","type": "STRING","mode": "NULLABLE"},
+{"name": "fecha","type": "STRING","mode": "NULLABLE"}
+
+]

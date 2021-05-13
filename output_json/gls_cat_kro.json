@@ -1,0 +1,6 @@
+[
+{"name": "fidw_id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "portafolio","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"}
+
+]

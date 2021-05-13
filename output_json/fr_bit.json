@@ -1,0 +1,10 @@
+[
+{"name": "id","type": "INTEGER","mode": "REQUIRED"},
+{"name": "usuario","type": "STRING","mode": "NULLABLE"},
+{"name": "sistema","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo_mensaje","type": "STRING","mode": "NULLABLE"},
+{"name": "mensaje","type": "STRING","mode": "NULLABLE"},
+{"name": "fchreg","type": "DATE","mode": "NULLABLE"},
+{"name": "horreg","type": "DATEtime","mode": "NULLABLE"}
+
+]

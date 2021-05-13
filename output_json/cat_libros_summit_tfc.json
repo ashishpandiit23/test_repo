@@ -1,0 +1,5 @@
+[
+{"name": "book","type": "STRING","mode": "NULLABLE"},
+{"name": "cla_conta","type": "STRING","mode": "NULLABLE"}
+
+]

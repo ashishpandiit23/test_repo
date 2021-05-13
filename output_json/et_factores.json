@@ -1,0 +1,6 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "factor1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "factor2","type": "NUMERIC","mode": "NULLABLE"}
+
+]

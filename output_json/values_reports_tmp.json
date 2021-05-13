@@ -1,0 +1,7 @@
+[
+{"name": "id_report_name","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_id_field","type": "INTEGER","mode": "NULLABLE"},
+{"name": "am_amount","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id_user","type": "STRING","mode": "NULLABLE"}
+
+]

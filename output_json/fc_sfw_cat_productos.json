@@ -1,0 +1,12 @@
+[
+{"name": "legado","type": "STRING","mode": "NULLABLE"},
+{"name": "producto","type": "STRING","mode": "NULLABLE"},
+{"name": "prod_group","type": "STRING","mode": "NULLABLE"},
+{"name": "fxnon","type": "STRING","mode": "NULLABLE"},
+{"name": "mmk_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "future_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "deal_type","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "contraparte","type": "STRING","mode": "NULLABLE"}
+
+]

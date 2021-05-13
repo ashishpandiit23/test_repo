@@ -1,0 +1,13 @@
+[
+{"name": "id_com","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "dia","type": "INTEGER","mode": "NULLABLE"},
+{"name": "act","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "pas","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "minimo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mayor","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "maximo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "ajuste","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "total","type": "NUMERIC","mode": "NULLABLE"}
+
+]

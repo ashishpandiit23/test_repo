@@ -1,0 +1,22 @@
+[
+{"name": "cve_regla","type": "INTEGER","mode": "REQUIRED"},
+{"name": "id_app","type": "STRING","mode": "REQUIRED"},
+{"name": "reporte","type": "STRING","mode": "REQUIRED"},
+{"name": "producto","type": "STRING","mode": "REQUIRED"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "header_01","type": "STRING","mode": "NULLABLE"},
+{"name": "header_02","type": "STRING","mode": "NULLABLE"},
+{"name": "header_03","type": "STRING","mode": "NULLABLE"},
+{"name": "header_04","type": "STRING","mode": "NULLABLE"},
+{"name": "header_05","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_01","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_02","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_03","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_04","type": "STRING","mode": "NULLABLE"},
+{"name": "campo_05","type": "STRING","mode": "NULLABLE"},
+{"name": "criterio","type": "STRING","mode": "NULLABLE"},
+{"name": "agrupado","type": "STRING","mode": "NULLABLE"},
+{"name": "descripcion","type": "STRING","mode": "NULLABLE"},
+{"name": "ayuda","type": "STRING","mode": "NULLABLE"}
+
+]

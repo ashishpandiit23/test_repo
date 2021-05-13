@@ -1,0 +1,7 @@
+[
+{"name": "fchinf","type": "DATE","mode": "REQUIRED"},
+{"name": "idbucket","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tasa_pond","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "grupo","type": "INTEGER","mode": "NULLABLE"}
+
+]

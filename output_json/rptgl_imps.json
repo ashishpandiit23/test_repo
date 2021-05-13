@@ -1,0 +1,16 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "cuenta","type": "STRING","mode": "NULLABLE"},
+{"name": "id","type": "STRING","mode": "NULLABLE"},
+{"name": "grca","type": "STRING","mode": "NULLABLE"},
+{"name": "tabla","type": "STRING","mode": "NULLABLE"},
+{"name": "endperbal","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "actaccint","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "actspoam","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "apmtmamo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acnegmtmamam","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "acnoprinc","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "actbooval","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "actunaval","type": "NUMERIC","mode": "NULLABLE"}
+
+]

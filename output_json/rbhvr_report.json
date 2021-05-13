@@ -1,0 +1,15 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "idsubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "caract","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "caract_dev","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "venta","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "venta_dev","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "compra","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "compra_dev","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "mtm","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "amort","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "interes","type": "NUMERIC","mode": "NULLABLE"}
+
+]

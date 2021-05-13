@@ -1,0 +1,23 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "institucio","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tip_cred","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_mod","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_submod","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fondo","type": "INTEGER","mode": "NULLABLE"},
+{"name": "desc_mod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod_ant","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_prod_ant","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod_ant","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subprod_ant","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mes_ori","type": "INTEGER","mode": "NULLABLE"},
+{"name": "desc_tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "sub_tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_prod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "desc_subprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cve_mes","type": "INTEGER","mode": "NULLABLE"}
+
+]

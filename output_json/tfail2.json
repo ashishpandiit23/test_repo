@@ -1,0 +1,16 @@
+[
+{"name": "branch_number","type": "STRING","mode": "NULLABLE"},
+{"name": "dealing_number","type": "STRING","mode": "NULLABLE"},
+{"name": "countpty_acron","type": "STRING","mode": "NULLABLE"},
+{"name": "fxfain","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fxfnmn","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fxcrvl","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "deal_act_subtype","type": "STRING","mode": "NULLABLE"},
+{"name": "value_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "failed_DATE","type": "DATE","mode": "NULLABLE"},
+{"name": "secur_descr","type": "STRING","mode": "NULLABLE"},
+{"name": "failed_demo","type": "STRING","mode": "NULLABLE"},
+{"name": "fxcrvl_fxcpna","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "DATE_creation","type": "DATE","mode": "NULLABLE"}
+
+]

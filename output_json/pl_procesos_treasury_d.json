@@ -1,0 +1,11 @@
+[
+{"name": "id_proceso","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_legacy_d","type": "INTEGER","mode": "NULLABLE"},
+{"name": "tabla_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "procesar","type": "STRING","mode": "NULLABLE"},
+{"name": "fec_status","type": "DATE","mode": "NULLABLE"},
+{"name": "reprocesar","type": "STRING","mode": "NULLABLE"},
+{"name": "visible","type": "INTEGER","mode": "NULLABLE"},
+{"name": "parent","type": "INTEGER","mode": "NULLABLE"}
+
+]

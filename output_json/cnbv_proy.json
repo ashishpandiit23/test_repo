@@ -1,0 +1,26 @@
+[
+{"name": "fchinf","type": "DATE","mode": "NULLABLE"},
+{"name": "num_cte","type": "STRING","mode": "NULLABLE"},
+{"name": "num_credit","type": "STRING","mode": "NULLABLE"},
+{"name": "nom_client","type": "STRING","mode": "NULLABLE"},
+{"name": "st_usgaap","type": "INTEGER","mode": "NULLABLE"},
+{"name": "v_totalade","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "reservas_tot","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "fuente","type": "STRING","mode": "NULLABLE"},
+{"name": "clasif_cnbv","type": "STRING","mode": "NULLABLE"},
+{"name": "tenor_orig","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tenor_remanente","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "bnd_contingente","type": "STRING","mode": "NULLABLE"},
+{"name": "segmento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "cve_mon","type": "INTEGER","mode": "NULLABLE"},
+{"name": "fev_vto","type": "DATE","mode": "NULLABLE"},
+{"name": "fec_alta","type": "DATE","mode": "NULLABLE"},
+{"name": "tasa_cobr","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "tasaf","type": "STRING","mode": "NULLABLE"},
+{"name": "saldo_cred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cveprod","type": "STRING","mode": "NULLABLE"},
+{"name": "cvesubprod","type": "STRING","mode": "NULLABLE"},
+{"name": "tipo","type": "STRING","mode": "NULLABLE"},
+{"name": "subtipo","type": "STRING","mode": "NULLABLE"}
+
+]

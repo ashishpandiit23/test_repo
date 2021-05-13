@@ -1,0 +1,10 @@
+[
+{"name": "llave","type": "STRING","mode": "NULLABLE"},
+{"name": "grupo","type": "STRING","mode": "NULLABLE"},
+{"name": "cqs","type": "STRING","mode": "NULLABLE"},
+{"name": "mat","type": "STRING","mode": "NULLABLE"},
+{"name": "day_20","type": "STRING","mode": "NULLABLE"},
+{"name": "day_10","type": "STRING","mode": "NULLABLE"},
+{"name": "day_5","type": "STRING","mode": "NULLABLE"}
+
+]

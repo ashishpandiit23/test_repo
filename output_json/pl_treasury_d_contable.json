@@ -1,0 +1,20 @@
+[
+{"name": "fecha_proceso","type": "DATE","mode": "NULLABLE"},
+{"name": "numorden","type": "STRING","mode": "NULLABLE"},
+{"name": "id_cta_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_contable","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_producto_legacy","type": "INTEGER","mode": "NULLABLE"},
+{"name": "id_mapeo_dps_d","type": "INTEGER","mode": "NULLABLE"},
+{"name": "archivo_origen","type": "STRING","mode": "NULLABLE"},
+{"name": "monto","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_val","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "monto_acum","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "cve_mon","type": "STRING","mode": "NULLABLE"},
+{"name": "id_movimiento","type": "INTEGER","mode": "NULLABLE"},
+{"name": "referencia1","type": "STRING","mode": "NULLABLE"},
+{"name": "referencia2","type": "STRING","mode": "NULLABLE"},
+{"name": "id1","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "id2","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "referencia3","type": "STRING","mode": "NULLABLE"}
+
+]

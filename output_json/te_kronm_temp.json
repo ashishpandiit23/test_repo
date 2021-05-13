@@ -1,0 +1,6 @@
+[
+{"name": "nocred","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "avaluo","type": "NUMERIC","mode": "NULLABLE"},
+{"name": "saldo","type": "NUMERIC","mode": "NULLABLE"}
+
+]

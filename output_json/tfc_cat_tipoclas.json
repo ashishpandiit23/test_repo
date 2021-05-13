@@ -1,0 +1,5 @@
+[
+{"name": "cve_tipoclas","type": "INTEGER","mode": "REQUIRED"},
+{"name": "tipo_casificacion","type": "STRING","mode": "NULLABLE"}
+
+]
